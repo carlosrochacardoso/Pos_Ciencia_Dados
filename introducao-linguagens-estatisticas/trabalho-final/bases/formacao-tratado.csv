@@ -1,0 +1,221 @@
+perfil_id,date,duracao,desc_grau,grau,instituicao,area
+0,2016 – 2016,1.0,"Executive Education, Innovation & Entrepreneurship",4.0,Stanford University,Não informado
+0,2007 – 2010,4.0,Economics,3.0,UFMG - Universidade Federal de Minas Gerais,Gestão Empresarial
+1,2015 – 2015,1.0,Master of Business Administration (MBA),4.0,Centro Universitário Newton Paiva,Gestão Empresarial
+1,2009 – 2012,4.0,Bacharel em Design de Ambientes,3.0,Universidade do Estado de Minas Gerais,Design
+2,2016 – 2019,4.0,Bachelor’s Degree,3.0,UFMG - Universidade Federal de Minas Gerais,TI
+2,2013 – 2015,3.0,Technician,2.0,UFMG - Universidade Federal de Minas Gerais,TI
+3,2014 – 2019,6.0,Engenharia de Produção Civil,3.0,Centro Federal de Educação Tecnológica de Minas Gerais,Não informado
+4,2011 – 2016,6.0,Bachelor of Science (B.S.),3.0,UFMG - Universidade Federal de Minas Gerais,Engenharia
+4,2015 – 2015,1.0,Bachelor of Science (B.S.),3.0,California State University-Long Beach,Engenharia
+5,2011 – 2011,1.0,Pós Graduação em Gestão Estratégica de Negócios,4.0,Universidade FUMEC,Gestão Empresarial
+5,2006 – 2009,4.0,Bacharel em Publicidade e Propaganda,3.0,UNI-BH - Centro Universitário de Belo Horizonte,Comunicação e Marketing
+6,1992 – 1998,7.0,Master's Degree,4.0,UFMG - Universidade Federal de Minas Gerais,TI
+7,2016 – 2019,4.0,Cursando administração,1.0,FEAD,Gestão Empresarial
+8,2016 – 2016,1.0,Não informado,4.0,Stanford University,Gestão Empresarial
+8,2007 – 2009,3.0,Não informado,3.0,UFMG - Universidade Federal de Minas Gerais,Gestão Empresarial
+8,2007 – 2009,3.0,Não informado,3.0,Universidade FUMEC,Jurídico
+9,2013 – 2013,1.0,Master of Business Administration (MBA),4.0,UNI-BH - Centro Universitário de Belo Horizonte,Gestão Empresarial
+9,2008 – 2012,5.0,Bacharel,3.0,PUCMG - Pontifícia Universidade Católica de Minas Gerais,Gestão Empresarial
+10,2008 – 2018,11.0,Bacharelado em Engenharia,3.0,PUCMG - Pontifícia Universidade Católica de Minas Gerais,Engenharia
+10,2005 – 2007,3.0,Técnico,2.0,COTEMIG,TI
+11,2013 – 2017,5.0,Comunicação Social - Publicidade e Propaganda,3.0,UFMG - Universidade Federal de Minas Gerais,Comunicação e Marketing
+11,2002 – 2012,11.0,Ensino Médio,1.0,Colégio Santo Agostinho,Não informado
+12,2013 – 2018,6.0,Graduação em Engenharia,3.0,UFMG - Universidade Federal de Minas Gerais,Engenharia
+12,2002 – 2012,11.0,Não informado,1.0,CSA - Colégio Santo Antônio,Não informado
+13,2015 – 2019,5.0,Não informado,3.0,UFMG - Universidade Federal de Minas Gerais,Comunicação e Marketing
+14,2008 – 2014,7.0,Bachelor's Degree,3.0,UFMG - Universidade Federal de Minas Gerais,Engenharia
+14,2015 – 2015,1.0,Business Specialist,4.0,Business Training Company,Gestão Empresarial
+15,1990 – 1994,5.0,Administração em Comércio Exterior,3.0,Centro Universitário UNA,Gestão Empresarial
+15,1990 – 1994,5.0,Bacharelado em Administração,3.0,Centro Universitário UNA,Não informado
+16,2008 – 2013,6.0,Bacharel em Ciências Econômicas,3.0,Universidade Federal de Viçosa,Gestão Empresarial
+16,2013 – 2015,3.0,Master of Business Administration (MBA),4.0,FGV - Fundação Getúlio Vargas,Gestão Empresarial
+16,2011 – 2011,1.0,Bachelor's degree,3.0,University of West Florida,Gestão Empresarial
+17,2013 – 2017,5.0,Bachelor's Degree,3.0,Universidade do Estado de Minas Gerais,Design
+17,2014 – 2015,2.0,Study Abroad,4.0,University of Limerick,Design
+18,2017 – 2019,3.0,Master of Business Administration - MBA,4.0,Ibmec,Gestão Empresarial
+18,2013 – 2017,5.0,Bacharelado em Comunicação Social ênfase em Relações Públicas,3.0,UFMG - Universidade Federal de Minas Gerais,Comunicação e Marketing
+19,2014 – 2018,5.0,Não informado,3.0,UNI-BH - Centro Universitário de Belo Horizonte,Engenharia
+20,2015 – 2018,4.0,Ciências Econômicas,3.0,PUCMG - Pontifícia Universidade Católica de Minas Gerais,Não informado
+20,2001 – 2014,14.0,Ensino Primário ao Ensino Médio,1.0,Colégio Santo Agostinho,Não informado
+21,2014 – 2014,1.0,Loyola Intensive English Program - Summer 2014,2.0,Loyola University New Orleans,Não informado
+21,2008 – 2012,5.0,Bachelor's degree,3.0,Universidade FUMEC,Engenharia
+22,2015 – 2016,2.0,Master of Business Administration (MBA),4.0,UNI-BH - Centro Universitário de Belo Horizonte,Gestão Empresarial
+22,2011 – 2014,4.0,Bacharel - Publicidade e Propaganda,3.0,UNI-BH - Centro Universitário de Belo Horizonte,Comunicação e Marketing
+22,2003 – 2005,3.0,Ensino médio,1.0,Escola Estadual Presidente Tancredo Neves,Não informado
+23,2014 – 2019,6.0,Bacharelado em Engenharia,3.0,UFMG - Universidade Federal de Minas Gerais,Engenharia
+24,2013 – 2015,3.0,Mestrado,4.0,UFMG - Universidade Federal de Minas Gerais,TI
+24,2006 – 2011,6.0,Bacharelado,3.0,UFMG - Universidade Federal de Minas Gerais,TI
+24,2002 – 2004,3.0,Técnico,2.0,Centro Federal de Educação Tecnológica de Minas Gerais,TI
+25,2014 – 2019,6.0,Bacharelado,3.0,UFMG - Universidade Federal de Minas Gerais,Engenharia
+26,2014 – 2018,5.0,"Bacharelado em Comunicação Social, Publicidade e Propaganda",3.0,PUCMG - Pontifícia Universidade Católica de Minas Gerais,Não informado
+27,2014 – 2018,5.0,Bacharelado em Comunicação Social - Publicidade e Propaganda,3.0,UFMG - Universidade Federal de Minas Gerais,Comunicação e Marketing
+28,2012 – 2013,2.0,"Bacharel, jornalismo",3.0,UFMG - Universidade Federal de Minas Gerais,Comunicação e Marketing
+28,2010 – 2011,2.0,Bacharel,3.0,Universidade do Porto,Comunicação e Marketing
+28,2006 – 2011,6.0,Bachelor of Comunication,3.0,UFMG - Universidade Federal de Minas Gerais,Comunicação e Marketing
+29,2009 – 2011,3.0,Masters,4.0,UFAM - Universidade Federal do Amazonas,TI
+29,2001 – 2004,4.0,College,3.0,UFAM - Universidade Federal do Amazonas,TI
+29,2000 – 2000,1.0,Não informado,0.0,Colegio Militar de Manaus,Não informado
+30,2014 – 2020,7.0,Não informado,3.0,UFMG - Universidade Federal de Minas Gerais,Engenharia
+31,2008 – 2012,5.0,Bachelor,3.0,Universidade Federal de Juiz de Fora,TI
+31,2006 – 2008,3.0,Technical,2.0,"Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas",TI
+32,2009 – 2011,3.0,2011,3.0,Universidade Estácio de Sá,Gestão Empresarial
+33,2007 – 2008,2.0,Post-graduate,4.0,PUCMG - Pontifícia Universidade Católica de Minas Gerais,TI
+33,1994 – 1998,5.0,Bachelor,3.0,Escola de Engenharia Kennedy,Engenharia
+33,1991 – 1993,3.0,High School / Technical School,2.0,Colégio Brasileiro,TI
+34,2010 – 2013,4.0,Master of Science (MSc),4.0,Universidade Federal de Pernambuco,TI
+34,2004 – 2008,5.0,Bachelor of Science (B.Sc.),3.0,Universidade Federal de Pernambuco,Não informado
+34,,0.0,Não informado,0.0,andre guedes,Não informado
+35,2005 – 2009,5.0,Master,4.0,UFMG - Universidade Federal de Minas Gerais,TI
+35,2001 – 2004,4.0,Bachelor,3.0,UFMG - Universidade Federal de Minas Gerais,TI
+36,2014 – 2018,5.0,Bachelor of Industrial Engineering,3.0,UFMG - Universidade Federal de Minas Gerais,Não informado
+36,2016 – 2016,1.0,"Minor, International Financial Management",2.0,Hogeschool van Amsterdam,Gestão Empresarial
+36,2015 – 2016,2.0,"Minor, Business Process Integration Management",2.0,Hogeschool van Amsterdam,Gestão Empresarial
+37,2008 – 2012,5.0,Bacharel em Sistemas de Informação,3.0,COTEMIG,TI
+38,2011 – 2014,4.0,Graduação em Sistemas de Informação,3.0,Faculdade Católica Salesiana do Espírito Santo,TI
+39,2016 – 2017,2.0,Pós Graduação em Ciência de Dados e Big Data,4.0,PUCMG - Pontifícia Universidade Católica de Minas Gerais,TI
+39,2013,1.0,MBA em Consultoria Organizacional,4.0,Centro Universitário UNA,Gestão Empresarial
+39,2012,1.0,Especialista em Gastronomia (Cozinheiro profissional),2.0,IGA - Instituto gastronomico argentino,Turismo e Gastronomia
+40,2015 – 2016,2.0,Pós Graduação em Design de Interação,4.0,PUCMG - Pontifícia Universidade Católica de Minas Gerais,TI
+40,2009 – 2014,6.0,Bacharel,3.0,UFMG - Universidade Federal de Minas Gerais,TI
+41,2013 – 2017,5.0,Bacharelado em Administração,3.0,FGV - Fundação Getúlio Vargas,Gestão Empresarial
+41,2015 – 2015,1.0,Curso tecnico,2.0,Bridge Business College,Comunicação e Marketing
+42,2012 – 2016,5.0,Bachelor of Business Administration (B.B.A.),3.0,Centro Federal de Educação Tecnológica de Minas Gerais,Gestão Empresarial
+42,2009 – 2012,4.0,Turismo e Lazer,2.0,Centro Federal de Educação Tecnológica de Minas Gerais,Turismo e Gastronomia
+42,2017 – 2017,1.0,Especialização,4.0,PUCMG - Pontifícia Universidade Católica de Minas Gerais,Comunicação e Marketing
+43,2010 – 2014,5.0,Ciências Econômicas com Ênfase em Controladoria,3.0,UNIFAL - Universidade Federal de Alfenas,Gestão Empresarial
+43,2010 – 2014,5.0,Ciências Econômicas com Ênfase em Controladoria,3.0,UNIFAL - Universidade Federal de Alfenas,Não informado
+44,2006 – 2009,4.0,Technologist in,3.0,Faculdade Pitágoras,TI
+45,2015,1.0,Bacharelado em Sistemas de Informação,3.0,UFAM - Universidade Federal do Amazonas,Não informado
+45,2011 – 2013,3.0,Técnico em Informática,2.0,"IFAM - Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",TI
+46,2012 – 2017,6.0,Bachelor’s Degree,3.0,UFAM - Universidade Federal do Amazonas,TI
+46,2014 – 2015,2.0,Non-degree Student,1.0,Kent State University,TI
+46,2015,1.0,Interniship,4.0,The Catholic University of America,TI
+47,2011 – 2016,6.0,Psicologia,3.0,UFMG - Universidade Federal de Minas Gerais,Não informado
+47,1998 – 2009,12.0,Não informado,1.0,CSA - Colégio Santo Antônio,Não informado
+48,2007 – 2011,5.0,Psicóloga,3.0,Universidade Federal de Santa Catarina,RH
+48,2016 – 2017,2.0,Pós-graduação,4.0,UNINTER Centro Universitário Internacional,Jurídico
+48,2013 – 2015,3.0,Pós-Graduação,4.0,Escola Brasileira de Psicanálise,RH
+49,2008 – 2011,4.0,Especialista,4.0,PUCMG - Pontifícia Universidade Católica de Minas Gerais,TI
+49,2002 – 2005,4.0,Engenharia da Computação,3.0,Instituto de Estudos Superiores da Amazônia,Não informado
+50,2012 – 2013,2.0,Master of Business Administration (MBA),4.0,FGV - Fundação Getúlio Vargas,Comunicação e Marketing
+50,2006 – 2011,6.0,Administracao de Empresas,3.0,Universidade Federal Fluminense,Não informado
+51,2006 – 2010,5.0,bacharelado,3.0,UFMG - Universidade Federal de Minas Gerais,Gestão Empresarial
+51,,0.0,Não informado,0.0,Marista,Não informado
+52,2011 – 2015,5.0,Bachelor's degree,3.0,PUCMG - Pontifícia Universidade Católica de Minas Gerais,TI
+52,2006 – 2008,3.0,Técnico em Informática,2.0,COTEMIG,TI
+52,2006 – 2006,1.0,Não informado,0.0,ETFG,Não informado
+53,2013 – 2017,5.0,Comunicação Social - Publicidade e Propaganda,3.0,UFMG - Universidade Federal de Minas Gerais,Não informado
+54,2008 – 2011,4.0,Bachelor of Business Administration (BBA),3.0,Universidade Vale do Rio Doce,Não informado
+55,2014 – 2017,4.0,Bacharel em Publicidade,3.0,UFMG - Universidade Federal de Minas Gerais,Não informado
+55,1998 – 2012,15.0,Não informado,1.0,Colégio Piracicabano,Não informado
+56,2015 – 2018,4.0,Bacharelado,3.0,UFMG - Universidade Federal de Minas Gerais,Comunicação e Marketing
+56,2011 – 2013,3.0,Ensino Médio e Técnico em Eletrônica,2.0,Colégio Técnico Industrial - Prof. Isaac Portal Roldán,Não informado
+57,2012 – 2015,4.0,Tecnólogo em Analise e Desenvolvimento de Sistemas,3.0,COTEMIG,TI
+58,2016 – 2020,5.0,Psicologia,3.0,Centro Universitário Newton Paiva,Não informado
+58,2015 – 2016,2.0,Psicologia,3.0,Universidade Salgado de Oliveira,Não informado
+58,2012 – 2013,2.0,Help Desk,2.0,SENAC MG,Não informado
+59,2015 – 2019,5.0,Não informado,3.0,UFMG - Universidade Federal de Minas Gerais,Gestão Empresarial
+59,2002 – 2014,13.0,Não informado,1.0,Colégio Santo Agostinho,Não informado
+60,2007 – 2008,2.0,Graduate,3.0,PUCMG - Pontifícia Universidade Católica de Minas Gerais,TI
+60,2000 – 2005,6.0,Under Graduate,1.0,UFMG - Universidade Federal de Minas Gerais,Design
+61,2010 – 2016,7.0,Bachelor's Degree,3.0,UFMG - Universidade Federal de Minas Gerais,Engenharia
+61,2015 – 2016,2.0,Bachelor's Degree,3.0,University of Connecticut,Engenharia
+62,2015 – 2016,2.0,Marketing Estratégico,4.0,PUCMG - Pontifícia Universidade Católica de Minas Gerais,Não informado
+62,2011 – 2015,5.0,Publicidade e Propaganda,3.0,PUCMG - Pontifícia Universidade Católica de Minas Gerais,Não informado
+63,2017 – 2021,5.0,Sistemas de Informação,3.0,Universidade Estácio de Sá,TI
+63,2014 – 2014,1.0,International Business Management,2.0,Caldwell Community College and Technical Institute,Gestão Empresarial
+63,2013 – 2014,2.0,Pós em Engenharia de Sotware,4.0,ÚNICA - Escola de Negócios,TI
+64,2008 – 2012,5.0,Licenciatura em História,3.0,UFMG - Universidade Federal de Minas Gerais,História
+64,2013 – 2014,2.0,Pós Graduação,4.0,SENAC MG,RH
+65,2016 – 2017,2.0,People Management Specialization,4.0,PUCMG - Pontifícia Universidade Católica de Minas Gerais,RH
+65,2006 – 2011,6.0,Bachelor's degree,3.0,Universidade Federal de Juiz de Fora,TI
+66,2010 – 2011,2.0,Pós-Graduação,4.0,Universidade Cândido Mendes,Gestão Empresarial
+66,2005 – 2009,5.0,Graduação,3.0,UNI-BH - Centro Universitário de Belo Horizonte,Comunicação e Marketing
+67,2015 – 2016,2.0,Pós-Graduação em Comunicação Digital,4.0,PUCMG - Pontifícia Universidade Católica de Minas Gerais,Não informado
+67,2011 – 2014,4.0,Não informado,3.0,UNI-BH - Centro Universitário de Belo Horizonte,Comunicação e Marketing
+68,2008 – 2011,4.0,"Bachelor of Science (B.S.), Economics",3.0,FGV - Fundação Getúlio Vargas,Não informado
+68,2002 – 2007,6.0,Não informado,0.0,Loyola,Não informado
+69,2007 – 2010,4.0,Não informado,3.0,UNIP - Universidade Paulista,Comunicação e Marketing
+70,2015 – 2019,5.0,Bacharelado,3.0,Centro Universitário UNA,TI
+70,2013 – 2014,2.0,Tecnico,2.0,Polimig,Engenharia
+71,2015 – 2019,5.0,Não informado,3.0,UFMG - Universidade Federal de Minas Gerais,Não informado
+71,2015 – 2019,5.0,Não informado,3.0,UFMG - Universidade Federal de Minas Gerais,Comunicação e Marketing
+72,2004 – 2009,6.0,Bacharel em Propaganda e Marketing,3.0,Facamp,Comunicação e Marketing
+72,2009,1.0,Graduação em Filmmaking,3.0,Academia Internacional de Cinema,Comunicação e Marketing
+73,2013 – 2016,4.0,Bacharelado,3.0,UFAM - Universidade Federal do Amazonas,TI
+74,2006 – 2010,5.0,Bachelor of Business Administration (BBA),3.0,PUCSP - Pontifícia Universidade Católica de São Paulo,Gestão Empresarial
+74,,0.0,Não informado,0.0,Não Informado,Não informado
+75,2000 – 2003,4.0,Graduação,3.0,Universidade FUMEC,Gestão Empresarial
+75,2008 – 2008,1.0,MBA Latu Sensu,4.0,Faculdade Pitágoras,Gestão Empresarial
+76,2016 – 2017,2.0,Master of Business Administration (MBA),4.0,"Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais",Gestão Empresarial
+76,2013 – 2015,3.0,Graduação,3.0,Universidade Vale do Rio Verde,Gestão Empresarial
+77,2013 – 2015,3.0,Marketing,3.0,Universidade de Santo Amaro,Comunicação e Marketing
+77,2014 – 2014,1.0,Google AdWords Fundamentals,2.0,Gawa,Comunicação e Marketing
+77,2014 – 2014,1.0,Analise Google Analytics,2.0,Gawa,Comunicação e Marketing
+78,2004 – 2008,5.0,Bacharel,3.0,Universidade Presbiteriana Mackenzie,Comunicação e Marketing
+79,2011 – 2013,3.0,Master's degree,4.0,UFAM - Universidade Federal do Amazonas,TI
+79,2006 – 2010,5.0,B.S. in Computer Science,3.0,Instituto de Ensino Superior FUCAPI,TI
+80,2008 – 2013,6.0,Bacharel em Engenharia da Computação,3.0,UFAM - Universidade Federal do Amazonas,Não informado
+81,2012 – 2013,2.0,Specialization: Computation Statistics and Data Analysis,4.0,Universidade Federal de Juiz de Fora,Não informado
+81,2008 – 2013,6.0,Bachelor of Business Administration (B.B.A.),3.0,Universidade Federal de Juiz de Fora,Gestão Empresarial
+81,2010 – 2011,2.0,Bachelor of Business Administration (B.B.A.),3.0,Universidade da Beira Interior,Gestão Empresarial
+82,2013 – 2017,5.0,bacharelado em Sistemas de Informação,3.0,UFAM - Universidade Federal do Amazonas,TI
+82,2010 – 2013,4.0,Técnico de Nível médio integrado em informática,2.0,"IFAM - Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",TI
+83,2013 – 2016,4.0,Bacharelado em Ciência da Computação,3.0,UFAM - Universidade Federal do Amazonas,TI
+83,2010 – 2012,3.0,Ensino Médio Integrado ao Técnico,2.0,Fundação Nokia de Ensino,TI
+84,2008 – 2012,5.0,Engenheiro de Computação,3.0,UEA - Universidade do Estado do Amazonas,TI
+85,2014 – 2019,6.0,Engenharia da Computação,3.0,Instituto de Ensino Superior FUCAPI,Não informado
+86,2014 – 2016,3.0,Master in Informatics,4.0,UFAM - Universidade Federal do Amazonas,TI
+86,2008 – 2013,6.0,Technologist in Data Processing,3.0,UEA - Universidade do Estado do Amazonas,TI
+87,2011 – 2016,6.0,Bacharelado em Engenharia,3.0,UFAM - Universidade Federal do Amazonas,TI
+87,2014 – 2015,2.0,Não informado,4.0,University of Stuttgart,TI
+87,2014 – 2015,2.0,Interchange Student,4.0,University of Stuttgart,Não informado
+88,2013 – 2017,5.0,Não informado,3.0,UFAM - Universidade Federal do Amazonas,TI
+88,2010 – 2012,3.0,Técnico,2.0,Fundação Nokia de Ensino,TI
+89,2017 – 2019,3.0,Bacharelado em Engenharia,3.0,UFMG - Universidade Federal de Minas Gerais,Engenharia
+89,2011 – 2016,6.0,Bacharelado em Engenharia,3.0,UFMG - Universidade Federal de Minas Gerais,Engenharia
+90,2002 – 2007,6.0,Bacharel em Sistemas de Informação,3.0,PUCMG - Pontifícia Universidade Católica de Minas Gerais,Não informado
+90,1997 – 1999,3.0,Técnico em processamento de dados.,2.0,Colégio Brasileiro,TI
+90,2012,1.0,"Engenharia e Administração de Banco de Dados, Especialização",4.0,UNICAMP - Universidade Estadual de Campinas,Não informado
+91,2014 – 2014,1.0,Pós-Graduado,4.0,UNI-BH - Centro Universitário de Belo Horizonte,Comunicação e Marketing
+91,2009 – 2013,5.0,Bacharel em Comunicação Social Integrada,3.0,PUCMG - Pontifícia Universidade Católica de Minas Gerais,Comunicação e Marketing
+92,2011 – 2015,5.0,Comunicação Social - Publicidade e Propaganda,3.0,PUCMG - Pontifícia Universidade Católica de Minas Gerais,Comunicação e Marketing
+93,,0.0,Processos Gerenciais,4.0,Universidade Estácio de Sá,Gestão Empresarial
+93,,0.0,Ciência da Computação,3.0,UNIFAL - Universidade Federal de Alfenas,TI
+94,2013 – 2014,2.0,Gestão de vendas e Negociação,4.0,FIA - Fundação Instituto de Administração,Não informado
+94,2006 – 2010,5.0,Bachelor of Business Administration (BBA),3.0,PUCSP - Pontifícia Universidade Católica de São Paulo,Gestão Empresarial
+94,2012 – 2012,1.0,Não informado,4.0,Ecommerce School,Comunicação e Marketing
+95,2009 – 2014,6.0,Bachelor's degree,3.0,UFMG - Universidade Federal de Minas Gerais,Engenharia
+95,2011 – 2012,2.0,Bachelor's degree,3.0,Universidade do Porto,Engenharia
+95,2006 – 2008,3.0,High School,1.0,CSA - Colégio Santo Antônio,Outros
+96,2008 – 2011,4.0,Bachelor,3.0,PUCSP - Pontifícia Universidade Católica de São Paulo,Gestão Empresarial
+96,2003 – 2008,6.0,Bachelor,3.0,PUCSP - Pontifícia Universidade Católica de São Paulo,Engenharia
+96,,0.0,Não informado,0.0,Lourenço Castanho,Não informado
+97,2017 – 2017,1.0,Marketing Digital,4.0,Udacity Brasil,Comunicação e Marketing
+97,2013 – 2015,3.0,Comercio exterior,3.0,Universidade do Grande ABC,Gestão Empresarial
+97,2005 – 2009,5.0,Bacharel,3.0,Centro Universitário da Grande Dourados,Comunicação e Marketing
+98,2013 – 2017,5.0,Não informado,3.0,Centro Federal de Educação Tecnológica de Minas Gerais,Engenharia
+98,2015,1.0,Master en ingénierie,4.0,Université catholique de Louvain,Engenharia
+99,2006 – 2008,3.0,MBA,4.0,Cedepe Business School,Gestão Empresarial
+99,2002 – 2003,2.0,Pós-Graduação,4.0,Esurp - Escola Superior de Relações Públicas,Comunicação e Marketing
+99,1997 – 2001,5.0,Graduação em Comunicação Social,3.0,Esurp - Escola Superior de Relações Públicas,Comunicação e Marketing
+100,2016 – 2017,2.0,MBA EM COMUNICAÇÃO E MARKETING,4.0,Universidade Cruzeiro do Sul,Comunicação e Marketing
+100,2006 – 2008,3.0,Analise e Desenvolvimento de Sistemas,3.0,Universidade Cruzeiro do Sul,TI
+101,2018,1.0,Psicologia,3.0,UNIP - Universidade Paulista,Não informado
+101,,0.0,Não informado,0.0,UNIP - Universidade Paulista,Não informado
+102,2009 – 2012,4.0,Bacharelado em Administração de Empresas,3.0,Anhanguera Educacional,Gestão Empresarial
+103,2011 – 2014,4.0,Bacharel em Administração de Empresas,3.0,Universidade Católica de Brasília,Não informado
+103,2015 – 2016,2.0,Pós Graduação,4.0,UNICEUB - Brasília,Comunicação e Marketing
+104,2016 – 2017,2.0,Master’s Degree,4.0,Nova School of Business and Economics,Comunicação e Marketing
+104,2015 – 2016,2.0,Master’s Degree,4.0,Insper,Comunicação e Marketing
+104,2006 – 2011,6.0,Bachelor of Engineering (B.E.),3.0,Universidade Presbiteriana Mackenzie,Engenharia
+105,2006 – 2010,5.0,Bacherelando,3.0,Instituto de Ensino Superior FUCAPI,TI
+106,2015 – 2017,3.0,Gestão Comercial,3.0,Universidade Anhembi Morumbi,Gestão Empresarial
+107,2016 – 2020,5.0,Não informado,3.0,Centro Universitário Nove de Julho,Gestão Empresarial
+108,1991 – 2000,10.0,Graduação,3.0,Faculdade de direito UFPR,Jurídico
+109,2011 – 2012,2.0,Marketing Digital e Publicidade On Line,4.0,Marketing Digital- Claudio Torres,Comunicação e Marketing
+109,2009 – 2011,3.0,Analista de Sistemas,3.0,FTEC,TI
+109,1999 – 2006,8.0,Bacharel,3.0,PUCRS - Pontifícia Universidade Católica do Rio Grande do Sul,Comunicação e Marketing
+110,2014 – 2018,5.0,Não informado,3.0,UFAM - Universidade Federal do Amazonas,TI
+110,2012 – 2014,3.0,Técnico em Informática,2.0,"IFAM - Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",Não informado

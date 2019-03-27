@@ -1,0 +1,2171 @@
+,perfil_id,categoria,nome,endosso
+0,0,BI,BUSINESS INTELLIGENCE,44
+1,0,BI,GOOGLE ANALYTICS,37
+2,0,Comunicação,PUBLIC SPEAKING,31
+3,0,Ferramentas de Design,ADOBE FIREWORKS,22
+4,0,Gestão Financeira,FINANCE,37
+5,0,Gestão Financeira,STOCK MARKET ANALYSIS,28
+6,0,Gestão Financeira,TRADE FINANCE,31
+7,0,Gestão de Empresas,BUSINESS STRATEGY,71
+8,0,Gestão de Empresas,DESENVOLVIMENTO DE NOVOS NEGOCIOS,37
+9,0,Gestão de Empresas,EMPREENDEDORISMO,100
+10,0,Gestão de Empresas,EMPRESAS STARTUPS,100
+11,0,Gestão de Empresas,ENTREPRENEURSHIP,73
+12,0,Gestão de Empresas,ESTRATEGIA EMPRESARIAL,72
+13,0,Gestão de Empresas,GESTAO,22
+14,0,Gestão de Empresas,NEW BUSINESS DEVELOPMENT,75
+15,0,Gestão de Empresas,PLANEJAMENTO ESTRATEGICO,22
+16,0,Gestão de Empresas,START-UPS,97
+17,0,Gestão de Empresas,STARTUP DEVELOPMENT,67
+18,0,Marketing e Vendas,AFFILIATE MARKETING,67
+19,0,Marketing e Vendas,AFFILIATE NETWORKS,40
+20,0,Marketing e Vendas,COMERCIO ELETRONICO,68
+21,0,Marketing e Vendas,ESTRATEGIAS DE MARKETING,31
+22,0,Marketing e Vendas,MARKETING,25
+23,0,Marketing e Vendas,MARKETING AFILIADO,49
+24,0,Marketing e Vendas,MARKETING DIGITAL,36
+25,0,Marketing e Vendas,MARKETING ONLINE,34
+26,0,Marketing e Vendas,ONLINE ADVERTISING,64
+27,0,Marketing e Vendas,ONLINE LEAD GENERATION,42
+28,0,Marketing e Vendas,PUBLICIDADE ONLINE,65
+29,0,Marketing e Vendas,SEO,36
+30,0,Marketing e Vendas,SEO (OTIMIZACAO DE MOTORES DE BUSCA),25
+31,0,Outros,GROWTH HACKING,28
+32,0,Plataformas de Desenvolvimento,GOOGLE WEBMASTER TOOLS,24
+33,1,Artes e Design,DESIGN DE INTERIORES,10
+34,1,Artes e Design,INTERIOR DESIGN,8
+35,1,Artes e Design,INTERIOR LIGHTING,1
+36,1,Gestão de Empresas,BUSINESS INNOVATION,8
+37,1,Gestão de Empresas,BUSINESS PLANNING,6
+38,1,Gestão de Empresas,DESENVOLVIMENTO DE PRODUTOS,0
+39,1,Gestão de Empresas,EMPREENDEDORISMO,18
+40,1,Gestão de Empresas,EMPRESAS STARTUPS,15
+41,1,Gestão de Empresas,ENTREPRENEURSHIP,4
+42,1,Gestão de Empresas,ESTRATEGIA EMPRESARIAL,21
+43,1,Gestão de Empresas,GESTAO,36
+44,1,Gestão de Empresas,MANAGEMENT,6
+45,1,Gestão de Empresas,PLANEJAMENTO EMPRESARIAL,10
+46,1,Gestão de Empresas,PLANEJAMENTO ESTRATEGICO,45
+47,1,Gestão de Empresas,START-UPS,10
+48,1,Gestão de Empresas,STRATEGIC PLANNING,12
+49,1,Gestão de Pessoas,LIDERANCA DE EQUIPE,24
+50,1,Gestão de Pessoas,TEAM LEADERSHIP,3
+51,1,Gestão de Projetos,GESTAO DE PROJETOS,34
+52,1,Gestão de Projetos,PLANEJAMENTO DE PROJETOS,4
+53,1,Gestão de Projetos,PROJECT PLANNING,2
+54,1,Habilidades Pessoais,INNOVATION,11
+55,1,Habilidades Pessoais,PESQUISA,4
+56,1,Habilidades Pessoais,RESEARCH,2
+57,1,Marketing e Vendas,ESTRATEGIAS DE MARKETING,4
+58,1,Marketing e Vendas,MARKETING STRATEGY,4
+59,1,Sistemas Operacionais,OPERATING SYSTEMS,4
+60,1,Sistemas Operacionais,SISTEMAS OPERACIONAIS,8
+61,2,BI,GOOGLE ANALYTICS,2
+62,2,Banco de Dados,DATABASES,1
+63,2,Banco de Dados,MONGODB,2
+64,2,Banco de Dados,MYSQL,3
+65,2,Banco de Dados,SQL,2
+66,2,Desenvolvimento de Front-end,MATERIAL DESIGN,3
+67,2,Desenvolvimento de Front-end,RESPONSIVE WEB DESIGN,3
+68,2,Desenvolvimento de Front-end,USER EXPERIENCE,2
+69,2,Desenvolvimento de Sistemas,OOP,2
+70,2,Desenvolvimento de Sistemas,SOFTWARE DEVELOPMENT,2
+71,2,Desenvolvimento de Sistemas,UML,2
+72,2,Desenvolvimento de Sistemas,WEB DEVELOPMENT,5
+73,2,Gestão de Projetos,SCRUM,2
+74,2,Infraestrutura de TI,AWS,0
+75,2,Linguagem de Programação,ALGORITHMS,2
+76,2,Linguagem de Programação,CSS,6
+77,2,Linguagem de Programação,HTML,3
+78,2,Linguagem de Programação,HTML5,7
+79,2,Linguagem de Programação,JAVASCRIPT,8
+80,2,Linguagem de Programação,JQUERY,5
+81,2,Linguagem de Programação,PHP,5
+82,2,Marketing e Vendas,SASS,6
+83,2,Marketing e Vendas,SEO,2
+84,2,Mobile,PHONEGAP,1
+85,2,Outros,HANDLEBARS.JS,0
+86,2,Outros,KARMA,0
+87,2,Outros,MUSTACHE,0
+88,2,Outros,REDUX,1
+89,2,Outros,REQUIREJS,2
+90,2,Outros,SOCKET.IO,2
+91,2,Outros,TYPESCRIPT,1
+92,2,Plataformas de Desenvolvimento,AMP,2
+93,2,Plataformas de Desenvolvimento,ANGULAR,1
+94,2,Plataformas de Desenvolvimento,ANGULARJS,6
+95,2,Plataformas de Desenvolvimento,APACHE CORDOVA,1
+96,2,Plataformas de Desenvolvimento,BOOTSTRAP,4
+97,2,Plataformas de Desenvolvimento,GRUNTJS,2
+98,2,Plataformas de Desenvolvimento,GULP.JS,2
+99,2,Plataformas de Desenvolvimento,IONIC FRAMEWORK,1
+100,2,Plataformas de Desenvolvimento,JASMINE FRAMEWORK,2
+101,2,Plataformas de Desenvolvimento,NODE.JS,2
+102,2,Plataformas de Desenvolvimento,REACT.JS,1
+103,2,Plataformas de Desenvolvimento,WORDPRESS,2
+104,2,Qualidade de Software,GIT,3
+105,2,Qualidade de Software,SUBVERSION,2
+106,2,Qualidade de Software,TESTING,2
+107,2,Sistemas Operacionais,LINUX,2
+108,3,Atendimento,ATENDIMENTO AO CLIENTE,2
+109,3,Banco de Dados,SQL,3
+110,3,Engenharia,ENGENHARIA,2
+111,3,Ferramentas de Engenharia,AUTOCAD,1
+112,3,Gestão de Empresas,EMPREENDEDORISMO,1
+113,3,Gestão de Empresas,PLANEJAMENTO ESTRATEGICO,1
+114,3,Informática,MICROSOFT OFFICE,1
+115,3,Marketing e Vendas,MARKETING DIGITAL,1
+116,3,Marketing e Vendas,NET PROMOTER SCORE,2
+117,4,Ciência de Dados,SCILAB,1
+118,4,Comunicação,PUBLIC SPEAKING,12
+119,4,Comunicação,SOCIAL MEDIA,9
+120,4,Gestão de Empresas,MANAGEMENT,8
+121,4,Gestão de Empresas,STRATEGIC PLANNING,11
+122,4,Gestão de Pessoas,LEADERSHIP,8
+123,4,Gestão de Projetos,PROJECT MANAGEMENT,11
+124,4,Idiomas,ENGLISH,13
+125,4,Informática,MICROSOFT OFFICE,13
+126,4,Informática,MICROSOFT WORD,9
+127,4,Informática,POWERPOINT,8
+128,5,Atendimento,ATENDIMENTO AO CLIENTE,9
+129,5,Gestão Financeira,ANALISE FINANCEIRA,9
+130,5,Gestão Financeira,MERCADO DE CREDITO,3
+131,5,Gestão Financeira,SERVICOS BANCARIOS,8
+132,5,Gestão de Empresas,BUSINESS STRATEGY,10
+133,5,Gestão de Empresas,ESTRATEGIA EMPRESARIAL,9
+134,5,Gestão de Empresas,GESTAO,2
+135,5,Gestão de Empresas,GESTAO COMERCIAL,0
+136,5,Gestão de Empresas,GESTAO DE CARTEIRAS,5
+137,5,Gestão de Empresas,PLANEJAMENTO EMPRESARIAL,7
+138,5,Gestão de Empresas,PLANEJAMENTO ESTRATEGICO,7
+139,5,Gestão de Empresas,STRATEGIC PLANNING,6
+140,5,Gestão de Pessoas,LIDERANCA,5
+141,5,Gestão de Pessoas,LIDERANCA DE EQUIPE,5
+142,5,Gestão de Projetos,GESTAO DE PROJETOS,3
+143,5,Gestão de Projetos,GESTAO DE RISCOS,8
+144,5,Gestão de Projetos,PROJECT MANAGEMENT,6
+145,5,Habilidades Pessoais,NEGOCIACAO,3
+146,5,Informática,MICROSOFT EXCEL,2
+147,5,Informática,MICROSOFT OFFICE,7
+148,5,Marketing e Vendas,COMERCIO ELETRONICO,0
+149,5,Marketing e Vendas,ESTRATEGIAS DE MARKETING,4
+150,5,Marketing e Vendas,EXPERIENCIA EM MARKETING DIGITAL,0
+151,5,Marketing e Vendas,MARKETING,5
+152,5,Marketing e Vendas,MARKETING AFILIADO,0
+153,5,Marketing e Vendas,MARKETING DIGITAL,4
+154,5,Marketing e Vendas,MARKETING ONLINE,0
+155,5,Marketing e Vendas,REDES AFILIADAS,0
+156,5,Marketing e Vendas,WEBTRENDS ANALYTICS,0
+157,6,Atendimento,CUSTOMER SERVICE,1
+158,6,Ciência de Dados,MAPREDUCE,11
+159,6,Desenvolvimento de Sistemas,COMPUTER SCIENCE,1
+160,6,Desenvolvimento de Sistemas,DISTRIBUTED SYSTEMS,10
+161,6,Desenvolvimento de Sistemas,SOFTWARE DESIGN,2
+162,6,Desenvolvimento de Sistemas,SOFTWARE DEVELOPMENT,18
+163,6,Desenvolvimento de Sistemas,SOFTWARE ENGINEERING,23
+164,6,Engenharia de Dados,INFORMATION RETRIEVAL,0
+165,6,Gestão de Projetos,SCRUM,3
+166,6,Informática,MICROSOFT EXCEL,1
+167,6,Informática,MICROSOFT OFFICE,2
+168,6,Informática,MICROSOFT WORD,1
+169,6,Informática,POWERPOINT,1
+170,6,Infraestrutura de TI,SCALABILITY,1
+171,6,Linguagem de Programação,ALGORITHMS,9
+172,6,Linguagem de Programação,C,3
+173,6,Linguagem de Programação,C++,10
+174,6,Linguagem de Programação,JAVA,8
+175,6,Linguagem de Programação,PYTHON,8
+176,6,Qualidade de Software,GIT,3
+177,6,Qualidade de Software,SUBVERSION,1
+178,6,Sistemas Operacionais,LINUX,7
+179,6,Sistemas Operacionais,UNIX,2
+180,7,Comunicação,ORATORIA,0
+181,7,Informática,MICROSOFT EXCEL,0
+182,7,Informática,MICROSOFT OFFICE,0
+183,7,Informática,MICROSOFT POWERPOINT,0
+184,7,Informática,MICROSOFT WORD,0
+185,8,BI,BUSINESS INTELLIGENCE,22
+186,8,Gestão Financeira,ANALISE FINANCEIRA,12
+187,8,Gestão Financeira,ANGEL INVESTING,20
+188,8,Gestão Financeira,CAPITAL DE RISCO,10
+189,8,Gestão Financeira,FINANCIAL ANALYSIS,19
+190,8,Gestão Financeira,STOCK EXCHANGE,12
+191,8,Gestão Financeira,STOCK MARKET ANALYSIS,13
+192,8,Gestão Financeira,TRADE FINANCE,15
+193,8,Gestão de Empresas,BRAZILIAN LAWS,15
+194,8,Gestão de Empresas,BUSINESS DEVELOPMENT,9
+195,8,Gestão de Empresas,BUSINESS PLANNING,41
+196,8,Gestão de Empresas,BUSINESS STRATEGY,57
+197,8,Gestão de Empresas,BUSINESS VALUATION,16
+198,8,Gestão de Empresas,DESENVOLVIMENTO DE NOVOS NEGOCIOS,17
+199,8,Gestão de Empresas,EMPREENDEDORISMO,73
+200,8,Gestão de Empresas,EMPRESAS STARTUPS,28
+201,8,Gestão de Empresas,ENTREPRENEURSHIP,23
+202,8,Gestão de Empresas,ESTRATEGIA,15
+203,8,Gestão de Empresas,ESTRATEGIA EMPRESARIAL,80
+204,8,Gestão de Empresas,FUSOES E AQUISICOES,14
+205,8,Gestão de Empresas,MERGERS,8
+206,8,Gestão de Empresas,MERGERS & ACQUISITIONS,9
+207,8,Gestão de Empresas,NEW BUSINESS DEVELOPMENT,41
+208,8,Gestão de Empresas,PLANEJAMENTO EMPRESARIAL,22
+209,8,Gestão de Empresas,PLANEJAMENTO ESTRATEGICO,17
+210,8,Gestão de Empresas,START-UPS,22
+211,8,Gestão de Empresas,STARTUP DEVELOPMENT,16
+212,8,Gestão de Empresas,STRATEGIC PLANNING,11
+213,8,Habilidades Pessoais,INNOVATION,12
+214,8,Marketing e Vendas,AFFILIATE MARKETING,27
+215,8,Marketing e Vendas,AFFILIATE NETWORKS,25
+216,8,Marketing e Vendas,COMERCIO ELETRONICO,52
+217,8,Marketing e Vendas,COMMERCE,18
+218,8,Marketing e Vendas,DIGITAL MARKETING,12
+219,8,Marketing e Vendas,E-COMMERCE,50
+220,8,Marketing e Vendas,ESTRATEGIAS DE MARKETING,35
+221,8,Marketing e Vendas,MARKETING DIGITAL,14
+222,8,Marketing e Vendas,MARKETING ONLINE,13
+223,8,Marketing e Vendas,MARKETING STRATEGY,39
+224,8,Marketing e Vendas,ONLINE ADVERTISING,38
+225,8,Marketing e Vendas,ONLINE LEAD GENERATION,25
+226,8,Marketing e Vendas,ONLINE MARKETING,12
+227,8,Marketing e Vendas,PUBLICIDADE ONLINE,47
+228,8,Marketing e Vendas,SEO,14
+229,8,Marketing e Vendas,SEO (OTIMIZACAO DE MOTORES DE BUSCA),16
+230,8,Marketing e Vendas,STARTUP MARKETING,16
+231,8,Outros,INTERNET ENTREPRENEUR,12
+232,8,Outros,M&A EXPERIENCE,12
+233,8,Outros,START-UP ENVIRONMENT,17
+234,8,Outros,VENTURE CAPITAL,8
+235,9,Artes e Design,EDICAO DE AUDIO,0
+236,9,Artes e Design,EDICAO DE IMAGENS,1
+237,9,Artes e Design,EDICAO DE VIDEO,0
+238,9,Artes e Design,IMPLEMENTACAO DE PIXEL,6
+239,9,Artes e Design,TALENTO VOCAL,0
+240,9,Atendimento,ATENDIMENTO AO CLIENTE,7
+241,9,Atendimento,CUSTOMER SERVICE,1
+242,9,Atendimento,GESTAO DE CONTAS,21
+243,9,Atendimento,SATISFACAO DO CLIENTE,1
+244,9,BI,GOOGLE ANALYTICS,17
+245,9,Banco de Dados,BANCO DE DADOS,5
+246,9,Ciência de Dados,ANALISE DE DADOS,17
+247,9,Comunicação,MIDIAS SOCIAIS,20
+248,9,Comunicação,REVISAO DE TEXTO,4
+249,9,Comunicação,SOCIAL MEDIA,6
+250,9,Gestão Financeira,INVESTIMENTOS,4
+251,9,Gestão de Empresas,BUSINESS DEVELOPMENT,2
+252,9,Gestão de Empresas,DESENVOLVIMENTO DE NOVOS NEGOCIOS,6
+253,9,Gestão de Empresas,GESTAO,14
+254,9,Gestão de Empresas,MANAGEMENT,4
+255,9,Gestão de Empresas,NEGOCIACAO DE CONTRATOS,8
+256,9,Gestão de Empresas,NEW BUSINESS DEVELOPMENT,1
+257,9,Gestão de Empresas,PLANEJAMENTO ESTRATEGICO,3
+258,9,Gestão de Empresas,STRATEGIC PLANNING,3
+259,9,Gestão de Pessoas,GESTAO DE PESSOAL,0
+260,9,Gestão de Projetos,ANALISE DE RISCOS,2
+261,9,Habilidades Pessoais,RESOLUCAO DE PROBLEMAS,9
+262,9,Habilidades Pessoais,SOLUCOES CRIATIVAS,6
+263,9,Informática,MICROSOFT EXCEL,13
+264,9,Informática,MICROSOFT POWERPOINT,1
+265,9,Informática,MICROSOFT WORD,11
+266,9,Marketing e Vendas,AFILIACAO,7
+267,9,Marketing e Vendas,COMERCIO ELETRONICO,23
+268,9,Marketing e Vendas,COMUNICACOES DE MARKETING,9
+269,9,Marketing e Vendas,DIGITAL MARKETING,2
+270,9,Marketing e Vendas,E-COMMERCE,1
+271,9,Marketing e Vendas,E-COMMERCE SEO,13
+272,9,Marketing e Vendas,ESTRATEGIAS DE MARKETING,4
+273,9,Marketing e Vendas,MARKETING,4
+274,9,Marketing e Vendas,MARKETING AFILIADO,16
+275,9,Marketing e Vendas,MARKETING DIGITAL,3
+276,9,Marketing e Vendas,MARKETING ONLINE,18
+277,9,Marketing e Vendas,MARKETING POR E-MAIL,15
+278,9,Marketing e Vendas,MARKETING SOCIAL,15
+279,9,Marketing e Vendas,MARKETING STRATEGY,4
+280,9,Marketing e Vendas,SOCIAL MEDIA MARKETING,1
+281,9,Outros,SEGUROS,0
+282,10,Banco de Dados,MYSQL,3
+283,10,Gestão de Empresas,BUSINESS DEVELOPMENT,5
+284,10,Gestão de Empresas,DESENVOLVIMENTO EMPRESARIAL,1
+285,10,Gestão de Empresas,ESTRATEGIA EMPRESARIAL,1
+286,10,Gestão de Empresas,GESTAO,8
+287,10,Gestão de Empresas,GESTAO LEAN,5
+288,10,Gestão de Empresas,MANAGEMENT,8
+289,10,Gestão de Empresas,MELHORIA DE PROCESSOS,6
+290,10,Gestão de Empresas,MELHORIA DE PROCESSOS EMPRESARIAIS,9
+291,10,Gestão de Empresas,PLANEJAMENTO ESTRATEGICO,1
+292,10,Idiomas,INGLES,9
+293,10,Linguagem de Programação,JAVASCRIPT,6
+294,10,Linguagem de Programação,PHP,2
+295,10,Marketing e Vendas,E-COMMERCE SEO,7
+296,10,Marketing e Vendas,MARKETING DIGITAL,10
+297,10,Outros,FERRAMENTAS LEAN,3
+298,10,Outros,PENSAMENTO LEAN,3
+299,10,Outros,SEIS SIGMA,8
+300,11,Comunicação,MIDIAS SOCIAIS,25
+301,11,Comunicação,RELACOES PUBLICAS,20
+302,11,Gestão de Empresas,DIGITAL STRATEGY,1
+303,11,Gestão de Empresas,ESTRATEGIA DIGITAL,9
+304,11,Gestão de Empresas,MELHORIA DE PROCESSOS,3
+305,11,Gestão de Empresas,PLANEJAMENTO ESTRATEGICO,4
+306,11,Gestão de Pessoas,LIDERANCA,5
+307,11,Informática,MICROSOFT EXCEL,8
+308,11,Marketing e Vendas,AFFILIATION,9
+309,11,Marketing e Vendas,BRAND DEVELOPMENT,3
+310,11,Marketing e Vendas,E-COMMERCE SEO,5
+311,11,Marketing e Vendas,ESTRATEGIAS DE MARKETING,29
+312,11,Marketing e Vendas,MARKETING,24
+313,11,Marketing e Vendas,MARKETING COMMUNICATIONS,15
+314,11,Marketing e Vendas,MARKETING DIGITAL,13
+315,11,Marketing e Vendas,MARKETING DIRETO,4
+316,11,Marketing e Vendas,MARKETING POR E-MAIL,6
+317,11,Marketing e Vendas,MARKETING STRATEGY,8
+318,11,Marketing e Vendas,PUBLICIDADE,28
+319,11,Marketing e Vendas,PUBLICIDADE ONLINE,12
+320,12,Banco de Dados,SQL,1
+321,12,Engenharia,ENGENHARIA DE PRODUCAO,8
+322,12,Gestão de Empresas,GERENCIAMENTO DE PROCESSOS,3
+323,12,Gestão de Empresas,GESTAO EMPRESARIAL,8
+324,12,Gestão de Empresas,GESTAO POR INDICADORES,5
+325,12,Gestão de Projetos,GESTAO DE PROJETOS,17
+326,12,Idiomas,INGLES,9
+327,12,Informática,MICROSOFT EXCEL,9
+328,12,Marketing e Vendas,E-COMMERCE GLOBAL,1
+329,12,Marketing e Vendas,SALES TRACKING,1
+330,13,Atendimento,ATENDIMENTO AO CLIENTE,10
+331,13,Comunicação,ORATORIA,4
+332,13,Gestão de Empresas,GESTAO,6
+333,13,Gestão de Pessoas,LIDERANCA,8
+334,13,Gestão de Projetos,GESTAO DE PROJETOS,1
+335,13,Marketing e Vendas,MARKETING,13
+336,13,Marketing e Vendas,PUBLICIDADE,7
+337,13,Outros,PLANEJAMENTO DE EVENTOS,5
+338,14,Engenharia,ENGINEERING,4
+339,14,Gestão de Empresas,BUSINESS PLANNING,3
+340,14,Gestão de Empresas,MANAGEMENT,4
+341,14,Gestão de Pessoas,TEAM LEADERSHIP,5
+342,14,Gestão de Projetos,PROJECT MANAGEMENT,1
+343,14,Habilidades Pessoais,NEGOTIATION,6
+344,14,Idiomas,ENGLISH,7
+345,14,Marketing e Vendas,MARKETING STRATEGY,4
+346,16,Gestão de Empresas,BUSINESS PLANNING,3
+347,16,Gestão de Empresas,BUSINESS STRATEGY,1
+348,16,Gestão de Empresas,PDCA,0
+349,16,Gestão de Empresas,STRATEGIC PLANNING,1
+350,16,Gestão de Pessoas,TEAM LEADERSHIP,3
+351,16,Habilidades Pessoais,NEGOTIATION,4
+352,16,Idiomas,ENGLISH,6
+353,16,Idiomas,PORTUGUESE,3
+354,16,Idiomas,SPANISH,0
+355,16,Informática,MICROSOFT EXCEL,6
+356,16,Informática,MICROSOFT OFFICE,4
+357,16,Informática,MICROSOFT POWERPOINT,0
+358,16,Informática,MICROSOFT WORD,1
+359,16,Informática,POWERPOINT,1
+360,16,Sistemas de Gestão,SAP R/3,0
+361,17,Engenharia,ENGINEERING,1
+362,17,Engenharia,SOLIDWORKS,2
+363,17,Gestão de Empresas,PRODUCT DEVELOPMENT,1
+364,17,Habilidades Pessoais,TEAMWORK,1
+365,17,Idiomas,ENGLISH,3
+366,17,Informática,MICROSOFT EXCEL,1
+367,17,Informática,MICROSOFT OFFICE,2
+368,17,Informática,MICROSOFT POWERPOINT,2
+369,17,Informática,MICROSOFT WORD,1
+370,17,Outros,LIVING ABROAD,1
+371,17,Outros,PRODUCT DESIGN,1
+372,17,Outros,SKETCHING,1
+373,18,Atendimento,EXPERIENCIA DO CLIENTE,1
+374,18,Comunicação,RELACOES PUBLICAS,2
+375,18,Gestão de Empresas,GESTAO DE EVENTOS,1
+376,18,Gestão de Pessoas,GESTAO DE EQUIPES,1
+377,18,Marketing e Vendas,MARKETING,2
+378,18,Marketing e Vendas,MARKETING COMERCIAL,2
+379,19,Atendimento,ATENDIMENTO AO CLIENTE,2
+380,19,Gestão de Empresas,CEP (CONTROLE ESTATISTICO DE PROCESSOS),0
+381,19,Gestão de Empresas,EMPREENDEDORISMO,1
+382,19,Gestão de Empresas,GESTAO,0
+383,19,Gestão de Projetos,MICROSOFT PROJECT,0
+384,19,Informática,MICROSOFT EXCEL,2
+385,19,Informática,MICROSOFT OFFICE,1
+386,19,Informática,MICROSOFT POWERPOINT,0
+387,19,Outros,CLP (CONTROLADOR LOGICO PROGRAMAVEL),0
+388,19,Outros,METROLOGIA,0
+389,21,Engenharia,ENGENHARIA CIVIL,3
+390,21,Engenharia,ENGENHARIA DE PROJETOS,3
+391,21,Gestão de Empresas,BUSINESS STRATEGY,3
+392,21,Gestão de Empresas,ESTRATEGIA EMPRESARIAL,6
+393,21,Gestão de Empresas,GESTAO,4
+394,21,Gestão de Empresas,GESTAO DE CONTRATOS,2
+395,21,Gestão de Empresas,GESTAO DE OBRAS,3
+396,21,Gestão de Empresas,MANAGEMENT,3
+397,21,Gestão de Empresas,PLANEJAMENTO EMPRESARIAL,3
+398,21,Gestão de Empresas,PLANEJAMENTO ESTRATEGICO,3
+399,21,Gestão de Pessoas,LIDERANCA DE EQUIPE,6
+400,21,Gestão de Projetos,GESTAO DE PROJETOS,5
+401,21,Gestão de Projetos,MICROSOFT PROJECT,7
+402,21,Gestão de Projetos,PLANEJAMENTO DE PROJETOS,3
+403,21,Gestão de Projetos,PROJECT MANAGEMENT,5
+404,21,Habilidades Pessoais,NEGOCIACAO,5
+405,21,Idiomas,INGLES,5
+406,21,Informática,MICROSOFT POWERPOINT,3
+407,21,Informática,MICROSOFT WORD,3
+408,21,Marketing e Vendas,ESTRATEGIAS DE MARKETING,2
+409,21,Marketing e Vendas,SALES MANAGEMENT,2
+410,22,Atendimento,ATENDIMENTO AO CLIENTE,10
+411,22,Ferramentas de Design,ADOBE ILLUSTRATOR,2
+412,22,Ferramentas de Design,ADOBE PHOTOSHOP,3
+413,22,Gestão de Empresas,PLANEJAMENTO ESTRATEGICO,8
+414,22,Gestão de Pessoas,FORMACAO DE EQUIPES,2
+415,22,Gestão de Pessoas,LIDERANCA,7
+416,22,Habilidades Pessoais,NEGOCIACAO,5
+417,22,Informática,MICROSOFT EXCEL,3
+418,22,Marketing e Vendas,MARKETING,3
+419,22,Marketing e Vendas,MARKETING DIGITAL,2
+420,22,Marketing e Vendas,NET PROMOTER SCORE,1
+421,22,Outros,ORGANIZACAO DE EVENTOS,6
+422,23,Artes e Design,DESIGN GRAFICO,3
+423,23,Artes e Design,ILUSTRACAO,0
+424,23,Comunicação,ESCRITA,1
+425,23,Ferramentas de Design,ADOBE AFTER EFFECTS,0
+426,23,Ferramentas de Design,ADOBE ILLUSTRATOR,0
+427,23,Ferramentas de Design,ADOBE PHOTOSHOP,2
+428,23,Marketing e Vendas,MARKETING,3
+429,24,Atendimento,CUSTOMER SUPPORT,1
+430,24,Banco de Dados,MICROSOFT SQL SERVER,1
+431,24,Banco de Dados,MYSQL,1
+432,24,Ciência de Dados,DATA ANALYSIS,2
+433,24,Desenvolvimento de Sistemas,SOFTWARE DEVELOPMENT,2
+434,24,Desenvolvimento de Sistemas,WEB DEVELOPMENT,1
+435,24,Desenvolvimento de Sistemas,XML,1
+436,24,Ensino,FAST LEARNING,1
+437,24,Habilidades Pessoais,PROACTIVITY,1
+438,24,Habilidades Pessoais,TEAMWORK,1
+439,24,Infraestrutura de TI,CLOUD COMPUTING,1
+440,24,Infraestrutura de TI,INFRASTRUCTURE MANAGEMENT,1
+441,24,Infraestrutura de TI,NETWORK PROTOCOLS,1
+442,24,Infraestrutura de TI,WEB HOSTING,1
+443,24,Linguagem de Programação,ASP.NET,1
+444,24,Linguagem de Programação,C,1
+445,24,Linguagem de Programação,C#,1
+446,24,Linguagem de Programação,C++,2
+447,24,Linguagem de Programação,CSS,1
+448,24,Linguagem de Programação,HTML,1
+449,24,Linguagem de Programação,JAVASCRIPT,1
+450,24,Linguagem de Programação,JQUERY,1
+451,24,Linguagem de Programação,PHP,1
+452,24,Linguagem de Programação,PYTHON,1
+453,24,Linguagem de Programação,R,1
+454,24,Linguagem de Programação,RUBY,1
+455,24,Linguagem de Programação,RUBY ON RAILS,1
+456,24,Outros,COMPLEX NETWORKS,1
+457,24,Outros,SOCIAL COMPUTING,1
+458,24,Plataformas de Desenvolvimento,.NET,1
+459,24,Plataformas de Desenvolvimento,.NET FRAMEWORK,2
+460,24,Qualidade de Software,GIT,1
+461,24,Qualidade de Software,SOFTWARE DOCUMENTATION,1
+462,24,Sistemas Operacionais,LINUX,1
+463,24,Sistemas Operacionais,WINDOWS,1
+464,29,Artes e Design,DESIGN PATTERNS,8
+465,29,Desenvolvimento de Sistemas,APPLICATION DEVELOPMENT,5
+466,29,Desenvolvimento de Sistemas,COMPUTER SCIENCE,4
+467,29,Desenvolvimento de Sistemas,OOP,2
+468,29,Desenvolvimento de Sistemas,OPEN SOURCE,15
+469,29,Desenvolvimento de Sistemas,SOFTWARE DEVELOPMENT,43
+470,29,Desenvolvimento de Sistemas,SOFTWARE ENGINEERING,21
+471,29,Desenvolvimento de Sistemas,UML,8
+472,29,Engenharia de Dados,DATA EXTRACTION,1
+473,29,Engenharia de Dados,INFORMATION RETRIEVAL,3
+474,29,Gestão de Empresas,PRODUCT DEVELOPMENT,1
+475,29,Gestão de Pessoas,TEAM LEADERSHIP,6
+476,29,Gestão de Projetos,AGILE METHODOLOGIES,7
+477,29,Gestão de Projetos,MICROSOFT PROJECT,1
+478,29,Gestão de Projetos,PROJECT COORDINATION,2
+479,29,Gestão de Projetos,PROJECT ESTIMATION,1
+480,29,Gestão de Projetos,PROJECT PLANNING,1
+481,29,Gestão de Projetos,SCRUM,48
+482,29,Gestão de Projetos,SOFTWARE PROJECT MANAGEMENT,4
+483,29,Linguagem de Programação,AJAX,3
+484,29,Linguagem de Programação,C,18
+485,29,Linguagem de Programação,C++,17
+486,29,Linguagem de Programação,HTML/XML,0
+487,29,Linguagem de Programação,JAVA,17
+488,29,Linguagem de Programação,JAVASCRIPT,11
+489,29,Linguagem de Programação,JSON,3
+490,29,Linguagem de Programação,PYTHON,8
+491,29,Mobile,ANDROID,32
+492,29,Mobile,MOBILE APPLICATIONS,33
+493,29,Mobile,MOBILE DEVICES,2
+494,29,Outros,GTK,1
+495,29,Outros,MAEMO,2
+496,29,Outros,MOZILLA,3
+497,29,Outros,WEB MINING,0
+498,29,Outros,WEBKIT,3
+499,29,Plataformas de Desenvolvimento,QT,31
+500,29,Qualidade de Software,GIT,17
+501,29,Qualidade de Software,SUBVERSION,7
+502,29,Sistemas Operacionais,LINUX,15
+503,29,Sistemas Operacionais,LINUX DEVELOPMENT,1
+504,30,Engenharia,DESENHO MECANICO,0
+505,30,Engenharia,SOLIDWORKS,0
+506,30,Gestão de Projetos,MICROSOFT PROJECT,0
+507,30,Marketing e Vendas,MARKETING DIGITAL,0
+508,31,Artes e Design,PHOTOSHOP,3
+509,31,Banco de Dados,MICROSOFT SQL SERVER,4
+510,31,Banco de Dados,MYSQL,29
+511,31,Banco de Dados,NOSQL,1
+512,31,Banco de Dados,POSTGRESQL,7
+513,31,Desenvolvimento de Front-end,MATERIAL DESIGN,1
+514,31,Desenvolvimento de Front-end,WEB DESIGN,16
+515,31,Desenvolvimento de Sistemas,OOP,4
+516,31,Desenvolvimento de Sistemas,SOFTWARE ENGINEERING,6
+517,31,Desenvolvimento de Sistemas,UML,3
+518,31,Desenvolvimento de Sistemas,WEB SERVICES,5
+519,31,Desenvolvimento de Sistemas,XML,6
+520,31,Gestão de Projetos,SCRUM,0
+521,31,Linguagem de Programação,AJAX,17
+522,31,Linguagem de Programação,C,2
+523,31,Linguagem de Programação,C++,2
+524,31,Linguagem de Programação,CSS,22
+525,31,Linguagem de Programação,HTML,21
+526,31,Linguagem de Programação,HTML 5,6
+527,31,Linguagem de Programação,JAVA,16
+528,31,Linguagem de Programação,JAVASCRIPT,31
+529,31,Linguagem de Programação,JQUERY,25
+530,31,Linguagem de Programação,JSON,13
+531,31,Linguagem de Programação,PHP,28
+532,31,Linguagem de Programação,PYTHON,0
+533,31,Marketing e Vendas,SASS,4
+534,31,Marketing e Vendas,SEO,1
+535,31,Outros,ELECTRON,0
+536,31,Outros,WEBRTC,0
+537,31,Outros,WEBSOCKETS,2
+538,31,Plataformas de Desenvolvimento,APACHE,1
+539,31,Plataformas de Desenvolvimento,APACHE CORDOVA,0
+540,31,Plataformas de Desenvolvimento,DELPHI,3
+541,31,Plataformas de Desenvolvimento,FACEBOOK API,4
+542,31,Plataformas de Desenvolvimento,GRUNTJS,0
+543,31,Plataformas de Desenvolvimento,GULP.JS,0
+544,31,Plataformas de Desenvolvimento,NODE.JS,9
+545,31,Plataformas de Desenvolvimento,REACT.JS,0
+546,31,Plataformas de Desenvolvimento,WORDPRESS,2
+547,31,Qualidade de Software,GIT,1
+548,31,Sistemas Operacionais,DOCKER,0
+549,31,Sistemas Operacionais,LINUX SERVER,1
+550,31,Sistemas Operacionais,SHELL SCRIPTING,1
+551,32,Gestão de Empresas,BUSINESS PLANNING,0
+552,32,Gestão de Empresas,BUSINESS STRATEGY,0
+553,32,Gestão de Empresas,ESTRATEGIA EMPRESARIAL,9
+554,32,Gestão de Empresas,PLANEJAMENTO EMPRESARIAL,5
+555,32,Gestão de Pessoas,LIDERANCA DE EQUIPE,4
+556,32,Gestão de Pessoas,TEAM LEADERSHIP,0
+557,32,Gestão de Projetos,PMI,0
+558,32,Gestão de Projetos,PORTFOLIO MANAGEMENT,0
+559,32,Gestão de TI,COBIT,0
+560,32,Habilidades Pessoais,NEGOCIACAO,4
+561,32,Habilidades Pessoais,NEGOTIATION,0
+562,32,Idiomas,PORTUGUES,1
+563,32,Idiomas,PORTUGUESE,0
+564,32,Marketing e Vendas,CARTOES DE CREDITO,1
+565,32,Marketing e Vendas,CREDIT CARDS,0
+566,32,Marketing e Vendas,GESTAO DE VENDAS,1
+567,32,Marketing e Vendas,SALES MANAGEMENT,0
+568,32,Sistemas Operacionais,DOS,0
+569,33,Artes e Design,GRAPHIC DESIGN,7
+570,33,Artes e Design,PHOTOSHOP,2
+571,33,Desenvolvimento de Front-end,A/B TESTING,3
+572,33,Desenvolvimento de Front-end,FRONT-END,11
+573,33,Desenvolvimento de Front-end,FRONT-END DEVELOPMENT,3
+574,33,Desenvolvimento de Front-end,INTERACTION DESIGN,31
+575,33,Desenvolvimento de Front-end,PROTOTYPING,4
+576,33,Desenvolvimento de Front-end,USABILITY TESTING,11
+577,33,Desenvolvimento de Front-end,USER EXPERIENCE,27
+578,33,Desenvolvimento de Front-end,USER EXPERIENCE DESIGN,6
+579,33,Desenvolvimento de Front-end,USER INTERFACE DESIGN,34
+580,33,Desenvolvimento de Sistemas,WEB DEVELOPMENT,12
+581,33,Engenharia de Dados,INFORMATION ARCHITECTURE,28
+582,33,Gestão de Projetos,AGILE PROJECT MANAGEMENT,10
+583,33,Linguagem de Programação,CSS,14
+584,33,Linguagem de Programação,HTML,6
+585,33,Linguagem de Programação,JAVASCRIPT,5
+586,33,Linguagem de Programação,PHP,5
+587,33,Outros,VISUAL DESIGN,4
+588,33,Qualidade de Software,GIT,2
+589,34,Artes e Design,CUSTOMER FOCUSED DESIGN,0
+590,34,Atendimento,CUSTOMER DEVELOPMENT,0
+591,34,Ciência de Dados,DATA ANALYSIS,0
+592,34,Ciência de Dados,HYPOTHESIS TESTING,0
+593,34,Desenvolvimento de Front-end,USER EXPERIENCE,0
+594,34,Desenvolvimento de Sistemas,DISTRIBUTED SYSTEMS,5
+595,34,Desenvolvimento de Sistemas,SOFTWARE DEVELOPMENT,1
+596,34,Desenvolvimento de Sistemas,WEB DEVELOPMENT,15
+597,34,Gestão de Empresas,ENTREPRENEURSHIP,0
+598,34,Gestão de Empresas,PRODUCT MANAGEMENT,8
+599,34,Gestão de Empresas,START-UPS,0
+600,34,Gestão de Pessoas,CROSS-FUNCTIONAL TEAM LEADERSHIP,0
+601,34,Gestão de Projetos,AGILE METHODOLOGIES,10
+602,34,Gestão de Projetos,SCRUM,2
+603,34,Linguagem de Programação,JAVA,11
+604,34,Linguagem de Programação,RUBY,2
+605,34,Linguagem de Programação,RUBY ON RAILS,5
+606,34,Mobile,ANDROID DEVELOPMENT,7
+607,34,Mobile,MOBILE APPLICATION DEVELOPMENT,3
+608,34,Mobile,MOBILE APPLICATIONS,3
+609,34,Mobile,MOBILE DEVICES,14
+610,34,Mobile,MOBILE PRODUCT DEVELOPMENT,0
+611,34,Outros,LEAN STARTUP,0
+612,34,Plataformas de Desenvolvimento,HEROKU,1
+613,34,Qualidade de Software,GIT,3
+614,35,Banco de Dados,MONGODB,2
+615,35,Banco de Dados,MYSQL,19
+616,35,Banco de Dados,POSTGRESQL,2
+617,35,Desenvolvimento de Sistemas,CIENCIA DA COMPUTACAO,1
+618,35,Desenvolvimento de Sistemas,CODIGO ABERTO,3
+619,35,Desenvolvimento de Sistemas,COMPILERS,3
+620,35,Desenvolvimento de Sistemas,COMPUTER SCIENCE,15
+621,35,Desenvolvimento de Sistemas,DESENVOLVIMENTO DE SOFTWARE,3
+622,35,Desenvolvimento de Sistemas,DISTRIBUTED SYSTEMS,17
+623,35,Desenvolvimento de Sistemas,ENGENHARIA DE SOFTWARE,4
+624,35,Desenvolvimento de Sistemas,OBJECT ORIENTED DESIGN,2
+625,35,Desenvolvimento de Sistemas,OPEN SOURCE,26
+626,35,Desenvolvimento de Sistemas,PARALLEL PROGRAMMING,4
+627,35,Desenvolvimento de Sistemas,PROGRAMACAO DE COMPUTADORES,1
+628,35,Desenvolvimento de Sistemas,PROGRAMMING,8
+629,35,Desenvolvimento de Sistemas,REST,1
+630,35,Desenvolvimento de Sistemas,SISTEMAS DISTRIBUIDOS,1
+631,35,Desenvolvimento de Sistemas,SOFTWARE DEVELOPMENT,16
+632,35,Desenvolvimento de Sistemas,SOFTWARE ENGINEERING,21
+633,35,Desenvolvimento de Sistemas,UML,5
+634,35,Infraestrutura de TI,AMAZON WEB SERVICES,1
+635,35,Infraestrutura de TI,ESCALABILIDADE,1
+636,35,Infraestrutura de TI,PARALLEL COMPUTING,1
+637,35,Infraestrutura de TI,SCALABILITY,1
+638,35,Linguagem de Programação,ALGORITHMS,5
+639,35,Linguagem de Programação,ALGORITMO,2
+640,35,Linguagem de Programação,C,13
+641,35,Linguagem de Programação,C (LINGUAGEM DE PROGRAMACAO),2
+642,35,Linguagem de Programação,C++,29
+643,35,Linguagem de Programação,JAVA,36
+644,35,Linguagem de Programação,JAVASCRIPT,5
+645,35,Linguagem de Programação,OBJECTIVE-C,3
+646,35,Linguagem de Programação,PERL,3
+647,35,Linguagem de Programação,PHP,15
+648,35,Linguagem de Programação,PYTHON,54
+649,35,Mobile,ANDROID,4
+650,35,Outros,FLASK,1
+651,35,Outros,MULTITHREADING,1
+652,35,Plataformas de Desenvolvimento,CHROME EXTENSIONS,3
+653,35,Plataformas de Desenvolvimento,ECLIPSE,5
+654,35,Plataformas de Desenvolvimento,HEROKU,3
+655,35,Qualidade de Software,CVS,3
+656,35,Qualidade de Software,GIT,10
+657,35,Sistemas Operacionais,BASH,13
+658,35,Sistemas Operacionais,LINUX,90
+659,35,Sistemas Operacionais,LINUX DEVELOPMENT,6
+660,35,Sistemas Operacionais,OPERATING SYSTEMS,9
+661,35,Sistemas Operacionais,SHELL SCRIPT,1
+662,35,Sistemas Operacionais,SHELL SCRIPTING,10
+663,35,Sistemas Operacionais,UNIX SHELL SCRIPTING,1
+664,36,Comunicação,COMUNICACAO INTERPESSOAL,4
+665,36,Gestão de Empresas,GERENCIAMENTO DE PROCESSOS DE NEGOCIOS,2
+666,36,Gestão de Pessoas,LIDERANCA DE EQUIPE,2
+667,36,Gestão de Pessoas,MOTIVACAO DE EQUIPES,3
+668,36,Idiomas,INGLES,5
+669,36,Idiomas,LINGUA PORTUGUESA,2
+670,36,Informática,MICROSOFT OFFICE,2
+671,37,Banco de Dados,MYSQL,6
+672,37,Banco de Dados,POSTGRESQL,1
+673,37,Gestão de Pessoas,TEAM LEADERSHIP,8
+674,37,Gestão de Projetos,SCRUM,4
+675,37,Infraestrutura de TI,NGINX,3
+676,37,Linguagem de Programação,JAVASCRIPT,29
+677,37,Linguagem de Programação,PHP,28
+678,37,Linguagem de Programação,PYTHON,21
+679,37,Outros,PERFORMANCE IMPROVEMENT,13
+680,37,Outros,TDD,4
+681,37,Plataformas de Desenvolvimento,ANGULARJS,1
+682,37,Plataformas de Desenvolvimento,DJANGO,2
+683,37,Plataformas de Desenvolvimento,LARAVEL,5
+684,37,Plataformas de Desenvolvimento,WORDPRESS,2
+685,37,Qualidade de Software,GIT,7
+686,37,Sistemas Operacionais,LINUX,7
+687,38,Banco de Dados,POSTGRESQL,1
+688,38,Banco de Dados,SQL,4
+689,38,Desenvolvimento de Sistemas,ANALISE DE SISTEMAS,4
+690,38,Desenvolvimento de Sistemas,DESENVOLVIMENTO DE SOFTWARE,4
+691,38,Desenvolvimento de Sistemas,ENGENHARIA DE SOFTWARE,4
+692,38,Desenvolvimento de Sistemas,REST,0
+693,38,Desenvolvimento de Sistemas,SOAP,0
+694,38,Desenvolvimento de Sistemas,UML,6
+695,38,Desenvolvimento de Sistemas,WEB DEVELOPMENT,1
+696,38,Desenvolvimento de Sistemas,WEB SERVICES,1
+697,38,Gestão de Pessoas,LIDERANCA DE EQUIPE,0
+698,38,Gestão de Projetos,AGILE METHODOLOGIES,3
+699,38,Gestão de Projetos,ANALISE DE REQUISITOS,4
+700,38,Gestão de Projetos,COORDENACAO DE PROJETOS,1
+701,38,Gestão de Projetos,SCRUM,11
+702,38,Infraestrutura de TI,NGINX,0
+703,38,Infraestrutura de TI,SERVIDOR APACHE,0
+704,38,Linguagem de Programação,CSS,5
+705,38,Linguagem de Programação,HTML5,1
+706,38,Linguagem de Programação,JAVA,1
+707,38,Linguagem de Programação,JAVASCRIPT,15
+708,38,Linguagem de Programação,JQUERY,4
+709,38,Linguagem de Programação,PHP,3
+710,38,Linguagem de Programação,PYTHON,10
+711,38,Outros,JENKINS,3
+712,38,Qualidade de Software,DESENVOLVIMENTO ORIENTADO A TESTES,2
+713,38,Qualidade de Software,GIT,2
+714,38,Sistemas Operacionais,LINUX,4
+715,38,Sistemas Operacionais,SISTEMAS OPERACIONAIS,1
+716,39,BI,BUSINESS INTELLIGENCE,1
+717,39,BI,BUSINESS INTELLIGENCE TOOLS,2
+718,39,BI,DASHBOARD,1
+719,39,BI,EXCEL DASHBOARDS,1
+720,39,BI,INTELIGENCIA EMPRESARIAL,2
+721,39,Ciência de Dados,ANALISES,0
+722,39,Ciência de Dados,CAPACIDADE ANALITICA,0
+723,39,Ciência de Dados,DATA ANALYSIS,1
+724,39,Engenharia de Dados,INFORMATION MANAGEMENT,1
+725,39,Gestão de Empresas,ANALISES DE MERCADO,0
+726,39,Gestão de Empresas,BUSINESS,6
+727,39,Gestão de Empresas,BUSINESS ANALYSIS,4
+728,39,Gestão de Empresas,BUSINESS PLANNING,4
+729,39,Gestão de Empresas,COMPETITIVE ANALYSIS,1
+730,39,Gestão de Empresas,CONSULTORIA,0
+731,39,Gestão de Empresas,CONSULTORIA DE GESTAO,0
+732,39,Gestão de Empresas,EMPREENDEDORISMO,0
+733,39,Gestão de Empresas,ESTRATEGIA,0
+734,39,Gestão de Empresas,ESTRATEGIA EMPRESARIAL,8
+735,39,Gestão de Empresas,GESTAO,3
+736,39,Gestão de Empresas,GESTAO DE INFORMACOES,1
+737,39,Gestão de Empresas,INTELIGENCIA DE MERCADO,1
+738,39,Gestão de Empresas,PLANEJAMENTO EMPRESARIAL,8
+739,39,Gestão de Empresas,PLANEJAMENTO ESTRATEGICO,8
+740,39,Gestão de Empresas,STRATEGIC CONSULTING,2
+741,39,Gestão de Pessoas,LIDERANCA DE EQUIPE,3
+742,39,Gestão de Projetos,PLANEJAMENTO DE PROJETOS,0
+743,39,Habilidades Pessoais,NEGOCIACAO,0
+744,39,Idiomas,INGLES,4
+745,39,Informática,MICROSOFT EXCEL,14
+746,39,Informática,MICROSOFT OFFICE,11
+747,39,Informática,MICROSOFT POWERPOINT,12
+748,39,Informática,MICROSOFT WORD,9
+749,39,Linguagem de Programação,VBA,0
+750,39,Marketing e Vendas,MARKETING,0
+751,39,Marketing e Vendas,MARKETING DIGITAL,1
+752,39,Sistemas Operacionais,OPERATING SYSTEMS,1
+753,39,Sistemas Operacionais,SISTEMAS OPERACIONAIS,5
+754,39,Sistemas de Gestão,ERP (PLANEJAMENTO DE RECURSOS EMPRESARIAIS),4
+755,40,Desenvolvimento de Front-end,DESIGN DE INTERACAO,0
+756,40,Desenvolvimento de Front-end,USER INTERFACES,7
+757,40,Desenvolvimento de Sistemas,ARQUITETURA DE SOFTWARE,0
+758,40,Desenvolvimento de Sistemas,PROGRAMACAO DE COMPUTADORES,6
+759,40,Desenvolvimento de Sistemas,PROGRAMMING,7
+760,40,Gestão de Projetos,SCRUM,3
+761,40,Linguagem de Programação,AJAX,9
+762,40,Linguagem de Programação,CSS,13
+763,40,Linguagem de Programação,HTML,13
+764,40,Linguagem de Programação,JAVASCRIPT,21
+765,40,Linguagem de Programação,JQUERY,12
+766,40,Linguagem de Programação,PHP,3
+767,40,Linguagem de Programação,PYTHON,6
+768,40,Linguagem de Programação,RUBY ON RAILS,5
+769,40,Marketing e Vendas,SASS,1
+770,40,Marketing e Vendas,SEO (OTIMIZACAO DE MOTORES DE BUSCA),0
+771,40,Plataformas de Desenvolvimento,ANGULAR,6
+772,40,Plataformas de Desenvolvimento,CHROME DEVELOPER TOOLS,0
+773,40,Plataformas de Desenvolvimento,NODE.JS,2
+774,40,Qualidade de Software,COMPATIBILIDADE CROSS-BROWSER,0
+775,40,Qualidade de Software,GIT,2
+776,40,Sistemas Operacionais,LINUX,12
+777,42,Atendimento,CUSTOMER SERVICE,0
+778,42,Comunicação,PUBLIC SPEAKING,0
+779,42,Comunicação,SOCIAL MEDIA,0
+780,42,Gestão de Pessoas,LEADERSHIP,0
+781,42,Habilidades Pessoais,RESEARCH,0
+782,42,Informática,MICROSOFT EXCEL,0
+783,42,Informática,MICROSOFT OFFICE,0
+784,42,Informática,MICROSOFT POWERPOINT,0
+785,42,Informática,MICROSOFT WORD,0
+786,42,Marketing e Vendas,MARKETING,0
+787,42,Sistemas de Gestão,SAP ERP,0
+788,43,Atendimento,ATENDIMENTO AO CLIENTE,1
+789,43,Atendimento,CUSTOMER SERVICE,1
+790,43,Gestão Financeira,CONTABILIDADE,4
+791,43,Gestão Financeira,FINANCAS,5
+792,43,Gestão de Empresas,AUDITORIA,1
+793,43,Gestão de Empresas,GESTAO,1
+794,43,Gestão de Empresas,MANAGEMENT,1
+795,43,Gestão de Pessoas,LEADERSHIP,1
+796,43,Gestão de Pessoas,LIDERANCA,1
+797,43,Gestão de Projetos,MICROSOFT PROJECT,1
+798,43,Habilidades Pessoais,BOM RELACIONAMENTO PARA TRABALHAR EM EQUIPE.,1
+799,43,Habilidades Pessoais,NEGOCIACAO,1
+800,43,Habilidades Pessoais,NEGOTIATION,1
+801,43,Habilidades Pessoais,PESQUISA,1
+802,43,Habilidades Pessoais,"PROFISSIONAL COMPETENTE, COMUNICATIVO E PROATIVO.",1
+803,43,Habilidades Pessoais,RESEARCH,1
+804,43,Idiomas,INGLES,1
+805,43,Idiomas,INGLES INTERMEDIARIO,1
+806,43,Informática,MICROSOFT EXCEL,2
+807,43,Informática,MICROSOFT OFFICE,1
+808,43,Informática,MICROSOFT POWERPOINT,2
+809,43,Informática,MICROSOFT WORD,2
+810,43,Sistemas Operacionais,MICROSOFT WINDOWS,3
+811,43,Sistemas Operacionais,WINDOWS,1
+812,44,Artes e Design,MUSIC THEORY,0
+813,44,BI,GOOGLE ANALYTICS,2
+814,44,Banco de Dados,MYSQL,24
+815,44,Banco de Dados,REDIS,1
+816,44,Banco de Dados,SQL,0
+817,44,Comunicação,SOCIAL NETWORKING,1
+818,44,Comunicação,SOCIAL WEB,5
+819,44,Desenvolvimento de Front-end,USER EXPERIENCE,1
+820,44,Desenvolvimento de Sistemas,DEVELOPMENT MANAGEMENT,1
+821,44,Desenvolvimento de Sistemas,DEVOPS,1
+822,44,Desenvolvimento de Sistemas,SOFTWARE DEVELOPMENT,3
+823,44,Desenvolvimento de Sistemas,SOFTWARE ENGINEERING,4
+824,44,Desenvolvimento de Sistemas,SYSTEM ARCHITECTURE,1
+825,44,Desenvolvimento de Sistemas,WEB DEVELOPMENT,13
+826,44,Gestão de Empresas,PRODUCT MANAGEMENT,1
+827,44,Gestão de Pessoas,TEAM MANAGEMENT,5
+828,44,Gestão de Projetos,SCRUM,19
+829,44,Gestão de TI,IT SERVICE MANAGEMENT,0
+830,44,Habilidades Pessoais,PROBLEM SOLVING,4
+831,44,Infraestrutura de TI,AMAZON WEB SERVICES (AWS),1
+832,44,Infraestrutura de TI,CEPH,1
+833,44,Infraestrutura de TI,GOOGLE CLOUD PLATFORM,1
+834,44,Infraestrutura de TI,KUBERNETES,0
+835,44,Infraestrutura de TI,NGINX,1
+836,44,Infraestrutura de TI,SCALABILITY,3
+837,44,Linguagem de Programação,AJAX,2
+838,44,Linguagem de Programação,CSS,3
+839,44,Linguagem de Programação,HTML,0
+840,44,Linguagem de Programação,HTML 5,1
+841,44,Linguagem de Programação,HTML5,1
+842,44,Linguagem de Programação,JAVA,3
+843,44,Linguagem de Programação,JAVASCRIPT,21
+844,44,Linguagem de Programação,JQUERY,8
+845,44,Linguagem de Programação,LUA,0
+846,44,Linguagem de Programação,PHP,23
+847,44,Linguagem de Programação,PYTHON,4
+848,44,Linguagem de Programação,RUBY,4
+849,44,Marketing e Vendas,SEO,0
+850,44,Outros,GO,2
+851,44,Outros,OPENSOCIAL,7
+852,44,Outros,PERFORMANCE TUNING,6
+853,44,Outros,VARNISH CACHE,2
+854,44,Plataformas de Desenvolvimento,FACEBOOK API,7
+855,44,Qualidade de Software,GIT,4
+856,44,Sistemas Operacionais,LINUX,26
+857,44,Sistemas Operacionais,OPERATING SYSTEMS,0
+858,44,Sistemas Operacionais,SHELL SCRIPTING,1
+859,45,Banco de Dados,MYSQL,1
+860,45,Desenvolvimento de Sistemas,DESENVOLVIMENTO DE SOFTWARE,3
+861,45,Desenvolvimento de Sistemas,SOFTWARE DEVELOPMENT,0
+862,45,Desenvolvimento de Sistemas,WEB DEVELOPMENT,0
+863,45,Gestão de Projetos,SCRUM,2
+864,45,Infraestrutura de TI,HARDWARE INSTALLATION,0
+865,45,Linguagem de Programação,C++,0
+866,45,Linguagem de Programação,CSS,0
+867,45,Linguagem de Programação,HTML,1
+868,45,Linguagem de Programação,JAVA,0
+869,45,Linguagem de Programação,JAVASCRIPT,1
+870,45,Linguagem de Programação,PHP,2
+871,45,Linguagem de Programação,PYTHON,0
+872,46,Banco de Dados,MYSQL,0
+873,46,Desenvolvimento de Sistemas,SOFTWARE DEVELOPMENT,0
+874,46,Desenvolvimento de Sistemas,WEB DEVELOPMENT,0
+875,46,Gestão de Projetos,SCRUM,0
+876,46,Linguagem de Programação,CSS,0
+877,46,Linguagem de Programação,HTML,0
+878,46,Linguagem de Programação,JAVASCRIPT,0
+879,46,Linguagem de Programação,PHP,0
+880,46,Qualidade de Software,GIT,0
+881,47,Gestão de Empresas,ESTRATEGIA EMPRESARIAL,1
+882,47,Gestão de Empresas,PLANEJAMENTO ESTRATEGICO,1
+883,47,Gestão de Empresas,STRATEGIC PLANNING,0
+884,47,Gestão de Pessoas,HUMAN RESOURCES,1
+885,47,Gestão de Pessoas,LIDERANCA DE EQUIPE,1
+886,47,Gestão de Pessoas,PSYCHOLOGICAL ASSESSMENT,4
+887,47,Gestão de Pessoas,PSYCHOMETRICS,4
+888,47,Gestão de Pessoas,RECRUITMENTS,0
+889,47,Habilidades Pessoais,NEGOTIATION,0
+890,47,Habilidades Pessoais,RESEARCH,3
+891,47,Idiomas,ENGLISH,0
+892,47,Idiomas,INGLES,3
+893,47,Idiomas,PORTUGUES,1
+894,47,Informática,MICROSOFT EXCEL,6
+895,47,Informática,MICROSOFT OFFICE,2
+896,47,Informática,MICROSOFT POWERPOINT,3
+897,47,Informática,MICROSOFT WORD,5
+898,47,Informática,POWERPOINT,0
+899,49,Artes e Design,DESIGN GRAFICO,10
+900,49,Artes e Design,DESIGN THINKING,6
+901,49,Artes e Design,GRAPHIC DESIGN,6
+902,49,Artes e Design,ILLUSTRATOR,1
+903,49,Artes e Design,PHOTOSHOP,8
+904,49,Desenvolvimento de Front-end,DESIGN DA EXPERIENCIA DO USUARIO,22
+905,49,Desenvolvimento de Front-end,DESIGN DE EXPERIENCIA,4
+906,49,Desenvolvimento de Front-end,DESIGN DE INTERACAO,20
+907,49,Desenvolvimento de Front-end,DESIGN DE INTERFACE DO USUARIO,19
+908,49,Desenvolvimento de Front-end,DESIGN VOLTADO PARA O USUARIO,1
+909,49,Desenvolvimento de Front-end,EXPERIENCE DESIGN,5
+910,49,Desenvolvimento de Front-end,EXPERIENCIA DO USUARIO,16
+911,49,Desenvolvimento de Front-end,INTERACTION DESIGN,36
+912,49,Desenvolvimento de Front-end,RESPONSIVENESS,0
+913,49,Desenvolvimento de Front-end,USABILIDADE,0
+914,49,Desenvolvimento de Front-end,USABILITY,10
+915,49,Desenvolvimento de Front-end,USER EXPERIENCE,27
+916,49,Desenvolvimento de Front-end,USER EXPERIENCE DESIGN,11
+917,49,Desenvolvimento de Front-end,USER INTERFACE DESIGN,21
+918,49,Desenvolvimento de Front-end,USER-CENTERED DESIGN,18
+919,49,Desenvolvimento de Front-end,WEB DESIGN,22
+920,49,Engenharia de Dados,ARQUITETURA DE INFORMACAO,16
+921,49,Engenharia de Dados,INFORMATION ARCHITECTURE,20
+922,49,Ferramentas de Design,ADOBE ILLUSTRATOR,10
+923,49,Ferramentas de Design,ADOBE PHOTOSHOP,11
+924,49,Linguagem de Programação,ACTIONSCRIPT,1
+925,49,Marketing e Vendas,DIGITAL MARKETING,2
+926,49,Marketing e Vendas,MARKETING DIGITAL,11
+927,49,Mobile,MOBILE APPLICATION DESIGN,1
+928,49,Outros,ACCESSIBILITY,1
+929,49,Outros,LAYOUT,20
+930,49,Outros,LAYOUT GRAFICO,6
+931,49,Outros,WEB APPLICATION DESIGN,0
+932,49,Plataformas de Desenvolvimento,AXURE,6
+933,50,Artes e Design,DIGITAL MEDIA,11
+934,50,Artes e Design,MIDIA DIGITAL,8
+935,50,Atendimento,CRM,5
+936,50,Atendimento,GESTAO DE RELACAO DE CLIENTES,4
+937,50,BI,GOOGLE ANALYTICS,12
+938,50,BI,WEB ANALYTICS,3
+939,50,Comunicação,FACEBOOK,7
+940,50,Comunicação,MEDIA PLANNING,3
+941,50,Comunicação,MIDIAS SOCIAIS,9
+942,50,Comunicação,SOCIAL MEDIA,5
+943,50,Gestão de Empresas,DIGITAL STRATEGY,11
+944,50,Gestão de Empresas,ESTRATEGIA DIGITAL,11
+945,50,Infraestrutura de TI,ANALISE DE REDE,4
+946,50,Marketing e Vendas,ADVERTISING,4
+947,50,Marketing e Vendas,COMERCIO ELETRONICO,9
+948,50,Marketing e Vendas,COMUNICACOES DE MARKETING,5
+949,50,Marketing e Vendas,DIGITAL MARKETING,29
+950,50,Marketing e Vendas,E-COMMERCE,3
+951,50,Marketing e Vendas,EMAIL MARKETING,10
+952,50,Marketing e Vendas,ESTRATEGIAS DE MARKETING,34
+953,50,Marketing e Vendas,GOOGLE ADWORDS,9
+954,50,Marketing e Vendas,MARKETING,43
+955,50,Marketing e Vendas,MARKETING COMMUNICATIONS,2
+956,50,Marketing e Vendas,MARKETING DE MOTOR DE BUSCA,49
+957,50,Marketing e Vendas,MARKETING DIGITAL,60
+958,50,Marketing e Vendas,MARKETING PARA DISPOSITIVOS MOVEIS,3
+959,50,Marketing e Vendas,MARKETING POR E-MAIL,21
+960,50,Marketing e Vendas,MARKETING SOCIAL,17
+961,50,Marketing e Vendas,MARKETING STRATEGY,13
+962,50,Marketing e Vendas,MOBILE MARKETING,3
+963,50,Marketing e Vendas,ONLINE ADVERTISING,16
+964,50,Marketing e Vendas,PUBLICIDADE,3
+965,50,Marketing e Vendas,PUBLICIDADE ONLINE,35
+966,50,Marketing e Vendas,SEM,4
+967,50,Marketing e Vendas,SEO,2
+968,50,Marketing e Vendas,SEO (OTIMIZACAO DE MOTORES DE BUSCA),4
+969,50,Marketing e Vendas,SOCIAL MEDIA MARKETING,14
+970,50,Marketing e Vendas,TRADE MARKETING,1
+971,50,Outros,PLANEJAMENTO DE MIDIA,3
+972,51,Gestão de Empresas,PDCA,12
+973,51,Gestão de Empresas,STRATEGIC PLANNING,16
+974,51,Gestão de Empresas,SUPPLY CHAIN,8
+975,51,Gestão de Pessoas,TEAM LEADERSHIP,25
+976,51,Idiomas,ENGLISH,10
+977,51,Idiomas,PORTUGUESE,11
+978,51,Idiomas,SPANISH,3
+979,51,Marketing e Vendas,PRICING STRATEGY,11
+980,51,Marketing e Vendas,SALES MANAGEMENT,21
+981,51,Marketing e Vendas,SALES OPERATIONS,23
+982,51,Marketing e Vendas,TRADE MARKETING,16
+983,52,Artes e Design,DIGITAL MEDIA SERVICES,3
+984,52,BI,GOOGLE ANALYTICS,65
+985,52,BI,WEB ANALYTICS,17
+986,52,Comunicação,MIDIAS SOCIAIS,12
+987,52,Comunicação,SOCIAL MEDIA,5
+988,52,Desenvolvimento de Front-end,USABILIDADE,4
+989,52,Desenvolvimento de Front-end,USABILITY,23
+990,52,Desenvolvimento de Front-end,USABILITY TESTING,18
+991,52,Desenvolvimento de Front-end,WIREFRAMES,8
+992,52,Desenvolvimento de Sistemas,WEB STANDARDS,2
+993,52,Engenharia de Dados,ARQUITETURA DE INFORMACAO,8
+994,52,Engenharia de Dados,INFORMATION ARCHITECTURE,13
+995,52,Gestão de Empresas,DIGITAL STRATEGY,6
+996,52,Gestão de Empresas,ESTRATEGIA DIGITAL,6
+997,52,Infraestrutura de TI,ANALISE DE REDE,7
+998,52,Linguagem de Programação,CSS,38
+999,52,Linguagem de Programação,CSS3,6
+1000,52,Linguagem de Programação,HTML 5,11
+1001,52,Linguagem de Programação,HTML5,7
+1002,52,Linguagem de Programação,JAVASCRIPT,9
+1003,52,Linguagem de Programação,JQUERY,40
+1004,52,Linguagem de Programação,PHP,14
+1005,52,Marketing e Vendas,DIGITAL ADVERTISING,16
+1006,52,Marketing e Vendas,DIGITAL MARKETING,30
+1007,52,Marketing e Vendas,E-COMMERCE CONSULTING,3
+1008,52,Marketing e Vendas,E-COMMERCE OPTIMIZATION,3
+1009,52,Marketing e Vendas,GOOGLE ADWORDS,7
+1010,52,Marketing e Vendas,INBOUND MARKETING,5
+1011,52,Marketing e Vendas,MARKETING DE MOTOR DE BUSCA,9
+1012,52,Marketing e Vendas,MARKETING DIGITAL,39
+1013,52,Marketing e Vendas,MARKETING ONLINE,12
+1014,52,Marketing e Vendas,MARKETING SOCIAL,9
+1015,52,Marketing e Vendas,ONLINE ADVERTISING,7
+1016,52,Marketing e Vendas,ONLINE MARKETING,6
+1017,52,Marketing e Vendas,PUBLICIDADE ONLINE,12
+1018,52,Marketing e Vendas,SEM,4
+1019,52,Marketing e Vendas,SEO,42
+1020,52,Marketing e Vendas,SEO (OTIMIZACAO DE MOTORES DE BUSCA),33
+1021,52,Marketing e Vendas,SOCIAL MEDIA ADVERTISING,3
+1022,52,Marketing e Vendas,SOCIAL MEDIA MARKETING,9
+1023,52,Mobile,MOBILE DEVICES,5
+1024,52,Outros,ACCESSIBILITY,2
+1025,52,Outros,CONVERSION OPTIMIZATION,19
+1026,52,Outros,LANDING PAGE OPTIMIZATION,3
+1027,52,Outros,OPTIMIZATION STRATEGIES,27
+1028,52,Outros,PPC,4
+1029,52,Outros,SEMANTIC HTML,4
+1030,52,Outros,SITEMAP,2
+1031,52,Plataformas de Desenvolvimento,WORDPRESS,24
+1032,53,Artes e Design,ART DIRECTION,10
+1033,53,Artes e Design,PHOTOSHOP,3
+1034,53,Artes e Design,VIDEO PRODUCTION,3
+1035,53,Comunicação,MIDIAS SOCIAIS,22
+1036,53,Comunicação,REDACAO,11
+1037,53,Comunicação,SOCIAL MEDIA,20
+1038,53,Ferramentas de Design,ADOBE ILLUSTRATOR,7
+1039,53,Ferramentas de Design,ADOBE PHOTOSHOP,14
+1040,53,Gestão de Empresas,GESTAO,4
+1041,53,Gestão de Empresas,PLANEJAMENTO ESTRATEGICO,7
+1042,53,Idiomas,INGLES,5
+1043,53,Informática,MICROSOFT EXCEL,3
+1044,53,Informática,MICROSOFT OFFICE,7
+1045,53,Marketing e Vendas,COMUNICACOES DE MARKETING,13
+1046,53,Marketing e Vendas,DIGITAL MARKETING,17
+1047,53,Marketing e Vendas,ESTRATEGIAS DE MARKETING,16
+1048,53,Marketing e Vendas,MARKETING,8
+1049,53,Marketing e Vendas,MARKETING DIGITAL,19
+1050,53,Marketing e Vendas,MARKETING SOCIAL,5
+1051,53,Marketing e Vendas,PUBLICIDADE,12
+1052,53,Marketing e Vendas,PUBLICIDADE ONLINE,9
+1053,53,Outros,COPYWRITING,9
+1054,54,Atendimento,DESENVOLVIMENTOS DE CLIENTES,3
+1055,54,Atendimento,GESTAO DE RELACAO DE CLIENTES,4
+1056,54,Atendimento,RELACOES COM OS CLIENTES,4
+1057,54,BI,BUSINESS INTELLIGENCE,6
+1058,54,BI,GOOGLE ANALYTICS,3
+1059,54,BI,INTELIGENCIA EMPRESARIAL,3
+1060,54,Gestão de Empresas,BUSINESS DEVELOPMENT,6
+1061,54,Gestão de Empresas,BUSINESS PLANNING,14
+1062,54,Gestão de Empresas,BUSINESS STRATEGY,7
+1063,54,Gestão de Empresas,ESTRATEGIA EMPRESARIAL,7
+1064,54,Gestão de Empresas,GESTAO,7
+1065,54,Gestão de Empresas,NEW BUSINESS DEVELOPMENT,5
+1066,54,Gestão de Empresas,PLANEJAMENTO EMPRESARIAL,3
+1067,54,Marketing e Vendas,COMERCIO ELETRONICO,5
+1068,54,Marketing e Vendas,ESTRATEGIAS DE MARKETING,12
+1069,54,Marketing e Vendas,MARKETING DIGITAL,12
+1070,54,Marketing e Vendas,PUBLICIDADE ONLINE,7
+1071,55,Comunicação,MIDIAS SOCIAIS,18
+1072,55,Comunicação,RELACOES PUBLICAS,2
+1073,55,Comunicação,SOCIAL MEDIA,5
+1074,55,Ferramentas de Design,ADOBE PHOTOSHOP,1
+1075,55,Gestão de Empresas,PLANEJAMENTO ESTRATEGICO,11
+1076,55,Idiomas,INGLES,3
+1077,55,Informática,MICROSOFT OFFICE,10
+1078,55,Informática,MICROSOFT POWERPOINT,2
+1079,55,Marketing e Vendas,COMUNICACOES DE MARKETING,6
+1080,55,Marketing e Vendas,ESTRATEGIAS DE MARKETING,15
+1081,55,Marketing e Vendas,MARKETING,13
+1082,55,Marketing e Vendas,MARKETING COMMUNICATIONS,6
+1083,55,Marketing e Vendas,MARKETING DIGITAL,8
+1084,55,Marketing e Vendas,PUBLICIDADE,10
+1085,55,Marketing e Vendas,PUBLICIDADE ONLINE,2
+1086,55,Marketing e Vendas,SOCIAL MEDIA MARKETING,7
+1087,56,Gestão de Empresas,PLANEJAMENTO ESTRATEGICO,5
+1088,56,Gestão de Projetos,GESTAO DE PROJETOS,3
+1089,56,Marketing e Vendas,MARKETING,7
+1090,56,Marketing e Vendas,MARKETING DIGITAL,5
+1091,56,Marketing e Vendas,PUBLICIDADE,4
+1092,57,BI,TABLEAU,9
+1093,57,Banco de Dados,MICROSOFT SQL SERVER,18
+1094,57,Banco de Dados,SQL,26
+1095,57,Desenvolvimento de Sistemas,ANALISE DE SISTEMAS,19
+1096,57,Desenvolvimento de Sistemas,DESENVOLVIMENTO DE SISTEMAS,27
+1097,57,Desenvolvimento de Sistemas,UML,12
+1098,57,Ensino,PALESTRAS,11
+1099,57,Gestão de Pessoas,LIDERANCA DE EQUIPE,13
+1100,57,Gestão de Projetos,MICROSOFT PROJECT,10
+1101,57,Gestão de Projetos,SCRUM,35
+1102,57,Gestão de TI,GERENCIAMENTO DE SERVICOS DE TI,13
+1103,57,Gestão de TI,ITIL,11
+1104,57,Infraestrutura de TI,SERVIDOR WINDOWS,12
+1105,57,Linguagem de Programação,CSS,16
+1106,57,Linguagem de Programação,HTML,16
+1107,57,Linguagem de Programação,JAVA,32
+1108,57,Linguagem de Programação,JAVASCRIPT,26
+1109,57,Linguagem de Programação,RUBY,16
+1110,57,Qualidade de Software,GIT,12
+1111,57,Sistemas Operacionais,LINUX,11
+1112,57,Sistemas Operacionais,SISTEMAS OPERACIONAIS,15
+1113,58,BI,BUSINESS INTELLIGENCE,6
+1114,58,Gestão de Empresas,TERCEIRIZACAO DE SERVICOS,5
+1115,58,Gestão de Pessoas,LIDERANCA DE EQUIPE,11
+1116,58,Gestão de Pessoas,RECURSOS HUMANOS,5
+1117,58,Gestão de Pessoas,TEAM LEADERSHIP,5
+1118,58,Gestão de Projetos,MICROSOFT PROJECT,7
+1119,58,Gestão de TI,COBIT,10
+1120,58,Gestão de TI,GERENCIAMENTO DE SERVICOS DE TI,18
+1121,58,Gestão de TI,GESTAO DE TI,9
+1122,58,Gestão de TI,IT MANAGEMENT,6
+1123,58,Gestão de TI,IT SERVICE MANAGEMENT,7
+1124,58,Gestão de TI,ITIL,27
+1125,58,Habilidades Pessoais,5S,6
+1126,58,Informática,MICROSOFT EXCEL,8
+1127,58,Informática,MICROSOFT OFFICE,5
+1128,58,Infraestrutura de TI,CENTRO DE PROCESSAMENTO DE DADOS,8
+1129,58,Infraestrutura de TI,DATA CENTER,6
+1130,58,Sistemas Operacionais,OPERATING SYSTEMS,5
+1131,58,Sistemas Operacionais,SISTEMAS OPERACIONAIS,14
+1132,58,Sistemas de Gestão,ERP,7
+1133,58,Sistemas de Gestão,ERP (PLANEJAMENTO DE RECURSOS EMPRESARIAIS),9
+1134,59,Atendimento,ATENDIMENTO AO CLIENTE,3
+1135,59,Ensino,TREINAMENTO,1
+1136,59,Gestão de Empresas,CONSULTORIA DE GESTAO,3
+1137,59,Gestão de Empresas,GESTAO,4
+1138,59,Gestão de Empresas,MANAGEMENT,2
+1139,59,Gestão de Empresas,PLANEJAMENTO EMPRESARIAL,2
+1140,59,Gestão de Empresas,PLANEJAMENTO ESTRATEGICO,3
+1141,59,Gestão de Pessoas,LEADERSHIP,2
+1142,59,Gestão de Pessoas,LIDERANCA,9
+1143,59,Gestão de Pessoas,LIDERANCA DE EQUIPE,2
+1144,59,Gestão de Projetos,GESTAO DE PROGRAMAS,5
+1145,59,Gestão de Projetos,GESTAO DE PROJETOS,8
+1146,59,Gestão de Projetos,PROJECT MANAGEMENT,2
+1147,59,Informática,MICROSOFT EXCEL,15
+1148,59,Informática,MICROSOFT OFFICE,12
+1149,59,Informática,MICROSOFT POWERPOINT,8
+1150,59,Informática,MICROSOFT WORD,6
+1151,59,Informática,POWERPOINT,2
+1152,60,Artes e Design,DESIGN RESEARCH,2
+1153,60,Artes e Design,DESIGN STRATEGY,4
+1154,60,Artes e Design,DESIGN THINKING,32
+1155,60,Artes e Design,ETHNOGRAPHY,9
+1156,60,Atendimento,CUSTOMER DEVELOPMENT,1
+1157,60,Banco de Dados,MONGODB,5
+1158,60,Banco de Dados,MYSQL,6
+1159,60,Ciência de Dados,HEURISTIC EVALUATION,20
+1160,60,Desenvolvimento de Front-end,EXPERIENCE DESIGN,21
+1161,60,Desenvolvimento de Front-end,FRONT-END,11
+1162,60,Desenvolvimento de Front-end,HUMAN COMPUTER INTERACTION,6
+1163,60,Desenvolvimento de Front-end,INTERACTION DESIGN,88
+1164,60,Desenvolvimento de Front-end,PROTOTYPE,11
+1165,60,Desenvolvimento de Front-end,PROTOTYPING,2
+1166,60,Desenvolvimento de Front-end,USABILITY,51
+1167,60,Desenvolvimento de Front-end,USABILITY ENGINEERING,7
+1168,60,Desenvolvimento de Front-end,USABILITY TESTING,53
+1169,60,Desenvolvimento de Front-end,USER EXPERIENCE,72
+1170,60,Desenvolvimento de Front-end,USER EXPERIENCE DESIGN,9
+1171,60,Desenvolvimento de Front-end,USER INTERFACE DESIGN,17
+1172,60,Desenvolvimento de Front-end,USER-CENTERED DESIGN,60
+1173,60,Desenvolvimento de Front-end,WIREFRAMES,5
+1174,60,Engenharia de Dados,INFORMATION ARCHITECTURE,36
+1175,60,Engenharia de Dados,INFORMATION DESIGN,27
+1176,60,Gestão de Empresas,BUSINESS DEVELOPMENT,4
+1177,60,Gestão de Empresas,BUSINESS MODEL CANVAS,4
+1178,60,Gestão de Empresas,PRODUCT DEVELOPMENT,5
+1179,60,Gestão de Projetos,PROJECT MANAGEMENT,3
+1180,60,Infraestrutura de TI,AMAZON WEB SERVICES (AWS),4
+1181,60,Linguagem de Programação,CSS,13
+1182,60,Linguagem de Programação,CSS3,7
+1183,60,Linguagem de Programação,HTML 5,11
+1184,60,Linguagem de Programação,JAVASCRIPT,11
+1185,60,Linguagem de Programação,JQUERY,8
+1186,60,Linguagem de Programação,PHP,7
+1187,60,Linguagem de Programação,PYTHON,6
+1188,60,Marketing e Vendas,DIGITAL MARKETING,8
+1189,60,Mobile,IOS DEVELOPMENT,10
+1190,60,Mobile,MOBILE DESIGN,7
+1191,60,Outros,CONTEXTUAL INQUIRY,4
+1192,60,Outros,PAPER PROTOTYPING,7
+1193,60,Outros,PERSONA,9
+1194,60,Outros,PERSONAS,2
+1195,60,Outros,RAPID PROTOTYPING,3
+1196,60,Outros,SERVICE DESIGN,4
+1197,60,Plataformas de Desenvolvimento,AXURE,5
+1198,60,Plataformas de Desenvolvimento,HEROKU,4
+1199,61,Banco de Dados,SQL,0
+1200,61,Ciência de Dados,BIG DATA ANALYTICS,0
+1201,61,Ciência de Dados,DATA ANALYSIS,0
+1202,61,Ciência de Dados,DATA ANALYTICS,0
+1203,61,Engenharia de Dados,"EXTRACT, TRANSFORM, LOAD (ETL)",0
+1204,61,Gestão de Empresas,BUSINESS MANAGEMENT,1
+1205,61,Gestão de Empresas,ENTREPRENEURSHIP,3
+1206,61,Gestão de Empresas,OPERATIONS MANAGEMENT,0
+1207,61,Gestão de Projetos,PROJECT MANAGEMENT,2
+1208,61,Habilidades Pessoais,CRITICAL THINKING,1
+1209,61,Informática,MICROSOFT OFFICE,2
+1210,61,Marketing e Vendas,AFFILIATE MARKETING,0
+1211,61,Marketing e Vendas,DIGITAL MARKETING,0
+1212,62,Artes e Design,FOTOGRAFIA,26
+1213,62,Artes e Design,INDESIGN,13
+1214,62,Comunicação,MIDIAS SOCIAIS,15
+1215,62,Comunicação,SOCIAL MEDIA,6
+1216,62,Ferramentas de Design,ADOBE ILLUSTRATOR,19
+1217,62,Ferramentas de Design,ADOBE PHOTOSHOP,29
+1218,62,Gestão de Empresas,PLANEJAMENTO ESTRATEGICO,10
+1219,62,Informática,MICROSOFT OFFICE,12
+1220,62,Marketing e Vendas,AFFILIATION,32
+1221,62,Marketing e Vendas,COMERCIO ELETRONICO,15
+1222,62,Marketing e Vendas,COMUNICACOES DE MARKETING,10
+1223,62,Marketing e Vendas,CORPORATE BRANDING,24
+1224,62,Marketing e Vendas,E-COMMERCE SEO,22
+1225,62,Marketing e Vendas,EMAIL MARKETING,11
+1226,62,Marketing e Vendas,ESTRATEGIAS DE MARKETING,21
+1227,62,Marketing e Vendas,IDENTIDADE DE MARCA CORPORATIVA,16
+1228,62,Marketing e Vendas,MARKETING,32
+1229,62,Marketing e Vendas,MARKETING COMMUNICATIONS,14
+1230,62,Marketing e Vendas,MARKETING DIGITAL,46
+1231,62,Marketing e Vendas,MARKETING ONLINE,12
+1232,62,Marketing e Vendas,MARKETING POR E-MAIL,16
+1233,62,Marketing e Vendas,MARKETING SOCIAL,9
+1234,62,Marketing e Vendas,ONLINE ADVERTISING,22
+1235,62,Marketing e Vendas,PUBLICIDADE ONLINE,35
+1236,62,Marketing e Vendas,SOCIAL MEDIA MARKETING,2
+1237,63,Artes e Design,MULTIMIDIA,13
+1238,63,Atendimento,SUPORTE TECNICO,9
+1239,63,Banco de Dados,MICROSOFT SQL SERVER,9
+1240,63,Banco de Dados,MYSQL,41
+1241,63,Banco de Dados,SQL,12
+1242,63,Ensino,E-LEARNING,33
+1243,63,Ensino,FACILITADOR EDUCACIONAL,1
+1244,63,Ensino,TECNOLOGIAS EDUCACIONAIS,2
+1245,63,Gestão de Empresas,EMPREENDEDORISMO SOCIAL,2
+1246,63,Gestão de Empresas,NOVOS NEGOCIOS,1
+1247,63,Gestão de Projetos,GESTAO DE PROJETOS DE SOFTWARE,2
+1248,63,Gestão de Projetos,SCRUM,9
+1249,63,Informática,MICROSOFT EXCEL,11
+1250,63,Informática,MICROSOFT OFFICE,23
+1251,63,Linguagem de Programação,CSS,41
+1252,63,Linguagem de Programação,HTML,18
+1253,63,Linguagem de Programação,HTML5,7
+1254,63,Linguagem de Programação,JAVASCRIPT,44
+1255,63,Linguagem de Programação,PHP,27
+1256,63,Outros,MOODLE,19
+1257,63,Outros,TECNOLOGIA DA INFORMACAO,3
+1258,63,Sistemas Operacionais,LINUX,23
+1259,63,Sistemas Operacionais,SISTEMAS OPERACIONAIS,18
+1260,64,Comunicação,COMUNICACAO INTERNA,3
+1261,64,Comunicação,MIDIAS SOCIAIS,1
+1262,64,Gestão de Empresas,MELHORIA DE PROCESSOS,3
+1263,64,Gestão de Pessoas,GESTAO DE PESSOAS,2
+1264,64,Gestão de Pessoas,LIDERANCA,2
+1265,64,Gestão de TI,GESTAO DA MUDANCAS,2
+1266,64,Habilidades Pessoais,PESQUISA,2
+1267,64,Habilidades Pessoais,VISAO SISTEMICA,2
+1268,64,Outros,HISTORY,2
+1269,64,Outros,ORGANIZACOES SEM FINS LUCRATIVOS,2
+1270,64,Sistemas Operacionais,MICROSOFT WINDOWS,2
+1271,65,Banco de Dados,MICROSOFT SQL SERVER,1
+1272,65,Banco de Dados,MYSQL,7
+1273,65,Banco de Dados,SQL,9
+1274,65,Gestão de Projetos,SCRUM,3
+1275,65,Linguagem de Programação,C#,2
+1276,65,Linguagem de Programação,CSS,7
+1277,65,Linguagem de Programação,HTML,5
+1278,65,Linguagem de Programação,JAVASCRIPT,8
+1279,65,Linguagem de Programação,JQUERY,8
+1280,65,Linguagem de Programação,PHP,8
+1281,65,Marketing e Vendas,SASS,5
+1282,65,Marketing e Vendas,SEARCH ENGINE OPTIMIZATION (SEO),5
+1283,65,Outros,LESS,2
+1284,65,Plataformas de Desenvolvimento,FACEBOOK API,2
+1285,65,Plataformas de Desenvolvimento,GRUNTJS,5
+1286,65,Plataformas de Desenvolvimento,GULP.JS,2
+1287,65,Plataformas de Desenvolvimento,LARAVEL,2
+1288,65,Plataformas de Desenvolvimento,NODE.JS,2
+1289,65,Qualidade de Software,GIT,2
+1290,65,Sistemas Operacionais,LINUX,1
+1291,66,Atendimento,AJUDA NO SUCESSO DO CLIENTE,3
+1292,66,BI,GOOGLE ANALYTICS,3
+1293,66,Desenvolvimento de Front-end,EXPERIENCIA DO USUARIO,4
+1294,66,Gestão de Empresas,ANALISE DA COMPETITIVIDADE,3
+1295,66,Gestão de Empresas,BUSINESS PLANNING,9
+1296,66,Gestão de Empresas,BUSINESS STRATEGY,12
+1297,66,Gestão de Empresas,COMPETITIVE ANALYSIS,6
+1298,66,Gestão de Empresas,DESENVOLVIMENTO DE NOVOS NEGOCIOS,5
+1299,66,Gestão de Empresas,ESTRATEGIA,4
+1300,66,Gestão de Empresas,ESTRATEGIA EMPRESARIAL,16
+1301,66,Gestão de Empresas,GESTAO,5
+1302,66,Gestão de Empresas,MANAGING DISTRIBUTION CHANNELS,6
+1303,66,Gestão de Empresas,NEW BUSINESS DEVELOPMENT,8
+1304,66,Gestão de Empresas,PLANEJAMENTO EMPRESARIAL,7
+1305,66,Gestão de Empresas,PLANEJAMENTO ESTRATEGICO,5
+1306,66,Gestão de Empresas,STRATEGIC PLANNING,0
+1307,66,Gestão de Pessoas,LIDERANCA,3
+1308,66,Gestão de Pessoas,LIDERANCA DE EQUIPE,4
+1309,66,Gestão de Pessoas,TEAM MANAGEMENT,4
+1310,66,Gestão de Projetos,GESTAO DE PROJETOS,3
+1311,66,Habilidades Pessoais,NEGOCIACAO,5
+1312,66,Habilidades Pessoais,NEGOTIATION,0
+1313,66,Informática,MICROSOFT OFFICE,13
+1314,66,Informática,MICROSOFT WORD,5
+1315,66,Marketing e Vendas,ADVERTISING,3
+1316,66,Marketing e Vendas,BRAND DEVELOPMENT,4
+1317,66,Marketing e Vendas,COMERCIO ELETRONICO,3
+1318,66,Marketing e Vendas,COMUNICACOES DE MARKETING,3
+1319,66,Marketing e Vendas,DIGITAL MARKETING,1
+1320,66,Marketing e Vendas,ESTRATEGIAS DE MARKETING,15
+1321,66,Marketing e Vendas,GESTAO DE MARKETING,6
+1322,66,Marketing e Vendas,GESTAO DE VENDAS,9
+1323,66,Marketing e Vendas,MARKETING,21
+1324,66,Marketing e Vendas,MARKETING DIGITAL,5
+1325,66,Marketing e Vendas,MARKETING INBOUND,2
+1326,66,Marketing e Vendas,MARKETING MANAGEMENT,9
+1327,66,Marketing e Vendas,MARKETING NO FACEBOOK,4
+1328,66,Marketing e Vendas,MARKETING ONLINE,4
+1329,66,Marketing e Vendas,MARKETING STRATEGY,25
+1330,66,Marketing e Vendas,PUBLICIDADE ONLINE,3
+1331,66,Marketing e Vendas,RELATIONSHIP MARKETING,3
+1332,66,Marketing e Vendas,SALES MANAGEMENT,11
+1333,66,Marketing e Vendas,VENDAS,3
+1334,66,Outros,TELECOMMUNICATIONS,3
+1335,67,Artes e Design,DESIGN GRAFICO,8
+1336,67,Comunicação,COMUNICACAO DIGITAL,4
+1337,67,Comunicação,REDACAO,4
+1338,67,Gestão de Empresas,ESTRATEGIA DIGITAL,2
+1339,67,Gestão de Empresas,ESTRATEGIA EMPRESARIAL,5
+1340,67,Habilidades Pessoais,NEGOCIACAO,6
+1341,67,Marketing e Vendas,ADVERTISING,8
+1342,67,Marketing e Vendas,MARKETING,11
+1343,67,Marketing e Vendas,PUBLICIDADE,2
+1344,68,Gestão Financeira,ANALISE FINANCEIRA,3
+1345,68,Gestão Financeira,AVALIACAO FINANCEIRA,2
+1346,68,Gestão Financeira,FINANCAS CORPORATIVAS,10
+1347,68,Gestão Financeira,INVESTIMENTOS,7
+1348,68,Gestão Financeira,MERCADO DE CAPITAIS,13
+1349,68,Gestão Financeira,MERCADOS FINANCEIROS,2
+1350,68,Gestão Financeira,MODELAGEM FINANCEIRA,10
+1351,68,Gestão de Empresas,ASSET MANAGEMENT,2
+1352,68,Gestão de Empresas,BUSINESS PLANNING,4
+1353,68,Gestão de Empresas,ESTRATEGIA EMPRESARIAL,22
+1354,68,Gestão de Empresas,GESTAO DE ATIVOS,14
+1355,68,Gestão de Empresas,PLANEJAMENTO EMPRESARIAL,1
+1356,68,Gestão de Empresas,PLANEJAMENTO ESTRATEGICO,8
+1357,68,Informática,MICROSOFT EXCEL,8
+1358,68,Informática,MICROSOFT OFFICE,7
+1359,68,Outros,ECONOMIA,5
+1360,69,Atendimento,GESTAO DE RELACAO DE CLIENTES,21
+1361,69,Gestão de Empresas,BUSINESS STRATEGY,5
+1362,69,Gestão de Empresas,ESTRATEGIA EMPRESARIAL,19
+1363,69,Gestão de Empresas,GESTAO DE PRODUTOS,5
+1364,69,Gestão de Empresas,PLANEJAMENTO EMPRESARIAL,7
+1365,69,Gestão de Empresas,STRATEGIC PLANNING,4
+1366,69,Habilidades Pessoais,NEGOCIACAO,8
+1367,69,Marketing e Vendas,ESTRATEGIAS DE MARKETING,17
+1368,69,Marketing e Vendas,MARKETING DIGITAL,9
+1369,69,Sistemas Operacionais,DOS,6
+1370,70,Atendimento,ATENDIMENTO AO CLIENTE,17
+1371,70,Atendimento,CUSTOMER SATISFACTION,2
+1372,70,Atendimento,CUSTOMER SUCCESS,4
+1373,70,Atendimento,EXPERIENCIA DO CLIENTE,7
+1374,70,Comunicação,ORATORIA,12
+1375,70,Desenvolvimento de Front-end,EXPERIENCIA DO USUARIO,5
+1376,70,Desenvolvimento de Sistemas,DESENVOLVIMENTO DE SOFTWARE,7
+1377,70,Gestão de Empresas,GESTAO,5
+1378,70,Gestão de Empresas,MANAGEMENT,3
+1379,70,Gestão de Pessoas,LIDERANCA,4
+1380,70,Gestão de Pessoas,LIDERANCA INOVADORA,11
+1381,70,Gestão de Projetos,GESTAO DE PROJETOS,6
+1382,70,Gestão de Projetos,PROJECT MANAGEMENT,3
+1383,70,Informática,MICROSOFT EXCEL,1
+1384,70,Informática,MICROSOFT OFFICE,0
+1385,70,Informática,MICROSOFT POWERPOINT,1
+1386,70,Informática,MICROSOFT WORD,5
+1387,70,Linguagem de Programação,JAVA,6
+1388,70,Marketing e Vendas,DIGITAL MARKETING,3
+1389,70,Marketing e Vendas,MARKETING DIGITAL,1
+1390,70,Marketing e Vendas,VENDAS,7
+1391,70,Outros,INOVACAO ABERTA,12
+1392,71,Artes e Design,MIDIA DIGITAL,5
+1393,71,Comunicação,COMUNICACAO EMPRESARIAL,2
+1394,71,Comunicação,MIDIAS SOCIAIS,0
+1395,71,Comunicação,RELACOES COM A MIDIA,1
+1396,71,Gestão de Empresas,ESTRATEGIA DIGITAL,3
+1397,71,Marketing e Vendas,GOOGLE ADWORDS,1
+1398,71,Marketing e Vendas,MARKETING DE INFLUENCIADORES,0
+1399,71,Marketing e Vendas,MARKETING DIGITAL,5
+1400,71,Marketing e Vendas,MARKETING ONLINE,4
+1401,71,Marketing e Vendas,PUBLICIDADE,4
+1402,71,Marketing e Vendas,PUBLICIDADE ONLINE,5
+1403,72,Artes e Design,CREATIVE DIRECTION,13
+1404,72,Artes e Design,FILM PRODUCTION,13
+1405,72,Artes e Design,ILLUSTRATOR,10
+1406,72,Artes e Design,PHOTOSHOP,10
+1407,72,Artes e Design,SHORT FILMS,12
+1408,72,Comunicação,COMMUNICACAO ESTRATEGICA,5
+1409,72,Comunicação,COMUNICACAO EMPRESARIAL,6
+1410,72,Comunicação,MIDIAS SOCIAIS,2
+1411,72,Comunicação,SOCIAL MEDIA,11
+1412,72,Gestão de Empresas,PLANEJAMENTO ESTRATEGICO,6
+1413,72,Gestão de Empresas,STRATEGIC PLANNING,4
+1414,72,Gestão de Projetos,GESTAO DE PROJETOS,5
+1415,72,Marketing e Vendas,ADVERTISING,12
+1416,72,Marketing e Vendas,COMUNICACOES DE MARKETING,6
+1417,72,Marketing e Vendas,DIGITAL MARKETING,12
+1418,72,Marketing e Vendas,ESTRATEGIAS DE MARKETING,8
+1419,72,Marketing e Vendas,MARKETING DIGITAL,3
+1420,72,Marketing e Vendas,MARKETING STRATEGY,17
+1421,72,Marketing e Vendas,ONLINE ADVERTISING,12
+1422,72,Marketing e Vendas,PUBLICIDADE ONLINE,2
+1423,72,Outros,COMPOSITING,4
+1424,73,Desenvolvimento de Front-end,USABILITY TESTING,0
+1425,73,Gestão de Projetos,SCRUM,1
+1426,73,Linguagem de Programação,C,2
+1427,73,Linguagem de Programação,HTML,0
+1428,73,Linguagem de Programação,JAVA,4
+1429,73,Qualidade de Software,GIT,1
+1430,74,Atendimento,CRM,3
+1431,74,Atendimento,GESTAO DE RELACAO DE CLIENTES,7
+1432,74,BI,GOOGLE ANALYTICS,2
+1433,74,Gestão de Empresas,EMPRESAS STARTUPS,4
+1434,74,Gestão de Empresas,PLANEJAMENTO DE MERCADO,7
+1435,74,Gestão de Empresas,START-UPS,5
+1436,74,Habilidades Pessoais,NEGOCIACAO,24
+1437,74,Habilidades Pessoais,NEGOTIATION,6
+1438,74,Idiomas,ENGLISH,2
+1439,74,Idiomas,INGLES,6
+1440,74,Idiomas,PORTUGUES,4
+1441,74,Idiomas,PORTUGUESE,2
+1442,74,Informática,MICROSOFT EXCEL,13
+1443,74,Marketing e Vendas,B2B,7
+1444,74,Marketing e Vendas,COMERCIO ELETRONICO,6
+1445,74,Marketing e Vendas,DIGITAL MARKETING,7
+1446,74,Marketing e Vendas,E-COMMERCE,6
+1447,74,Marketing e Vendas,EMAIL MARKETING,2
+1448,74,Marketing e Vendas,ESTRATEGIAS DE MARKETING,41
+1449,74,Marketing e Vendas,GESTAO DE VENDAS,7
+1450,74,Marketing e Vendas,MARKET PLANNING,2
+1451,74,Marketing e Vendas,MARKETING,21
+1452,74,Marketing e Vendas,MARKETING DIGITAL,10
+1453,74,Marketing e Vendas,MARKETING POR E-MAIL,3
+1454,74,Marketing e Vendas,MARKETING SOCIAL,5
+1455,74,Marketing e Vendas,MARKETING STRATEGY,6
+1456,74,Marketing e Vendas,SALES,6
+1457,74,Marketing e Vendas,SALES MANAGEMENT,2
+1458,74,Marketing e Vendas,SEM,2
+1459,74,Marketing e Vendas,SOCIAL MEDIA MARKETING,2
+1460,74,Marketing e Vendas,VENDAS,10
+1461,74,Sistemas de Gestão,SALESFORCE.COM,4
+1462,75,Atendimento,ATENDIMENTO AO CLIENTE,4
+1463,75,Atendimento,CUSTOMER SERVICE,0
+1464,75,Gestão de Empresas,BUSINESS STRATEGY,2
+1465,75,Gestão de Empresas,ESTRATEGIA EMPRESARIAL,13
+1466,75,Idiomas,PORTUGUES,3
+1467,75,Informática,MICROSOFT EXCEL,2
+1468,75,Informática,MICROSOFT OFFICE,1
+1469,75,Marketing e Vendas,ESTRATEGIAS DE MARKETING,6
+1470,75,Marketing e Vendas,PRECIFICACAO,6
+1471,75,Marketing e Vendas,VENDAS,5
+1472,75,Outros,LINHAS AEREAS,11
+1473,75,Outros,NAVITAIRE SKYSPEED 3.4,0
+1474,75,Outros,ORACLE HYPERION WEB ANALYSIS,0
+1475,75,Outros,ORACLE I-EXPENSES,0
+1476,75,Outros,SABRE,0
+1477,75,Outros,TURISMO,6
+1478,75,Sistemas de Gestão,AMADEUS,0
+1479,76,Atendimento,FOCO NO CLIENTE,4
+1480,76,Comunicação,COMUNICACAO INTERPESSOAL,3
+1481,76,Habilidades Pessoais,PERSISTENCIA,3
+1482,76,Habilidades Pessoais,PROATIVIDADE,3
+1483,76,Habilidades Pessoais,SENSIBILIDADE,3
+1484,76,Habilidades Pessoais,SOCIABILIDADE,3
+1485,77,Artes e Design,DIGITAL MEDIA,6
+1486,77,Artes e Design,MIDIA DIGITAL,2
+1487,77,BI,GOOGLE ANALYTICS,19
+1488,77,BI,WEB ANALYTICS,5
+1489,77,Comunicação,MIDIAS SOCIAIS,3
+1490,77,Gestão de Empresas,DIGITAL STRATEGY,6
+1491,77,Gestão de Empresas,ESTRATEGIA DIGITAL,7
+1492,77,Gestão de Empresas,ESTRATEGIA EMPRESARIAL,2
+1493,77,Gestão de Empresas,GESTAO,1
+1494,77,Gestão de Empresas,PLANEJAMENTO ESTRATEGICO,4
+1495,77,Habilidades Pessoais,NEGOCIACAO,1
+1496,77,Infraestrutura de TI,ANALISE DE REDE,8
+1497,77,Marketing e Vendas,COMERCIO ELETRONICO,26
+1498,77,Marketing e Vendas,DIGITAL MARKETING,5
+1499,77,Marketing e Vendas,E-COMMERCE,12
+1500,77,Marketing e Vendas,ESTRATEGIAS DE MARKETING,11
+1501,77,Marketing e Vendas,GOOGLE ADWORDS,17
+1502,77,Marketing e Vendas,MARKETING,5
+1503,77,Marketing e Vendas,MARKETING DIGITAL,19
+1504,77,Marketing e Vendas,MARKETING ONLINE,8
+1505,77,Marketing e Vendas,MARKETING POR E-MAIL,4
+1506,77,Marketing e Vendas,MARKETING SOCIAL,4
+1507,77,Marketing e Vendas,MARKETING STRATEGY,3
+1508,77,Marketing e Vendas,MOBILE MARKETING,2
+1509,77,Marketing e Vendas,ONLINE MARKETING,6
+1510,77,Marketing e Vendas,PUBLICIDADE,2
+1511,77,Marketing e Vendas,PUBLICIDADE ONLINE,4
+1512,77,Marketing e Vendas,SEO,4
+1513,77,Marketing e Vendas,SEO (OTIMIZACAO DE MOTORES DE BUSCA),3
+1514,78,BI,GOOGLE ANALYTICS,13
+1515,78,BI,WEB ANALYTICS,17
+1516,78,Desenvolvimento de Front-end,EXPERIENCIA DO USUARIO,23
+1517,78,Desenvolvimento de Front-end,FRONT-END,18
+1518,78,Desenvolvimento de Front-end,INTERACTION DESIGN,10
+1519,78,Desenvolvimento de Front-end,SISTEMA FRONT-END,3
+1520,78,Desenvolvimento de Front-end,TESTE DE USABILIDADE,3
+1521,78,Desenvolvimento de Front-end,USABILIDADE,4
+1522,78,Desenvolvimento de Front-end,USABILITY,16
+1523,78,Desenvolvimento de Front-end,USABILITY TESTING,14
+1524,78,Desenvolvimento de Front-end,USER EXPERIENCE,48
+1525,78,Desenvolvimento de Front-end,USER INTERFACE,8
+1526,78,Desenvolvimento de Front-end,USER INTERFACE DESIGN,17
+1527,78,Desenvolvimento de Front-end,USER-CENTERED DESIGN,6
+1528,78,Desenvolvimento de Front-end,WEB DESIGN,9
+1529,78,Desenvolvimento de Front-end,WIREFRAMES,7
+1530,78,Desenvolvimento de Sistemas,WEB STANDARDS,4
+1531,78,Engenharia de Dados,INFORMATION ARCHITECTURE,36
+1532,78,Gestão de Empresas,DIGITAL STRATEGY,9
+1533,78,Gestão de Projetos,AGILE METHODOLOGIES,7
+1534,78,Gestão de Projetos,KANBAN,5
+1535,78,Gestão de Projetos,SCRUM,11
+1536,78,Linguagem de Programação,JQUERY,7
+1537,78,Marketing e Vendas,COMERCIO ELETRONICO,12
+1538,78,Marketing e Vendas,E-COMMERCE,24
+1539,78,Marketing e Vendas,SEM,8
+1540,78,Marketing e Vendas,SEO,10
+1541,78,Marketing e Vendas,SEO (OTIMIZACAO DE MOTORES DE BUSCA),3
+1542,78,Mobile,MOBILE APPLICATIONS,3
+1543,78,Mobile,MOBILE DESIGN,7
+1544,78,Plataformas de Desenvolvimento,AXURE,14
+1545,78,Sistemas Operacionais,DOS,12
+1546,79,Banco de Dados,MYSQL,6
+1547,79,Desenvolvimento de Sistemas,SOFTWARE DEVELOPMENT,10
+1548,79,Desenvolvimento de Sistemas,SOFTWARE ENGINEERING,28
+1549,79,Desenvolvimento de Sistemas,WEB DEVELOPMENT,3
+1550,79,Gestão de Projetos,SCRUM,39
+1551,79,Linguagem de Programação,ALGORITHMS,6
+1552,79,Linguagem de Programação,C,32
+1553,79,Linguagem de Programação,C++,49
+1554,79,Linguagem de Programação,OBJECTIVE-C,13
+1555,79,Linguagem de Programação,PYTHON,39
+1556,79,Linguagem de Programação,SWIFT,14
+1557,79,Mobile,IOS DEVELOPMENT,8
+1558,79,Outros,EMBEDDED SYSTEMS,16
+1559,79,Plataformas de Desenvolvimento,DJANGO,3
+1560,79,Plataformas de Desenvolvimento,QT,25
+1561,79,Qualidade de Software,GIT,20
+1562,79,Sistemas Operacionais,BASH,7
+1563,79,Sistemas Operacionais,LINUX,52
+1564,79,Sistemas Operacionais,SHELL SCRIPTING,15
+1565,80,Banco de Dados,MYSQL,5
+1566,80,Banco de Dados,POSTGRESQL,3
+1567,80,Desenvolvimento de Front-end,CODED UI,1
+1568,80,Desenvolvimento de Sistemas,BDD,1
+1569,80,Desenvolvimento de Sistemas,ENGENHARIA DE SOFTWARE,2
+1570,80,Gestão de Projetos,AGILE METHODOLOGIES,12
+1571,80,Gestão de Projetos,METODOLOGIAS AGEIS,13
+1572,80,Gestão de Projetos,SCRUM,34
+1573,80,Habilidades Pessoais,TEAMWORK,6
+1574,80,Idiomas,BRAZILIAN PORTUGUESE,2
+1575,80,Linguagem de Programação,C#,3
+1576,80,Linguagem de Programação,C++,3
+1577,80,Linguagem de Programação,JAVA,16
+1578,80,Mobile,MOBILE TESTING,13
+1579,80,Mobile,WINDOWS PHONE,7
+1580,80,Outros,EFITNESSE,1
+1581,80,Outros,FITNESSE,2
+1582,80,Outros,JMETER,2
+1583,80,Outros,JMUNIT,1
+1584,80,Outros,MONKEYRUNNER,1
+1585,80,Outros,SIKULI,1
+1586,80,Outros,TESTLINK,9
+1587,80,Plataformas de Desenvolvimento,COBERTURA FOR J2ME,3
+1588,80,Plataformas de Desenvolvimento,CUCUMBER,1
+1589,80,Plataformas de Desenvolvimento,ECLIPSE,8
+1590,80,Plataformas de Desenvolvimento,MICROSOFT VISUAL STUDIO,2
+1591,80,Qualidade de Software,ACOMPANHAMENTO DE BUGS,2
+1592,80,Qualidade de Software,AUTOMACAO DE TESTES,12
+1593,80,Qualidade de Software,AUTOMATED SOFTWARE TESTING,1
+1594,80,Qualidade de Software,BUG TRACKING,10
+1595,80,Qualidade de Software,JIRA,11
+1596,80,Qualidade de Software,MICROSOFT TEST MANAGER,1
+1597,80,Qualidade de Software,ROBOTIUM,1
+1598,80,Qualidade de Software,SELENIUM,6
+1599,80,Qualidade de Software,SELENIUM RC/IDE,3
+1600,80,Qualidade de Software,SELENIUM WEBDRIVER,1
+1601,80,Qualidade de Software,SOFTWARE TESTING PROCESS,11
+1602,80,Qualidade de Software,SYSTEM TESTING,1
+1603,80,Qualidade de Software,TEAM FOUNDATION SERVER,1
+1604,80,Qualidade de Software,TEST AUTOMATION,8
+1605,80,Qualidade de Software,TEST STRATEGY,3
+1606,81,Ciência de Dados,DATA ANALYSIS,2
+1607,81,Gestão Financeira,CAPITAL MARKETS,7
+1608,81,Gestão Financeira,CORPORATE FINANCE,15
+1609,81,Gestão Financeira,FINANCE,10
+1610,81,Gestão Financeira,FINANCIAL MODELING,12
+1611,81,Informática,POWERPOINT,3
+1612,81,Linguagem de Programação,VBA,4
+1613,81,Outros,VALUATION,15
+1614,82,Banco de Dados,MYSQL,3
+1615,82,Banco de Dados,SQL,1
+1616,82,Desenvolvimento de Sistemas,DESENVOLVIMENTO DE SOFTWARE,0
+1617,82,Desenvolvimento de Sistemas,ENGENHARIA DE SOFTWARE,3
+1618,82,Desenvolvimento de Sistemas,PROGRAMACAO DE COMPUTADORES,0
+1619,82,Desenvolvimento de Sistemas,UML,3
+1620,82,Gestão de Empresas,DESENVOLVIMENTO DE PRODUTOS,2
+1621,82,Gestão de Pessoas,LIDERANCA DE EQUIPE,1
+1622,82,Gestão de Projetos,METODOLOGIAS AGEIS,1
+1623,82,Gestão de Projetos,SCRUM,4
+1624,82,Linguagem de Programação,C,0
+1625,82,Linguagem de Programação,C (LINGUAGEM DE PROGRAMACAO),2
+1626,82,Linguagem de Programação,CSS,1
+1627,82,Linguagem de Programação,HTML,1
+1628,82,Linguagem de Programação,HTML5,1
+1629,82,Linguagem de Programação,JAVA,3
+1630,82,Linguagem de Programação,JAVASCRIPT,1
+1631,82,Linguagem de Programação,PHP,2
+1632,82,Linguagem de Programação,SWIFT,1
+1633,82,Mobile,ANDROID,1
+1634,82,Mobile,DESENVOLVIMENTO PARA IOS,2
+1635,82,Outros,DESENVOLVIMENTO DE SITES,1
+1636,82,Outros,TETRIZ,1
+1637,82,Plataformas de Desenvolvimento,FRAMEWORKS PHP,2
+1638,82,Qualidade de Software,GIT,1
+1639,82,Sistemas Operacionais,LINUX,2
+1640,82,Sistemas Operacionais,SISTEMAS OPERACIONAIS,0
+1641,83,Banco de Dados,MICROSOFT SQL SERVER,1
+1642,83,Banco de Dados,MYSQL,2
+1643,83,Banco de Dados,POSTGRESQL,1
+1644,83,Banco de Dados,SQL,1
+1645,83,Desenvolvimento de Sistemas,DEVELOPMENT PROGRAMMING,1
+1646,83,Desenvolvimento de Sistemas,SOFTWARE DEVELOPMENT,1
+1647,83,Linguagem de Programação,C,2
+1648,83,Linguagem de Programação,C#,3
+1649,83,Linguagem de Programação,C++,2
+1650,83,Linguagem de Programação,HTML,1
+1651,83,Linguagem de Programação,HTML 5,2
+1652,83,Linguagem de Programação,JAVA,5
+1653,83,Linguagem de Programação,PHP,2
+1654,83,Linguagem de Programação,PROGRAMMING LANGUAGES,1
+1655,83,Linguagem de Programação,PROLOG,1
+1656,83,Linguagem de Programação,PYTHON,1
+1657,83,Linguagem de Programação,VISUAL BASIC,2
+1658,83,Mobile,DESENVOLVIMENTO ANDROID,5
+1659,83,Plataformas de Desenvolvimento,DELPHI,1
+1660,84,Banco de Dados,MYSQL,4
+1661,84,Banco de Dados,SQL,4
+1662,84,Desenvolvimento de Sistemas,DESENVOLVIMENTO DE SOFTWARE,1
+1663,84,Desenvolvimento de Sistemas,SOFTWARE DEVELOPMENT,2
+1664,84,Gestão de Projetos,SCRUM,3
+1665,84,Linguagem de Programação,C (LINGUAGEM DE PROGRAMACAO),5
+1666,84,Linguagem de Programação,C++,6
+1667,84,Linguagem de Programação,HTML,3
+1668,84,Linguagem de Programação,JAVASCRIPT,4
+1669,84,Linguagem de Programação,PHP,5
+1670,84,Linguagem de Programação,PYTHON,2
+1671,84,Sistemas Operacionais,LINUX,9
+1672,85,Gestão de Projetos,SCRUM,3
+1673,85,Idiomas,INGLES,3
+1674,85,Infraestrutura de TI,CBL,2
+1675,85,Linguagem de Programação,OBJECTIVE-C,0
+1676,85,Linguagem de Programação,SWIFT,4
+1677,85,Mobile,IOS,4
+1678,86,BI,DATA MINING,3
+1679,86,Banco de Dados,JDBC,3
+1680,86,Banco de Dados,MYSQL,10
+1681,86,Banco de Dados,ORACLE SQL,2
+1682,86,Banco de Dados,SQL,6
+1683,86,Banco de Dados,SQLITE,3
+1684,86,Ciência de Dados,MACHINE LEARNING,2
+1685,86,Desenvolvimento de Sistemas,EJB,3
+1686,86,Desenvolvimento de Sistemas,UML,2
+1687,86,Desenvolvimento de Sistemas,UNIFIED MODELING LANGUAGE (UML),1
+1688,86,Engenharia de Dados,INFORMATION RETRIEVAL,2
+1689,86,Gestão de Projetos,SCRUM,7
+1690,86,Linguagem de Programação,C++,4
+1691,86,Linguagem de Programação,CSS,3
+1692,86,Linguagem de Programação,DHTML,2
+1693,86,Linguagem de Programação,HTML,4
+1694,86,Linguagem de Programação,JAVA,3
+1695,86,Linguagem de Programação,JAVA ENTERPRISE EDITION,5
+1696,86,Linguagem de Programação,JAVASCRIPT,9
+1697,86,Linguagem de Programação,JSF,3
+1698,86,Linguagem de Programação,LUA,3
+1699,86,Linguagem de Programação,PHP,9
+1700,86,Linguagem de Programação,PYTHON,2
+1701,86,Mobile,ANDROID DEVELOPMENT,11
+1702,86,Mobile,DESENVOLVIMENTO ANDROID,7
+1703,86,Outros,CONTEXT SENSITIVE SOLUTIONS,3
+1704,86,Outros,DIGITAL TV,5
+1705,86,Outros,ITS,3
+1706,86,Outros,JAVASE,3
+1707,86,Outros,JPA,2
+1708,86,Outros,PHPMYADMIN,3
+1709,86,Plataformas de Desenvolvimento,CHROME EXTENSIONS,2
+1710,86,Sistemas Operacionais,LINUX,5
+1711,86,Sistemas Operacionais,WINDOWS,2
+1712,87,Banco de Dados,MYSQL,3
+1713,87,Linguagem de Programação,C++,3
+1714,87,Linguagem de Programação,JAVA,6
+1715,87,Linguagem de Programação,PYTHON,3
+1716,88,Banco de Dados,MICROSOFT SQL SERVER,8
+1717,88,Banco de Dados,MYSQL,7
+1718,88,Banco de Dados,SQL,9
+1719,88,Desenvolvimento de Sistemas,DESENVOLVIMENTO DE SOFTWARE,6
+1720,88,Desenvolvimento de Sistemas,SOFTWARE DEVELOPMENT,4
+1721,88,Gestão de Projetos,SCRUM,4
+1722,88,Informática,MICROSOFT OFFICE,3
+1723,88,Linguagem de Programação,C,4
+1724,88,Linguagem de Programação,C (LINGUAGEM DE PROGRAMACAO),8
+1725,88,Linguagem de Programação,C#,3
+1726,88,Linguagem de Programação,C++,4
+1727,88,Linguagem de Programação,CSS,3
+1728,88,Linguagem de Programação,HTML,3
+1729,88,Linguagem de Programação,JAVA,12
+1730,88,Linguagem de Programação,JAVASCRIPT,1
+1731,88,Linguagem de Programação,JSON,2
+1732,88,Linguagem de Programação,OBJECT PASCAL,3
+1733,88,Linguagem de Programação,OBJECTIVE-C,6
+1734,88,Linguagem de Programação,PROLOG,2
+1735,88,Linguagem de Programação,PYTHON,2
+1736,88,Linguagem de Programação,SWIFT,3
+1737,88,Linguagem de Programação,VISUAL BASIC,5
+1738,88,Outros,JADE,1
+1739,88,Outros,LATEX,2
+1740,88,Outros,SML,2
+1741,88,Plataformas de Desenvolvimento,J2ME,2
+1742,89,Engenharia,ENGENHARIA,0
+1743,89,Engenharia,ENGENHARIA DE PROCESSOS,0
+1744,89,Idiomas,INGLES,1
+1745,89,Informática,MICROSOFT OFFICE,0
+1746,89,Informática,MICROSOFT POWERPOINT,0
+1747,89,Informática,MICROSOFT WORD,0
+1748,90,BI,DATA MINING,0
+1749,90,Banco de Dados,BANCO DE DADOS,4
+1750,90,Banco de Dados,BARMAN (BACKUP AND RECOVERY MANAGER) - POSTGRESQL,0
+1751,90,Banco de Dados,DATABASE ADMINISTRATION,4
+1752,90,Banco de Dados,DATABASES,4
+1753,90,Banco de Dados,MYSQL,16
+1754,90,Banco de Dados,POSTGRESQL,10
+1755,90,Banco de Dados,SQL,19
+1756,90,Desenvolvimento de Sistemas,SOFTWARE DEVELOPMENT,4
+1757,90,Desenvolvimento de Sistemas,UML,7
+1758,90,Desenvolvimento de Sistemas,XML,2
+1759,90,Engenharia de Dados,DATA WAREHOUSING,2
+1760,90,Engenharia de Dados,ETL,2
+1761,90,Engenharia de Dados,"ETL (EXTRACAO, TRANSFORMACAO E CARREGAMENTO)",1
+1762,90,Engenharia de Dados,PENTAHO,1
+1763,90,Gestão de Projetos,MICROSOFT PROJECT,5
+1764,90,Gestão de Projetos,MS PROJECT,0
+1765,90,Gestão de Projetos,SCRUM,21
+1766,90,Gestão de TI,BMC REMEDY,0
+1767,90,Gestão de TI,GESTAO DE TI,3
+1768,90,Gestão de TI,IT MANAGEMENT,3
+1769,90,Infraestrutura de TI,AMAZON EC2,1
+1770,90,Infraestrutura de TI,VMWARE,1
+1771,90,Infraestrutura de TI,WINDOWS SERVER,2
+1772,90,Linguagem de Programação,C/C++,2
+1773,90,Linguagem de Programação,JAVA,8
+1774,90,Linguagem de Programação,JSF,2
+1775,90,Linguagem de Programação,R,0
+1776,90,Linguagem de Programação,VISUAL BASIC,2
+1777,90,Linguagem de Programação,VISUAL BASIC 5.0/6.0,2
+1778,90,Outros,HYPERIC HQ,0
+1779,90,Outros,NAGIOS,0
+1780,90,Outros,ZABBIX,0
+1781,90,Plataformas de Desenvolvimento,DELPHI,4
+1782,90,Qualidade de Software,CVS,1
+1783,90,Sistemas Operacionais,DEBIAN,2
+1784,90,Sistemas Operacionais,FREEBSD,2
+1785,90,Sistemas Operacionais,LINUX,17
+1786,90,Sistemas Operacionais,OPERATING SYSTEMS,9
+1787,90,Sistemas Operacionais,SHELL SCRIPT,7
+1788,90,Sistemas Operacionais,SHELL SCRIPTING,3
+1789,90,Sistemas Operacionais,SISTEMAS OPERACIONAIS,20
+1790,90,Sistemas Operacionais,UBUNTU,1
+1791,90,Sistemas Operacionais,UNIX SHELL SCRIPTING,2
+1792,90,Sistemas Operacionais,WINDOWS,2
+1793,91,Artes e Design,GRAPHIC DESIGN,3
+1794,91,BI,GOOGLE ANALYTICS,22
+1795,91,Comunicação,MIDIAS SOCIAIS,40
+1796,91,Comunicação,SOCIAL MEDIA,13
+1797,91,Desenvolvimento de Front-end,WEB DESIGN,2
+1798,91,Ferramentas de Design,ADOBE CREATIVE SUITE,3
+1799,91,Gestão de Empresas,ESTRATEGIA EMPRESARIAL,3
+1800,91,Gestão de Empresas,PLANEJAMENTO ESTRATEGICO,8
+1801,91,Marketing e Vendas,ADVERTISING,4
+1802,91,Marketing e Vendas,COMUNICACOES DE MARKETING,3
+1803,91,Marketing e Vendas,DIGITAL MARKETING,17
+1804,91,Marketing e Vendas,ESTRATEGIAS DE MARKETING,21
+1805,91,Marketing e Vendas,GOOGLE ADWORDS,23
+1806,91,Marketing e Vendas,MARKETING,28
+1807,91,Marketing e Vendas,MARKETING DE CONTEUDO,1
+1808,91,Marketing e Vendas,MARKETING DE MOTOR DE BUSCA,20
+1809,91,Marketing e Vendas,MARKETING DIGITAL,31
+1810,91,Marketing e Vendas,MARKETING ONLINE,9
+1811,91,Marketing e Vendas,MARKETING SOCIAL,15
+1812,91,Marketing e Vendas,MARKETING STRATEGY,6
+1813,91,Marketing e Vendas,PUBLICIDADE,6
+1814,91,Marketing e Vendas,PUBLICIDADE ONLINE,7
+1815,91,Marketing e Vendas,SEM,6
+1816,91,Marketing e Vendas,SEO,3
+1817,91,Marketing e Vendas,SEO (OTIMIZACAO DE MOTORES DE BUSCA),12
+1818,91,Marketing e Vendas,SOCIAL MEDIA MARKETING,7
+1819,91,Outros,RUNRUN.IT,2
+1820,93,Atendimento,CALL CENTERS,1
+1821,93,Atendimento,CENTRAIS DE ATENDIMENTO,2
+1822,93,BI,BUSINESS INTELLIGENCE,1
+1823,93,BI,INTELIGENCIA EMPRESARIAL,10
+1824,93,Gestão de Empresas,EMPRESAS STARTUPS,4
+1825,93,Gestão de Empresas,ESTRATEGIA EMPRESARIAL,1
+1826,93,Gestão de Empresas,GESTAO,15
+1827,93,Gestão de Empresas,MANAGEMENT,1
+1828,93,Gestão de Empresas,PLANEJAMENTO ESTRATEGICO,15
+1829,93,Gestão de Empresas,START-UPS,1
+1830,93,Gestão de Empresas,STRATEGIC PLANNING,2
+1831,93,Gestão de Pessoas,GESTAO DE EQUIPES,5
+1832,93,Gestão de Pessoas,TEAM MANAGEMENT,1
+1833,93,Habilidades Pessoais,NEGOCIACAO,16
+1834,93,Habilidades Pessoais,NEGOTIATION,4
+1835,93,Informática,MICROSOFT EXCEL,12
+1836,93,Informática,MICROSOFT OFFICE,11
+1837,93,Informática,MICROSOFT WORD,5
+1838,93,Marketing e Vendas,MARKETING,7
+1839,93,Marketing e Vendas,MARKETING COMERCIAL,2
+1840,93,Marketing e Vendas,PRE-SALES,1
+1841,93,Marketing e Vendas,PRE-VENDAS,2
+1842,93,Marketing e Vendas,TRADE MARKETING,2
+1843,93,Marketing e Vendas,VENDAS,6
+1844,94,Gestão de Empresas,BUSINESS PLANNING,3
+1845,94,Gestão de Empresas,MARKET ANALYSIS,4
+1846,94,Gestão de Pessoas,RECRUITING,2
+1847,94,Habilidades Pessoais,NEGOTIATION,9
+1848,94,Marketing e Vendas,DIGITAL MARKETING,19
+1849,94,Marketing e Vendas,E-COMMERCE,13
+1850,94,Marketing e Vendas,MARKET PLANNING,24
+1851,94,Marketing e Vendas,MARKETING MANAGEMENT,4
+1852,94,Marketing e Vendas,MARKETING STRATEGY,23
+1853,94,Marketing e Vendas,ONLINE ADVERTISING,6
+1854,94,Marketing e Vendas,SALES,11
+1855,94,Marketing e Vendas,SALES MANAGEMENT,8
+1856,94,Marketing e Vendas,STRATEGIC SALES,2
+1857,94,Marketing e Vendas,TRADE MARKETING,14
+1858,94,Sistemas Operacionais,DOS,15
+1859,94,Sistemas Operacionais,OPERATING SYSTEMS,23
+1860,95,Desenvolvimento de Sistemas,SOFTWARE DEVELOPMENT,11
+1861,95,Engenharia,CHEMICAL ENGINEERING,12
+1862,95,Engenharia,PROCESS ENGINEERING,8
+1863,95,Gestão de Empresas,BUSINESS STRATEGY,4
+1864,95,Gestão de Empresas,CONSULTING,10
+1865,95,Gestão de Empresas,MANAGEMENT,6
+1866,95,Gestão de Empresas,MANAGEMENT CONSULTING,9
+1867,95,Gestão de Pessoas,TEAM LEADERSHIP,6
+1868,95,Informática,MICROSOFT EXCEL,8
+1869,95,Linguagem de Programação,VBA,11
+1870,95,Outros,METALLURGY,8
+1871,96,BI,BUSINESS INTELLIGENCE,26
+1872,96,Gestão de Empresas,BUSINESS ANALYSIS,11
+1873,96,Gestão de Empresas,BUSINESS PLANNING,11
+1874,96,Gestão de Empresas,BUSINESS PROCESS IMPROVEMENT,1
+1875,96,Gestão de Empresas,BUSINESS STRATEGY,32
+1876,96,Gestão de Empresas,ENTREPRENEURSHIP,19
+1877,96,Gestão de Empresas,GOVERNANCE,2
+1878,96,Gestão de Empresas,OUTSOURCING,2
+1879,96,Gestão de Empresas,START-UPS,19
+1880,96,Gestão de Empresas,STRATEGIC PLANNING,14
+1881,96,Gestão de Empresas,STRATEGY,5
+1882,96,Gestão de Pessoas,TEAM LEADERSHIP,9
+1883,96,Gestão de Projetos,AGILE METHODOLOGIES,1
+1884,96,Gestão de Projetos,PMI,1
+1885,96,Gestão de Projetos,PROJECT MANAGEMENT,15
+1886,96,Gestão de Projetos,SCRUM,15
+1887,96,Gestão de TI,COBIT,3
+1888,96,Gestão de TI,INFORMATION SECURITY,4
+1889,96,Gestão de TI,IT MANAGEMENT,5
+1890,96,Gestão de TI,ITIL,6
+1891,96,Infraestrutura de TI,CLOUD COMPUTING,15
+1892,96,Linguagem de Programação,PHP,3
+1893,96,Marketing e Vendas,DIGITAL MARKETING,2
+1894,96,Marketing e Vendas,E-COMMERCE,29
+1895,96,Mobile,MOBILE APPLICATIONS,2
+1896,96,Sistemas de Gestão,ERP,1
+1897,97,Gestão de Empresas,BUSINESS DEVELOPMENT,0
+1898,97,Gestão de Empresas,BUSINESS STRATEGY,7
+1899,97,Gestão de Empresas,DESENVOLVIMENTO DE NOVOS NEGOCIOS,3
+1900,97,Gestão de Empresas,DESENVOLVIMENTO EMPRESARIAL,1
+1901,97,Gestão de Empresas,ESTRATEGIA EMPRESARIAL,10
+1902,97,Gestão de Empresas,GESTAO,5
+1903,97,Gestão de Empresas,NEW BUSINESS DEVELOPMENT,0
+1904,97,Gestão de Empresas,PLANEJAMENTO ESTRATEGICO,5
+1905,97,Gestão de Pessoas,LIDERANCA DE EQUIPE,3
+1906,97,Habilidades Pessoais,NEGOCIACAO,15
+1907,97,Habilidades Pessoais,NEGOTIATION,7
+1908,97,Idiomas,INGLES,1
+1909,97,Informática,MICROSOFT OFFICE,4
+1910,97,Informática,MICROSOFT POWERPOINT,2
+1911,97,Informática,MICROSOFT WORD,2
+1912,97,Informática,POWERPOINT,2
+1913,97,Marketing e Vendas,B2B,10
+1914,97,Marketing e Vendas,ESTRATEGIAS DE MARKETING,7
+1915,97,Marketing e Vendas,GESTAO DE VENDAS,6
+1916,97,Marketing e Vendas,MARKETING DIGITAL,2
+1917,97,Marketing e Vendas,MARKETING STRATEGY,6
+1918,97,Marketing e Vendas,SALES MANAGEMENT,2
+1919,97,Marketing e Vendas,VENDAS,5
+1920,97,Sistemas de Gestão,SALESFORCE.COM,1
+1921,98,Comunicação,ORATORIA,2
+1922,98,Gestão de Empresas,MANAGEMENT,1
+1923,98,Gestão de Pessoas,LIDERANCA,2
+1924,98,Gestão de Pessoas,LIDERANCA DE EQUIPE,3
+1925,98,Habilidades Pessoais,PESQUISA,0
+1926,98,Informática,MICROSOFT EXCEL,1
+1927,98,Informática,MICROSOFT OFFICE,6
+1928,98,Informática,MICROSOFT POWERPOINT,5
+1929,98,Informática,MICROSOFT WORD,4
+1930,98,Marketing e Vendas,SALES OPERATIONS,0
+1931,99,Gestão de Empresas,BUSINESS PLANNING,5
+1932,99,Gestão de Empresas,BUSINESS STRATEGY,5
+1933,99,Gestão de Empresas,MANAGEMENT,2
+1934,99,Gestão de Empresas,STRATEGIC PLANNING,2
+1935,99,Gestão de Pessoas,TEAM LEADERSHIP,2
+1936,99,Habilidades Pessoais,NEGOTIATION,2
+1937,99,Idiomas,ENGLISH,2
+1938,99,Idiomas,PORTUGUESE,4
+1939,99,Informática,MICROSOFT OFFICE,2
+1940,99,Informática,POWERPOINT,2
+1941,99,Marketing e Vendas,DIGITAL MARKETING,6
+1942,99,Marketing e Vendas,E-COMMERCE,8
+1943,99,Marketing e Vendas,MARKET PLANNING,4
+1944,99,Marketing e Vendas,MARKETING MANAGEMENT,3
+1945,99,Marketing e Vendas,MARKETING STRATEGY,4
+1946,99,Marketing e Vendas,ONLINE ADVERTISING,4
+1947,99,Marketing e Vendas,SALES MANAGEMENT,2
+1948,99,Marketing e Vendas,SOCIAL MEDIA MARKETING,2
+1949,99,Marketing e Vendas,TRADE MARKETING,3
+1950,99,Outros,DAS,5
+1951,99,Sistemas Operacionais,OPERATING SYSTEMS,3
+1952,100,Atendimento,GESTAO DE RELACAO DE CLIENTES,5
+1953,100,BI,GOOGLE ANALYTICS,2
+1954,100,BI,WEB ANALYTICS,2
+1955,100,Comunicação,SOCIAL MEDIA,2
+1956,100,Desenvolvimento de Front-end,WEB DESIGN,2
+1957,100,Ensino,COACHING,2
+1958,100,Gestão de Empresas,BUSINESS COACHING,2
+1959,100,Gestão de Empresas,CORPORATE MANAGEMENT,2
+1960,100,Gestão de Empresas,EMPRESAS STARTUPS,13
+1961,100,Gestão de Empresas,ESTRATEGIA EMPRESARIAL,16
+1962,100,Gestão de Empresas,EXECUTIVE COACHING,2
+1963,100,Gestão de Empresas,GESTAO,29
+1964,100,Gestão de Empresas,MANAGEMENT,5
+1965,100,Gestão de Empresas,PLANEJAMENTO EMPRESARIAL,12
+1966,100,Gestão de Empresas,PLANEJAMENTO ESTRATEGICO,15
+1967,100,Gestão de Empresas,START-UPS,3
+1968,100,Gestão de TI,IT OUTSOURCING,2
+1969,100,Habilidades Pessoais,NEGOCIACAO,20
+1970,100,Habilidades Pessoais,NEGOTIATION,5
+1971,100,Habilidades Pessoais,SOCIAL SKILLS,2
+1972,100,Marketing e Vendas,DIGITAL MARKETING,4
+1973,100,Marketing e Vendas,DIRECT SALES,1
+1974,100,Marketing e Vendas,FIELD MARKETING,2
+1975,100,Marketing e Vendas,GESTAO DE VENDAS,7
+1976,100,Marketing e Vendas,GOOGLE ADWORDS,2
+1977,100,Marketing e Vendas,MARKETING DIGITAL,18
+1978,100,Marketing e Vendas,SALES,2
+1979,100,Marketing e Vendas,SALES MANAGEMENT,4
+1980,100,Marketing e Vendas,SALES PROCESS,2
+1981,100,Marketing e Vendas,SALES REPRESENTATIVES,2
+1982,100,Marketing e Vendas,SELLING SKILLS,2
+1983,100,Marketing e Vendas,SEO,1
+1984,100,Marketing e Vendas,SOCIAL MEDIA MARKETING,2
+1985,100,Marketing e Vendas,SOLUTION SELLING,2
+1986,100,Marketing e Vendas,SOLUTIONS SELLING,2
+1987,100,Marketing e Vendas,VENDA DE SOLUCOES DE SOFTWARE,4
+1988,100,Marketing e Vendas,VENDAS,12
+1989,100,Marketing e Vendas,VENDOR MANAGEMENT,2
+1990,100,Marketing e Vendas,VENDOR RELATIONS,2
+1991,100,Mobile,MOBILE TELECOMMUNICATIONS,2
+1992,100,Outros,INSURANCE,2
+1993,100,Outros,KEY ACCOUNT MANAGEMENT,2
+1994,100,Outros,PRE-SALES TECHNICAL SUPPORT,2
+1995,100,Outros,WEB 2.0,3
+1996,100,Sistemas Operacionais,OPERATING SYSTEMS,9
+1997,100,Sistemas Operacionais,SISTEMAS OPERACIONAIS,41
+1998,100,Sistemas de Gestão,ERP,2
+1999,100,Sistemas de Gestão,ERP (PLANEJAMENTO DE RECURSOS EMPRESARIAIS),18
+2000,100,Sistemas de Gestão,ERP/CRM,3
+2001,100,Sistemas de Gestão,MICROSOFT CRM,3
+2002,101,Marketing e Vendas,COMERCIO ELETRONICO,15
+2003,101,Marketing e Vendas,DIGITAL MARKETING,8
+2004,101,Marketing e Vendas,ESTRATEGIAS DE MARKETING,14
+2005,101,Marketing e Vendas,MARKETING,7
+2006,101,Marketing e Vendas,MARKETING DIGITAL,25
+2007,101,Marketing e Vendas,ONLINE ADVERTISING,3
+2008,101,Marketing e Vendas,PUBLICIDADE ONLINE,10
+2009,101,Sistemas Operacionais,SISTEMAS OPERACIONAIS,23
+2010,102,Atendimento,ATENDIMENTO AO CLIENTE,3
+2011,102,Comunicação,MIDIAS SOCIAIS,2
+2012,102,Gestão de Empresas,ADMINISTRACAO,2
+2013,102,Gestão de Empresas,GESTAO,5
+2014,102,Gestão de Pessoas,LIDERANCA,2
+2015,102,Gestão de Projetos,GESTAO DE PROJETOS,2
+2016,102,Informática,MICROSOFT EXCEL,2
+2017,102,Informática,MICROSOFT OFFICE,2
+2018,102,Informática,MICROSOFT WORD,2
+2019,102,Marketing e Vendas,COMERCIO ELETRONICO,2
+2020,102,Marketing e Vendas,MARKETING,5
+2021,102,Marketing e Vendas,MARKETING DIGITAL,2
+2022,102,Marketing e Vendas,PUBLICIDADE ONLINE,4
+2023,103,Comunicação,MIDIAS SOCIAIS,3
+2024,103,Comunicação,SOCIAL MEDIA,1
+2025,103,Gestão de Empresas,ADMINISTRACAO,1
+2026,103,Gestão de Empresas,BUSINESS STRATEGY,4
+2027,103,Gestão de Empresas,CONSULTORIA,2
+2028,103,Gestão de Empresas,CONSULTORIA DE GESTAO,3
+2029,103,Gestão de Empresas,EMPRESAS STARTUPS,1
+2030,103,Gestão de Empresas,ESTRATEGIA,6
+2031,103,Gestão de Empresas,ESTRATEGIA EMPRESARIAL,17
+2032,103,Gestão de Empresas,GESTAO,3
+2033,103,Gestão de Empresas,PLANEJAMENTO ESTRATEGICO,22
+2034,103,Gestão de Empresas,STRATEGIC PLANNING,2
+2035,103,Gestão de Empresas,STRATEGY,2
+2036,103,Gestão de Empresas,TERCEIRIZACAO DE SERVICOS,3
+2037,103,Gestão de Pessoas,LIDERANCA DE EQUIPE,5
+2038,103,Gestão de Pessoas,TEAM LEADERSHIP,2
+2039,103,Habilidades Pessoais,NEGOCIACAO,14
+2040,103,Habilidades Pessoais,NEGOTIATION,5
+2041,103,Idiomas,INGLES,3
+2042,103,Informática,MICROSOFT OFFICE,4
+2043,103,Informática,MICROSOFT POWERPOINT,7
+2044,103,Marketing e Vendas,COMERCIO ELETRONICO,5
+2045,103,Marketing e Vendas,DIGITAL MARKETING,1
+2046,103,Marketing e Vendas,E-COMMERCE,1
+2047,103,Marketing e Vendas,ESTRATEGIAS DE MARKETING,28
+2048,103,Marketing e Vendas,GESTAO DE VENDAS,4
+2049,103,Marketing e Vendas,MARKETING,10
+2050,103,Marketing e Vendas,MARKETING DIGITAL,6
+2051,103,Marketing e Vendas,MARKETING ONLINE,6
+2052,103,Marketing e Vendas,MARKETING POR E-MAIL,1
+2053,103,Marketing e Vendas,MARKETING SOCIAL,2
+2054,103,Marketing e Vendas,MARKETING STRATEGY,3
+2055,103,Marketing e Vendas,ONLINE ADVERTISING,2
+2056,103,Marketing e Vendas,PUBLICIDADE ONLINE,11
+2057,103,Marketing e Vendas,SALES MANAGEMENT,2
+2058,103,Marketing e Vendas,VENDAS,2
+2059,103,Outros,INTEGRACAO,1
+2060,104,Atendimento,CUSTOMER SERVICE,0
+2061,104,BI,BUSINESS INTELLIGENCE,0
+2062,104,Ciência de Dados,DATA ANALYSIS,0
+2063,104,Gestão de Empresas,BUSINESS ANALYSIS,0
+2064,104,Gestão de Empresas,BUSINESS PLANNING,2
+2065,104,Gestão de Empresas,BUSINESS STRATEGY,0
+2066,104,Gestão de Empresas,MANAGEMENT,0
+2067,104,Gestão de Empresas,STRATEGIC PLANNING,2
+2068,104,Gestão de Pessoas,TEAM LEADERSHIP,2
+2069,104,Gestão de Projetos,PLANNING,0
+2070,104,Gestão de Projetos,PMO,8
+2071,104,Gestão de TI,ITIL,5
+2072,104,Habilidades Pessoais,TEAMWORK,0
+2073,104,Idiomas,ENGLISH,2
+2074,104,Informática,MICROSOFT EXCEL,3
+2075,104,Informática,MICROSOFT OFFICE,0
+2076,104,Marketing e Vendas,MARKETING,0
+2077,104,Marketing e Vendas,MARKETING STRATEGY,1
+2078,104,Marketing e Vendas,PRE-SALES,0
+2079,104,Marketing e Vendas,SALES & MARKETING,0
+2080,104,Outros,QUALITY MANAGEMENT,0
+2081,104,Outros,SPORTS,0
+2082,104,Sistemas Operacionais,OPERATING SYSTEMS,2
+2083,105,Banco de Dados,MYSQL,13
+2084,105,Desenvolvimento de Front-end,FRONT-END,5
+2085,105,Desenvolvimento de Sistemas,WEB DEVELOPMENT,9
+2086,105,Gestão de Projetos,KANBAN,4
+2087,105,Gestão de Projetos,SCRUM,3
+2088,105,Infraestrutura de TI,AMAZON EC2,4
+2089,105,Infraestrutura de TI,AMAZON S3,3
+2090,105,Linguagem de Programação,CSS,4
+2091,105,Linguagem de Programação,CSS3,7
+2092,105,Linguagem de Programação,HTML 5,7
+2093,105,Linguagem de Programação,JAVASCRIPT,17
+2094,105,Linguagem de Programação,JQUERY,4
+2095,105,Linguagem de Programação,PHP,16
+2096,105,Linguagem de Programação,PYTHON,7
+2097,105,Outros,CONTINUOUS INTEGRATION,0
+2098,105,Outros,DOCTRINE,1
+2099,105,Outros,DOJO,2
+2100,105,Outros,PHPUNIT,6
+2101,105,Outros,RANCHER,0
+2102,105,Outros,SILEX,1
+2103,105,Plataformas de Desenvolvimento,ANGULARJS,4
+2104,105,Plataformas de Desenvolvimento,APACHE,7
+2105,105,Plataformas de Desenvolvimento,DJANGO,3
+2106,105,Plataformas de Desenvolvimento,JASMINE,4
+2107,105,Plataformas de Desenvolvimento,WORDPRESS,7
+2108,105,Qualidade de Software,GIT,5
+2109,105,Sistemas Operacionais,DOCKER,2
+2110,105,Sistemas Operacionais,LINUX,18
+2111,106,Atendimento,ATENDIMENTO AO CLIENTE,4
+2112,106,Gestão de Empresas,ESTRATEGIA EMPRESARIAL,4
+2113,106,Gestão de Empresas,GESTAO,5
+2114,106,Gestão de Empresas,PLANEJAMENTO EMPRESARIAL,3
+2115,106,Gestão de Empresas,PLANEJAMENTO ESTRATEGICO,5
+2116,106,Gestão de Pessoas,LIDERANCA DE EQUIPE,5
+2117,106,Habilidades Pessoais,NEGOCIACAO,5
+2118,106,Informática,MICROSOFT EXCEL,5
+2119,106,Informática,MICROSOFT OFFICE,4
+2120,106,Informática,MICROSOFT POWERPOINT,4
+2121,106,Marketing e Vendas,ESTRATEGIAS DE MARKETING,2
+2122,106,Marketing e Vendas,GESTAO DE VENDAS,4
+2123,106,Marketing e Vendas,VENDAS,4
+2124,107,Atendimento,ATENDIMENTO AO CLIENTE,2
+2125,107,Idiomas,INGLES BASICO,0
+2126,107,Informática,MICROSOFT EXCEL,4
+2127,107,Informática,MICROSOFT POWERPOINT,2
+2128,107,Marketing e Vendas,EXACT SALES,1
+2129,107,Sistemas de Gestão,CRM SOLVE360,1
+2130,107,Sistemas de Gestão,SALESFORCE.COM,4
+2131,109,Atendimento,GESTAO DE CONTAS,6
+2132,109,Atendimento,GESTAO DE RELACAO DE CLIENTES,0
+2133,109,Comunicação,MIDIAS SOCIAIS,4
+2134,109,Comunicação,SOCIAL MEDIA,2
+2135,109,Gestão de Empresas,BUSINESS PLANNING,1
+2136,109,Gestão de Empresas,EMPRESAS STARTUPS,0
+2137,109,Gestão de Empresas,ESTRATEGIA,1
+2138,109,Gestão de Empresas,ESTRATEGIA EMPRESARIAL,18
+2139,109,Gestão de Empresas,GESTAO,32
+2140,109,Gestão de Empresas,MANAGEMENT,3
+2141,109,Gestão de Empresas,PLANEJAMENTO EMPRESARIAL,3
+2142,109,Gestão de Empresas,PLANEJAMENTO ESTRATEGICO,8
+2143,109,Gestão de Pessoas,LIDERANCA DE EQUIPE,13
+2144,109,Gestão de Pessoas,TEAM LEADERSHIP,1
+2145,109,Habilidades Pessoais,NEGOCIACAO,54
+2146,109,Habilidades Pessoais,NEGOTIATION,5
+2147,109,Informática,EXCEL,1
+2148,109,Informática,MICROSOFT OFFICE,1
+2149,109,Infraestrutura de TI,COMPUTACAO EM NUVEM,2
+2150,109,Marketing e Vendas,COMERCIO ELETRONICO,6
+2151,109,Marketing e Vendas,DIGITAL MARKETING,3
+2152,109,Marketing e Vendas,ESTRATEGIAS DE MARKETING,17
+2153,109,Marketing e Vendas,GESTAO DE VENDAS,36
+2154,109,Marketing e Vendas,MARKETING,10
+2155,109,Marketing e Vendas,MARKETING DIGITAL,24
+2156,109,Marketing e Vendas,MARKETING SOCIAL,2
+2157,109,Marketing e Vendas,ONLINE MARKETING,1
+2158,109,Marketing e Vendas,OPERACOES DE VENDAS,1
+2159,109,Marketing e Vendas,PROCESSO DE VENDA,2
+2160,109,Marketing e Vendas,PUBLICIDADE,0
+2161,109,Marketing e Vendas,PUBLICIDADE ONLINE,2
+2162,109,Marketing e Vendas,SALES MANAGEMENT,4
+2163,109,Marketing e Vendas,SALES MANAGEMENT COACHING,0
+2164,109,Marketing e Vendas,SEO (OTIMIZACAO DE MOTORES DE BUSCA),1
+2165,109,Marketing e Vendas,SOCIAL MEDIA MARKETING,2
+2166,109,Marketing e Vendas,VENDA DE SOLUCOES DE SOFTWARE,1
+2167,109,Marketing e Vendas,VENDAS,9
+2168,109,Sistemas Operacionais,WINDOWS,1
+2169,109,Sistemas de Gestão,SALESFORCE.COM,6

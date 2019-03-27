@@ -1,0 +1,212 @@
+perfil_id,nome,nivel
+0,Espanhol,Avançado
+0,Inglês,Avançado
+0,Português,Avançado
+1,Inglês,Não informado
+1,Italiano,Não informado
+2,Inglês,Avançado
+2,Português,Avançado
+3,Espanhol,Intermediário
+3,Inglês,Avançado
+3,Português,Avançado
+4,Inglês,Avançado
+4,Português,Avançado
+4,Espanhol,Básico
+5,Inglês,Não informado
+8,Espanhol,Intermediário
+8,Inglês,Avançado
+8,Português,Avançado
+9,Espanhol,Avançado
+9,Inglês,Avançado
+9,Português,Avançado
+10,Inglês,Avançado
+10,Português,Avançado
+11,Inglês,Não informado
+11,Português,Não informado
+12,Espanhol,Básico
+12,Inglês,Avançado
+12,Português,Avançado
+13,Espanhol,Intermediário
+13,Inglês,Intermediário
+13,Português,Avançado
+14,Inglês,Avançado
+14,Espanhol,Intermediário
+15,Espanhol,Intermediário
+15,Inglês,Avançado
+15,Português,Avançado
+16,Espanhol,Intermediário
+16,Francês,Intermediário
+16,Inglês,Avançado
+16,Português,Avançado
+17,Inglês,Avançado
+17,French,Básico
+17,Português,Avançado
+18,Espanhol,Intermediário
+18,Francês,Intermediário
+18,Inglês,Avançado
+18,Português,Avançado
+19,Inglês,Básico
+19,Português,Avançado
+20,Espanhol,Básico
+20,Inglês,Avançado
+21,Inglês,Não informado
+21,Português,Avançado
+23,Espanhol,Avançado
+23,Inglês,Avançado
+23,Português,Avançado
+23,Árabe,Básico
+24,Inglês,Avançado
+24,Italiano,Intermediário
+24,Português,Avançado
+25,Inglês,Intermediário
+25,Espanhol,Intermediário
+25,Português,Avançado
+27,Espanhol,Intermediário
+27,Francês,Intermediário
+27,Inglês,Avançado
+27,Português,Avançado
+28,Espanhol,Avançado
+28,Francês,Intermediário
+28,Inglês,Avançado
+28,Português,Avançado
+29,Inglês,Não informado
+31,Espanhol,Básico
+31,Inglês,Avançado
+31,Português,Avançado
+33,Inglês,Avançado
+33,Português,Avançado
+34,Inglês,Avançado
+35,Inglês,Avançado
+35,Português,Avançado
+36,Espanhol,Intermediário
+36,Francês,Intermediário
+36,Holandês,Básico
+36,Inglês,Avançado
+36,Português,Avançado
+37,Inglês,Avançado
+37,Português,Avançado
+38,Inglês,Avançado
+38,Português,Avançado
+40,Inglês,Avançado
+41,Espanhol,Intermediário
+41,Francês,Intermediário
+41,Português,Avançado
+42,Inglês,Avançado
+42,Português,Avançado
+42,Espanhol,Básico
+43,Inglês,Intermediário
+43,Português,Avançado
+44,Inglês,Avançado
+44,Português,Avançado
+44,Espanhol,Básico
+45,Inglês,Intermediário
+45,Português,Avançado
+46,Inglês,Avançado
+47,Espanhol,Intermediário
+47,Inglês,Avançado
+47,Português,Avançado
+48,Espanhol,Básico
+48,Francês,Básico
+48,Inglês,Avançado
+48,Português,Avançado
+50,Espanhol,Básico
+50,Inglês,Avançado
+50,Português,Avançado
+51,Espanhol,Não informado
+51,Inglês,Não informado
+51,Português,Não informado
+52,Inglês,Avançado
+52,Espanhol,Intermediário
+52,Português,Avançado
+53,Francês,Intermediário
+53,Inglês,Avançado
+53,Português,Avançado
+54,Inglês,Não informado
+55,Alemão,Intermediário
+55,Inglês,Avançado
+56,Inglês,Intermediário
+56,Português,Avançado
+57,Inglês,Avançado
+59,Espanhol,Básico
+59,Inglês,Avançado
+59,Português,Avançado
+60,Inglês,Intermediário
+60,Português,Avançado
+60,Espanhol,Intermediário
+61,Inglês,Avançado
+61,Português,Avançado
+61,Espanhol,Intermediário
+62,Inglês,Intermediário
+63,Inglês,Intermediário
+63,Português,Avançado
+64,Espanhol,Básico
+64,Inglês,Intermediário
+64,Português,Avançado
+65,Inglês,Avançado
+66,Inglês,Avançado
+66,Português,Avançado
+67,Espanhol,Intermediário
+67,Inglês,Intermediário
+67,Português,Avançado
+68,Espanhol,Avançado
+68,Inglês,Avançado
+68,Português,Avançado
+70,Inglês,Intermediário
+70,Português,Avançado
+71,Inglês,Avançado
+71,Português,Avançado
+72,Inglês,Avançado
+72,Português,Avançado
+73,Espanhol,Intermediário
+73,Inglês,Intermediário
+73,Português,Avançado
+74,Inglês,Avançado
+74,Português,Avançado
+75,Inglês,Não informado
+76,Inglês,Básico
+76,Português,Avançado
+78,Inglês,Não informado
+79,Inglês,Intermediário
+80,Inglês,Intermediário
+81,Inglês,Avançado
+81,Português,Avançado
+81,Espanhol,Intermediário
+82,Português,Não informado
+83,Português,Não informado
+84,Inglês,Intermediário
+84,Português,Avançado
+85,Inglês,Avançado
+85,Português,Avançado
+86,Inglês,Avançado
+86,Português,Avançado
+87,Alemão,Intermediário
+87,Inglês,Avançado
+87,Japonês,Intermediário
+87,LIBRAS,Intermediário
+87,Português,Avançado
+88,Inglês,Intermediário
+89,Inglês,Não informado
+91,Inglês,Intermediário
+91,Português,Avançado
+93,Inglês,Não informado
+94,Inglês,Não informado
+95,Espanhol,Avançado
+95,Francês,Intermediário
+95,Inglês,Avançado
+95,Português,Avançado
+96,Inglês,Não informado
+96,Italiano,Não informado
+96,Português,Não informado
+96,Espanhol,Não informado
+97,Espanhol,Avançado
+98,Inglês,Avançado
+98,Francês,Avançado
+98,Português,Avançado
+100,Inglês,Intermediário
+100,Espanhol,Intermediário
+100,Português,Avançado
+102,Inglês,Intermediário
+102,Português,Avançado
+105,Inglês,Intermediário
+105,Português,Avançado
+109,Espanhol,Não informado

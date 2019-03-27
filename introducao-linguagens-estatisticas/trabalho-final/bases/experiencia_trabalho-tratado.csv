@@ -1,0 +1,472 @@
+,company,date,location,position,perfil_id,mesano_ini,mesano_fim,atual,ano_ini,ano_fim,d_ini,d_fim,duracao_meses
+0,Trojan Technologies,set de 2011 – set de 2017,"Belo Horizonte e Região, Brasil",CEO and Founder,0,09 de 2011,09 de 2017,True,2011,2017,2011-09-01,2017-09-01,73
+6,Any Company,mar de 2016 – set de 2017,,Endeavor Entrepreneur,0,03 de 2016,09 de 2017,False,2016,2017,2016-03-01,2017-09-01,19
+7,Any Company,out de 2015 – set de 2017,"Belo Horizonte e Região, Brasil",Investor and Board Member,0,10 de 2015,09 de 2017,False,2015,2017,2015-10-01,2017-09-01,24
+8,Any Company,out de 2012 – mai de 2013,"Santiago, Chile",Start-Up Chile Entrepreneur,0,10 de 2012,05 de 2013,False,2012,2013,2012-10-01,2013-05-01,8
+9,Any Company,set de 2009 – jan de 2011,"São Paulo e Região, Brasil",Founder and Sales Director,0,09 de 2009,01 de 2011,False,2009,2011,2009-09-01,2011-01-01,17
+10,Trojan Technologies,jul de 2017 – set de 2017,"Belo Horizonte e Região, Brasil",Product Manager,1,07 de 2017,09 de 2017,True,2017,2017,2017-07-01,2017-09-01,3
+11,Any Company,jan de 2017 – set de 2017,"Belo Horizonte, Minas Gerais",Diretora de Whatever,1,01 de 2017,09 de 2017,False,2017,2017,2017-01-01,2017-09-01,9
+12,Trojan Technologies,mar de 2017 – jul de 2017,"Belo Horizonte, Minas Gerais",Coordenadora de Onboarding,1,03 de 2017,07 de 2017,False,2017,2017,2017-03-01,2017-07-01,5
+13,Any Company,dez de 2016 – mar de 2017,"Belo Horizonte, Minas Gerais",Coordenadora de aceleração,1,12 de 2016,03 de 2017,False,2016,2017,2016-12-01,2017-03-01,4
+14,Any Company,jun de 2016 – jan de 2017,"Belo Horizonte e Região, Brasil",Subcoordenadora de Desenvolvimento de Negócios e Produto,1,06 de 2016,01 de 2017,False,2016,2017,2016-06-01,2017-01-01,8
+15,Any Company,jul de 2017 – set de 2017,"Belo Horizonte, Minas Gerais",JavaScript Software Architect,2,07 de 2017,09 de 2017,False,2017,2017,2017-07-01,2017-09-01,3
+16,Trojan Technologies,nov de 2016 – set de 2017,"Belo Horizonte e Região, Brasil",Full Stack Developer,2,11 de 2016,09 de 2017,True,2016,2017,2016-11-01,2017-09-01,11
+17,Any Company,dez de 2015 – set de 2017,"Belo Horizonte e Região, Brasil","Co-Founder, Full Stack Developer",2,12 de 2015,09 de 2017,False,2015,2017,2015-12-01,2017-09-01,22
+18,Any Company,abr de 2017 – jul de 2017,"Belo Horizonte, Minas Gerais",Senior Frontend Software Engineer,2,04 de 2017,07 de 2017,False,2017,2017,2017-04-01,2017-07-01,4
+19,Any Company,ago de 2016 – fev de 2017,"Belo Horizonte e Região, Brasil",Frontend Developer,2,08 de 2016,02 de 2017,False,2016,2017,2016-08-01,2017-02-01,7
+20,Trojan Technologies,ago de 2017 – set de 2017,,CRM Analyst,3,08 de 2017,09 de 2017,True,2017,2017,2017-08-01,2017-09-01,2
+21,Trojan Technologies,fev de 2017 – jul de 2017,,Customer Success,3,02 de 2017,07 de 2017,False,2017,2017,2017-02-01,2017-07-01,6
+23,Any Company,jul de 2016 – dez de 2016,"Belo Horizonte e Região, Brasil",Equipe de Comunicação,3,07 de 2016,12 de 2016,False,2016,2016,2016-07-01,2016-12-01,6
+24,Trojan Technologies,mar de 2017 – set de 2017,,Sales Operations Coordinator,4,03 de 2017,09 de 2017,True,2017,2017,2017-03-01,2017-09-01,7
+25,Trojan Technologies,fev de 2017 – fev de 2017,"Belo Horizonte Area, Brazil",Commercial Analyst,4,02 de 2017,02 de 2017,False,2017,2017,2017-02-01,2017-02-01,1
+26,Trojan Technologies,jan de 2017 – jan de 2017,,Marketing Analyst,4,01 de 2017,01 de 2017,False,2017,2017,2017-01-01,2017-01-01,1
+27,Trojan Technologies,jul de 2016 – dez de 2016,"Belo Horizonte e Região, Brasil",Intern,4,07 de 2016,12 de 2016,False,2016,2016,2016-07-01,2016-12-01,6
+28,Any Company,mai de 2016 – jun de 2016,1 Bootcamp Gama Academy - Belo Horizonte,Certification Specialist,4,05 de 2016,06 de 2016,False,2016,2016,2016-05-01,2016-06-01,2
+29,Trojan Technologies,jul de 2016 – set de 2017,,Key Account Manager,5,07 de 2016,09 de 2017,True,2016,2017,2016-07-01,2017-09-01,15
+30,Trojan Technologies,mai de 2015 – jun de 2016,,Analista de Relacionamento,5,05 de 2015,06 de 2016,False,2015,2016,2015-05-01,2016-06-01,14
+31,Any Company,abr de 2012 – ago de 2015,"Belo Horizonte e Região, Brasil",Gerente de Relacionamento,5,04 de 2012,08 de 2015,False,2012,2015,2012-04-01,2015-08-01,41
+32,Any Company,mar de 2011 – abr de 2012,"Belo Horizonte e Região, Brasil",Assistente de Gerência,5,03 de 2011,04 de 2012,False,2011,2012,2011-03-01,2012-04-01,14
+33,Any Company,jun de 2008 – mar de 2011,"Belo Horizonte e Região, Brasil",Agente Comercial,5,06 de 2008,03 de 2011,False,2008,2011,2008-06-01,2011-03-01,34
+34,Trojan Technologies,nov de 2016 – set de 2017,"Belo Horizonte e Região, Brasil",Software Engineer and Data Scientist,6,11 de 2016,09 de 2017,True,2016,2017,2016-11-01,2017-09-01,11
+35,Trojan Technologies,nov de 2016 – set de 2017,"Belo Horizonte Area, Brazil",Data Engineer,6,11 de 2016,09 de 2017,True,2016,2017,2016-11-01,2017-09-01,11
+36,Any Company,jul de 2005 – out de 2016,"Belo Horizonte Area, Brazil",Software Engineer,6,07 de 2005,10 de 2016,False,2005,2016,2005-07-01,2016-10-01,136
+37,Any Company,set de 2002 – jul de 2005,,Software Engineer,6,09 de 2002,07 de 2005,False,2002,2005,2002-09-01,2005-07-01,35
+38,Any Company,mai de 2001 – ago de 2002,Belo Horizonte,Software Engineer,6,05 de 2001,08 de 2002,False,2001,2002,2001-05-01,2002-08-01,16
+39,Trojan Technologies,abr de 2017 – set de 2017,"Belo Horizonte e Região, Brasil",Aprediz administrativo,7,04 de 2017,09 de 2017,True,2017,2017,2017-04-01,2017-09-01,6
+40,Any Company,out de 2015 – abr de 2017,belo horizonte,Babysitter,7,10 de 2015,04 de 2017,False,2015,2017,2015-10-01,2017-04-01,19
+41,Trojan Technologies,jan de 2011 – set de 2017,"Belo Horizonte e Região, Brasil",Founder and CFO,8,01 de 2011,09 de 2017,True,2011,2017,2011-01-01,2017-09-01,81
+42,Any Company,mar de 2016 – set de 2017,,Endeavor Entrepreneur,8,03 de 2016,09 de 2017,False,2016,2017,2016-03-01,2017-09-01,19
+43,Any Company,jan de 2017 – set de 2017,,Investor and Operator LP,8,01 de 2017,09 de 2017,False,2017,2017,2017-01-01,2017-09-01,9
+44,Any Company,out de 2015 – set de 2017,"Belo Horizonte e Região, Brasil",Investor,8,10 de 2015,09 de 2017,False,2015,2017,2015-10-01,2017-09-01,24
+45,Any Company,out de 2012 – mai de 2013,"Santiago, Chile",Entrepreneur 5.2,8,10 de 2012,05 de 2013,False,2012,2013,2012-10-01,2013-05-01,8
+46,Trojan Technologies,ago de 2016 – set de 2017,"Belo Horizonte e Região, Brasil",Sales Operations Manager,9,08 de 2016,09 de 2017,True,2016,2017,2016-08-01,2017-09-01,14
+47,Trojan Technologies,set de 2014 – jul de 2016,"Belo Horizonte e Região, Brasil",Key Account Manager,9,09 de 2014,07 de 2016,False,2014,2016,2014-09-01,2016-07-01,23
+48,Any Company,nov de 2010 – jul de 2012,"Belo Horizonte e Região, Brasil",Intern,9,11 de 2010,07 de 2012,False,2010,2012,2010-11-01,2012-07-01,21
+49,Trojan Technologies,mai de 2017 – set de 2017,"Belo Horizonte e Região, Brasil",Head of In-Store Operation,10,05 de 2017,09 de 2017,True,2017,2017,2017-05-01,2017-09-01,5
+50,Trojan Technologies,jan de 2017 – abr de 2017,,Product Manager,10,01 de 2017,04 de 2017,False,2017,2017,2017-01-01,2017-04-01,4
+51,Trojan Technologies,dez de 2015 – jan de 2017,,Business Developer,10,12 de 2015,01 de 2017,False,2015,2017,2015-12-01,2017-01-01,14
+52,Trojan Technologies,abr de 2015 – dez de 2015,Belo Horizonte/MG,Key Account Manager,10,04 de 2015,12 de 2015,False,2015,2015,2015-04-01,2015-12-01,9
+53,Any Company,jan de 2007 – abr de 2015,Nova Lima/MG,Analista de Melhoria Operacional,10,01 de 2007,04 de 2015,False,2007,2015,2007-01-01,2015-04-01,100
+54,Trojan Technologies,set de 2017 – set de 2017,,People Consultant,11,09 de 2017,09 de 2017,True,2017,2017,2017-09-01,2017-09-01,1
+55,Trojan Technologies,jul de 2016 – set de 2017,,Key Account Manager,11,07 de 2016,09 de 2017,True,2016,2017,2016-07-01,2017-09-01,15
+56,Trojan Technologies,jan de 2016 – jun de 2016,,Digital Marketing Intern,11,01 de 2016,06 de 2016,False,2016,2016,2016-01-01,2016-06-01,6
+57,Trojan Technologies,fev de 2015 – dez de 2015,,Customer Success Intern,11,02 de 2015,12 de 2015,False,2015,2015,2015-02-01,2015-12-01,11
+58,Any Company,dez de 2014 – mar de 2015,,Public Relations Coordinator,11,12 de 2014,03 de 2015,False,2014,2015,2014-12-01,2015-03-01,4
+59,Trojan Technologies,set de 2017 – set de 2017,Belo Horizonte,Operações ERP,12,09 de 2017,09 de 2017,True,2017,2017,2017-09-01,2017-09-01,1
+60,Trojan Technologies,mar de 2017 – set de 2017,"Belo Horizonte e Região, Brasil",Time de Expansão,12,03 de 2017,09 de 2017,True,2017,2017,2017-03-01,2017-09-01,7
+61,Trojan Technologies,mar de 2016 – mar de 2017,"Belo Horizonte e Região, Brasil",Analista Comercial,12,03 de 2016,03 de 2017,False,2016,2017,2016-03-01,2017-03-01,13
+62,Any Company,jan de 2014 – jan de 2015,"Belo Horizonte e Região, Brasil",Gerente de Projetos,12,01 de 2014,01 de 2015,False,2014,2015,2014-01-01,2015-01-01,13
+63,Any Company,fev de 2014 – ago de 2014,"Belo Horizonte e Região, Brasil",Coordenador Geral,12,02 de 2014,08 de 2014,False,2014,2014,2014-02-01,2014-08-01,7
+64,Trojan Technologies,ago de 2017 – set de 2017,"Belo Horizonte e Região, Brasil",Estagiária de CRM,13,08 de 2017,09 de 2017,True,2017,2017,2017-08-01,2017-09-01,2
+65,Trojan Technologies,dez de 2016 – jul de 2017,"Belo Horizonte e Região, Brasil",Customer Success,13,12 de 2016,07 de 2017,False,2016,2017,2016-12-01,2017-07-01,8
+66,Any Company,jul de 2016 – dez de 2016,,Diretora de Relacionamentos,13,07 de 2016,12 de 2016,False,2016,2016,2016-07-01,2016-12-01,6
+67,Any Company,jan de 2016 – jul de 2016,,Diretora de Marketing,13,01 de 2016,07 de 2016,False,2016,2016,2016-01-01,2016-07-01,7
+68,Any Company,jun de 2015 – jan de 2016,"Avenida Antônio Carlos, 6627, Sala 14 (FAFICH - UFMG)","Gestora de Contas, Acessora de Marketing e de Produção.",13,06 de 2015,01 de 2016,False,2015,2016,2015-06-01,2016-01-01,8
+69,Trojan Technologies,mai de 2017 – set de 2017,"Belo Horizonte Area, Brazil",Product Manager,14,05 de 2017,09 de 2017,True,2017,2017,2017-05-01,2017-09-01,5
+70,Trojan Technologies,jan de 2017 – mai de 2017,"Belo Horizonte Area, Brazil",Business Development and Operations Manager,14,01 de 2017,05 de 2017,False,2017,2017,2017-01-01,2017-05-01,5
+71,Trojan Technologies,ago de 2016 – dez de 2016,"Belo Horizonte Area, Brazil",Business Development Manager,14,08 de 2016,12 de 2016,False,2016,2016,2016-08-01,2016-12-01,5
+72,Any Company,jan de 2016 – jul de 2016,São paulo,Product Analyst,14,01 de 2016,07 de 2016,False,2016,2016,2016-01-01,2016-07-01,7
+73,Any Company,mai de 2015 – dez de 2015,"São Paulo, Brazil",Trainee,14,05 de 2015,12 de 2015,False,2015,2015,2015-05-01,2015-12-01,8
+74,Trojan Technologies,mar de 2017 – set de 2017,"Belo Horizonte e Região, Brasil",Key Account,15,03 de 2017,09 de 2017,True,2017,2017,2017-03-01,2017-09-01,7
+75,Any Company,mar de 2015 – set de 2017,,Gerente de Expansão,15,03 de 2015,09 de 2017,False,2015,2017,2015-03-01,2017-09-01,31
+76,Any Company,jun de 2016 – mar de 2017,BeloHorizonte,Comercial,15,06 de 2016,03 de 2017,False,2016,2017,2016-06-01,2017-03-01,10
+77,Any Company,out de 2013 – nov de 2014,,Comercial,15,10 de 2013,11 de 2014,False,2013,2014,2013-10-01,2014-11-01,14
+78,Any Company,jul de 2013 – out de 2013,,Gerente Regional,15,07 de 2013,10 de 2013,False,2013,2013,2013-07-01,2013-10-01,4
+79,Trojan Technologies,set de 2017 – set de 2017,"Belo Horizonte e Região, Brasil",Head of People,16,09 de 2017,09 de 2017,True,2017,2017,2017-09-01,2017-09-01,1
+80,Trojan Technologies,mar de 2017 – ago de 2017,"Belo Horizonte e Região, Brasil",People Consultant,16,03 de 2017,08 de 2017,False,2017,2017,2017-03-01,2017-08-01,6
+81,Any Company,out de 2015 – out de 2015,"Governador Valadares e Região, Brasil",Produção Cultural,16,10 de 2015,10 de 2015,False,2015,2015,2015-10-01,2015-10-01,1
+82,Any Company,jan de 2015 – jun de 2015,"Curitiba e Região, Brasil",Gerente de Gente & Gestão - Auto Serviço,16,01 de 2015,06 de 2015,False,2015,2015,2015-01-01,2015-06-01,6
+83,Any Company,jan de 2013 – dez de 2014,,Analista III da Universidade Ambev,16,01 de 2013,12 de 2014,False,2013,2014,2013-01-01,2014-12-01,24
+84,Trojan Technologies,ago de 2017 – set de 2017,"Belo Horizonte Area, Brazil",Public Relations Intern,17,08 de 2017,09 de 2017,True,2017,2017,2017-08-01,2017-09-01,2
+85,Trojan Technologies,mar de 2017 – set de 2017,"Belo Horizonte Area, Brazil",Customer Success Intern,17,03 de 2017,09 de 2017,True,2017,2017,2017-03-01,2017-09-01,7
+86,Any Company,set de 2014 – jul de 2015,Irlanda,Scholarship Holder,17,09 de 2014,07 de 2015,False,2014,2015,2014-09-01,2015-07-01,11
+87,Trojan Technologies,jul de 2017 – set de 2017,"Belo Horizonte e Região, Brasil",Trade Marketing Analyst,18,07 de 2017,09 de 2017,True,2017,2017,2017-07-01,2017-09-01,3
+88,Trojan Technologies,abr de 2017 – jul de 2017,"Belo Horizonte e Região, Brasil",B2B Customer Success Analyst and Farmer,18,04 de 2017,07 de 2017,False,2017,2017,2017-04-01,2017-07-01,4
+89,Any Company,mar de 2017 – jul de 2017,"Belo Horizonte e Região, Brasil",Public Relations Consultant,18,03 de 2017,07 de 2017,False,2017,2017,2017-03-01,2017-07-01,5
+90,Trojan Technologies,out de 2016 – abr de 2017,"Belo Horizonte e Região, Brasil",Customer Success Analyst,18,10 de 2016,04 de 2017,False,2016,2017,2016-10-01,2017-04-01,7
+91,Any Company,mar de 2016 – out de 2016,"Belo Horizonte e Região, Brasil",Freelancer Content Producer,18,03 de 2016,10 de 2016,False,2016,2016,2016-03-01,2016-10-01,8
+92,Trojan Technologies,mar de 2017 – set de 2017,Belo Horizonte,Customer Success - Intern,19,03 de 2017,09 de 2017,True,2017,2017,2017-03-01,2017-09-01,7
+93,Any Company,jan de 2016 – dez de 2016,,Estagiário Santander Financiamentos,19,01 de 2016,12 de 2016,False,2016,2016,2016-01-01,2016-12-01,12
+94,Any Company,ago de 2014 – dez de 2016,,Aprendiz,19,08 de 2014,12 de 2016,False,2014,2016,2014-08-01,2016-12-01,29
+95,Trojan Technologies,jan de 2017 – set de 2017,,Time de Expansão,20,01 de 2017,09 de 2017,True,2017,2017,2017-01-01,2017-09-01,9
+96,Any Company,dez de 2015 – set de 2017,,Diretora Comercial,20,12 de 2015,09 de 2017,False,2015,2017,2015-12-01,2017-09-01,22
+97,Any Company,mar de 2015 – nov de 2015,,Consultora de Projetos,20,03 de 2015,11 de 2015,False,2015,2015,2015-03-01,2015-11-01,9
+98,Trojan Technologies,fev de 2017 – set de 2017,,Onboarding Coordinator,21,02 de 2017,09 de 2017,True,2017,2017,2017-02-01,2017-09-01,8
+99,Any Company,ago de 2015 – out de 2016,,Diretor Executivo / COO,21,08 de 2015,10 de 2016,False,2015,2016,2015-08-01,2016-10-01,15
+100,Any Company,ago de 2014 – out de 2016,,Co-fundador e Sócio / Co-founder & Partner,21,08 de 2014,10 de 2016,False,2014,2016,2014-08-01,2016-10-01,27
+101,Any Company,out de 2014 – jul de 2015,,Gerente de Projetos / Project Manager,21,10 de 2014,07 de 2015,False,2014,2015,2014-10-01,2015-07-01,10
+102,Any Company,jul de 2011 – jun de 2014,"Belo Horizonte e Região, Brasil",Coordenador / Coordinator,21,07 de 2011,06 de 2014,False,2011,2014,2011-07-01,2014-06-01,36
+103,Trojan Technologies,out de 2016 – set de 2017,,Analista de DP,22,10 de 2016,09 de 2017,True,2016,2017,2016-10-01,2017-09-01,12
+104,Trojan Technologies,abr de 2015 – out de 2016,,Customer Experience Analyst - Trojan Technologies,22,04 de 2015,10 de 2016,False,2015,2016,2015-04-01,2016-10-01,19
+105,Any Company,set de 2014 – dez de 2014,"Belo Horizonte e Região, Brasil",Estágiária,22,09 de 2014,12 de 2014,False,2014,2014,2014-09-01,2014-12-01,4
+106,Any Company,abr de 2012 – fev de 2014,"Contagem e Região, Brasil",Assistente Financeiro Sênior,22,04 de 2012,02 de 2014,False,2012,2014,2012-04-01,2014-02-01,23
+107,Any Company,jul de 2011 – mar de 2012,Contagem,Assistente Financeiro Pleno,22,07 de 2011,03 de 2012,False,2011,2012,2011-07-01,2012-03-01,9
+108,Trojan Technologies,jan de 2017 – set de 2017,"Belo Horizonte e Região, Brasil",Diretora de arte,23,01 de 2017,09 de 2017,True,2017,2017,2017-01-01,2017-09-01,9
+109,Any Company,mar de 2015 – mar de 2016,,Bolsista de Iniciação Científica,23,03 de 2015,03 de 2016,False,2015,2016,2015-03-01,2016-03-01,13
+110,Any Company,2014 – 2016,,Assessora de Comunicação,23,01 de 2014,01 de 2016,False,2014,2016,2014-01-01,2016-01-01,25
+111,Trojan Technologies,ago de 2016 – set de 2017,Belo Horizonte,Engenheiro de Software,24,08 de 2016,09 de 2017,True,2016,2017,2016-08-01,2017-09-01,14
+112,Any Company,nov de 2015 – jul de 2016,Belo Horizonte,Desenvolvedor Web Full Stack,24,11 de 2015,07 de 2016,False,2015,2016,2015-11-01,2016-07-01,9
+113,Any Company,ago de 2005 – fev de 2013,Belo Horizonte,Gerente de TI,24,08 de 2005,02 de 2013,False,2005,2013,2005-08-01,2013-02-01,91
+114,Trojan Technologies,jan de 2017 – set de 2017,,Costomer Success,25,01 de 2017,09 de 2017,True,2017,2017,2017-01-01,2017-09-01,9
+115,Any Company,fev de 2016 – set de 2017,,Bolsista,25,02 de 2016,09 de 2017,False,2016,2017,2016-02-01,2017-09-01,20
+116,Any Company,ago de 2015 – set de 2017,,Cocriador,25,08 de 2015,09 de 2017,False,2015,2017,2015-08-01,2017-09-01,26
+118,Any Company,jan de 2012 – ago de 2012,"Belo Horizonte e Região, Brasil",Auxiliar técnico de qualidade 1,25,01 de 2012,08 de 2012,False,2012,2012,2012-01-01,2012-08-01,8
+119,Any Company,jan de 2011 – jan de 2012,"Belo Horizonte e Região, Brasil",Auxiliar de ferramentaria,25,01 de 2011,01 de 2012,False,2011,2012,2011-01-01,2012-01-01,13
+120,Trojan Technologies,fev de 2017 – set de 2017,"Belo Horizonte, Minas Gerais",Customer Sucess Analyst,26,02 de 2017,09 de 2017,True,2017,2017,2017-02-01,2017-09-01,8
+121,Any Company,jun de 2016 – jan de 2017,"Belo Horizonte, Minas Gerais",Estagiário de Produção,26,06 de 2016,01 de 2017,False,2016,2017,2016-06-01,2017-01-01,8
+122,Trojan Technologies,mar de 2017 – set de 2017,"Belo Horizonte e Região, Brasil",Estagiária de Customer Success,27,03 de 2017,09 de 2017,True,2017,2017,2017-03-01,2017-09-01,7
+123,Any Company,jul de 2016 – mar de 2017,,Estagiária de Marketing e Comunicação,27,07 de 2016,03 de 2017,False,2016,2017,2016-07-01,2017-03-01,9
+124,Any Company,jan de 2016 – jul de 2016,,Coordenadora de Planejamento,27,01 de 2016,07 de 2016,False,2016,2016,2016-01-01,2016-07-01,7
+125,Any Company,jul de 2015 – dez de 2015,"Belo Horizonte e Região, Brasil",Assessora de Planejamento,27,07 de 2015,12 de 2015,False,2015,2015,2015-07-01,2015-12-01,6
+126,Any Company,jul de 2015 – dez de 2015,,Assessora de Administrativo Financeiro,27,07 de 2015,12 de 2015,False,2015,2015,2015-07-01,2015-12-01,6
+127,Trojan Technologies,mai de 2017 – set de 2017,"Belo Horizonte e Região, Brasil",Coordenadora de Branding,28,05 de 2017,09 de 2017,True,2017,2017,2017-05-01,2017-09-01,5
+128,Trojan Technologies,fev de 2016 – abr de 2017,"Belo Horizonte e Região, Brasil",Assessora de imprensa,28,02 de 2016,04 de 2017,False,2016,2017,2016-02-01,2017-04-01,15
+129,Any Company,ago de 2013 – jan de 2016,"Belo Horizonte e Região, Brasil",Analista de Comunicação,28,08 de 2013,01 de 2016,False,2013,2016,2013-08-01,2016-01-01,30
+130,Any Company,mai de 2013 – jul de 2013,"Belo Horizonte e Região, Brasil",Produtora plena,28,05 de 2013,07 de 2013,False,2013,2013,2013-05-01,2013-07-01,3
+131,Any Company,jul de 2012 – dez de 2012,"Belo Horizonte e Região, Brasil",Assistente de Comunicação,28,07 de 2012,12 de 2012,False,2012,2012,2012-07-01,2012-12-01,6
+132,Trojan Technologies,out de 2016 – set de 2017,"Manaus e Região, Brasil",Lead Software Developer,29,10 de 2016,09 de 2017,True,2016,2017,2016-10-01,2017-09-01,12
+133,Any Company,jan de 2014 – out de 2016,"Manaus e Região, Brasil",Sr. Analyst Developer / Product Owner,29,01 de 2014,10 de 2016,False,2014,2016,2014-01-01,2016-10-01,34
+134,Any Company,mar de 2012 – dez de 2013,"Manaus e Região, Brasil","Sr. Analyst Developer, Project Leader",29,03 de 2012,12 de 2013,False,2012,2013,2012-03-01,2013-12-01,22
+135,Any Company,jan de 2010 – fev de 2012,"Manaus e Região, Brasil",Application Developer,29,01 de 2010,02 de 2012,False,2010,2012,2010-01-01,2012-02-01,26
+136,Any Company,jan de 2005 – dez de 2009,"Manaus e Região, Brasil",Software Developer,29,01 de 2005,12 de 2009,False,2005,2009,2005-01-01,2009-12-01,60
+137,Trojan Technologies,mar de 2017 – set de 2017,"Belo Horizonte e Região, Brasil",Customer Success,30,03 de 2017,09 de 2017,True,2017,2017,2017-03-01,2017-09-01,7
+138,Trojan Technologies,jul de 2016 – set de 2017,"Belo Horizonte Area, Brazil",Full Stack Engineer,31,07 de 2016,09 de 2017,True,2016,2017,2016-07-01,2017-09-01,15
+139,Any Company,abr de 2014 – jun de 2016,"Juiz de Fora e Região, Brasil",Software Engineer,31,04 de 2014,06 de 2016,False,2014,2016,2014-04-01,2016-06-01,27
+140,Any Company,mar de 2010 – abr de 2014,"Juiz de Fora e Região, Brasil",Web Developer,31,03 de 2010,04 de 2014,False,2010,2014,2010-03-01,2014-04-01,50
+141,Any Company,nov de 2007 – mar de 2010,"Juiz de Fora e Região, Brasil",Software Developer,31,11 de 2007,03 de 2010,False,2007,2010,2007-11-01,2010-03-01,29
+142,Trojan Technologies,jul de 2017 – set de 2017,"Belo Horizonte, Minas Gerais",Key Account Manager,32,07 de 2017,09 de 2017,True,2017,2017,2017-07-01,2017-09-01,3
+143,Trojan Technologies,fev de 2017 – set de 2017,"Belo Horizonte, Minas Gerais",Business Sales Executive,32,02 de 2017,09 de 2017,True,2017,2017,2017-02-01,2017-09-01,8
+145,Any Company,out de 2015 – set de 2016,"Belo Horizonte e Região, Brasil",Executiva de Contas Atacado,32,10 de 2015,09 de 2016,False,2015,2016,2015-10-01,2016-09-01,12
+146,Any Company,jun de 2012 – set de 2015,"Belo Horizonte e Região, Brasil",Gerente de Relacionamento Comercial,32,06 de 2012,09 de 2015,False,2012,2015,2012-06-01,2015-09-01,40
+147,Any Company,mar de 2010 – jun de 2012,,Assessora de Relacionamento Comercial,32,03 de 2010,06 de 2012,False,2010,2012,2010-03-01,2012-06-01,28
+148,Trojan Technologies,out de 2013 – set de 2017,"Belo Horizonte Area, Brazil","Lead Product Designer, Partner",33,10 de 2013,09 de 2017,True,2013,2017,2013-10-01,2017-09-01,48
+149,Any Company,jan de 2011 – jul de 2013,"Rio de Janeiro Area, Brazil",Senior Product Designer,33,01 de 2011,07 de 2013,False,2011,2013,2011-01-01,2013-07-01,31
+150,Any Company,fev de 2008 – jan de 2011,,"Interaction Designer, Partner",33,02 de 2008,01 de 2011,False,2008,2011,2008-02-01,2011-01-01,36
+151,Any Company,abr de 2001 – jan de 2008,"Belo Horizonte Area, Brazil","Web Designer, Developer",33,04 de 2001,01 de 2008,False,2001,2008,2001-04-01,2008-01-01,82
+152,Any Company,jun de 2000 – jan de 2001,,Graphic Designer,33,06 de 2000,01 de 2001,False,2000,2001,2000-06-01,2001-01-01,8
+153,Trojan Technologies,jul de 2016 – set de 2017,"Belo Horizonte e Região, Brasil",Product Manager,34,07 de 2016,09 de 2017,True,2016,2017,2016-07-01,2017-09-01,15
+154,Any Company,set de 2015 – mai de 2016,,Product Manager,34,09 de 2015,05 de 2016,False,2015,2016,2015-09-01,2016-05-01,9
+155,Any Company,out de 2013 – ago de 2015,"São Paulo Area, Brazil",Co-Founder and Head of Product,34,10 de 2013,08 de 2015,False,2013,2015,2013-10-01,2015-08-01,23
+156,Any Company,fev de 2010 – fev de 2011,,Researcher,34,02 de 2010,02 de 2011,False,2010,2011,2010-02-01,2011-02-01,13
+157,Any Company,mar de 2009 – dez de 2009,"Recife e Região, Brasil",Software Developer,34,03 de 2009,12 de 2009,False,2009,2009,2009-03-01,2009-12-01,10
+158,Trojan Technologies,dez de 2012 – set de 2017,"Belo Horizonte e Região, Brasil",Engenheiro de software sênior,35,12 de 2012,09 de 2017,True,2012,2017,2012-12-01,2017-09-01,58
+160,Any Company,mai de 2009 – dez de 2012,"Belo Horizonte e Região, Brasil",Software Engineer,35,05 de 2009,12 de 2012,False,2009,2012,2009-05-01,2012-12-01,44
+161,Any Company,mar de 2005 – out de 2010,,Master in Computer Science,35,03 de 2005,10 de 2010,False,2005,2010,2005-03-01,2010-10-01,68
+162,Any Company,ago de 2008 – mar de 2009,,Software Engineer,35,08 de 2008,03 de 2009,False,2008,2009,2008-08-01,2009-03-01,8
+163,Any Company,jan de 2008 – mai de 2008,,Intern,35,01 de 2008,05 de 2008,False,2008,2008,2008-01-01,2008-05-01,5
+164,Trojan Technologies,mar de 2017 – set de 2017,"Belo Horizonte, Minas Gerais, Brésil",Customer Success,36,03 de 2017,09 de 2017,True,2017,2017,2017-03-01,2017-09-01,7
+165,Any Company,ago de 2015 – jul de 2016,"Amesterdã e Região, Holanda",Science without Borders Student,36,08 de 2015,07 de 2016,False,2015,2016,2015-08-01,2016-07-01,12
+166,Any Company,jul de 2014 – jul de 2015,"Belo Horizonte e Região, Brasil",Intern and Manager of Internal Environment,36,07 de 2014,07 de 2015,False,2014,2015,2014-07-01,2015-07-01,13
+167,Trojan Technologies,jan de 2016 – set de 2017,"Belo Horizonte e Região, Brasil",Software Developer,37,01 de 2016,09 de 2017,True,2016,2017,2016-01-01,2017-09-01,21
+168,Any Company,nov de 2013 – set de 2017,"Belo Horizonte e Região, Brasil",Editor,37,11 de 2013,09 de 2017,False,2013,2017,2013-11-01,2017-09-01,47
+170,Any Company,nov de 2014 – jan de 2016,"Belo Horizonte e Região, Brasil",Developer,37,11 de 2014,01 de 2016,False,2014,2016,2014-11-01,2016-01-01,15
+171,Any Company,mar de 2014 – dez de 2014,"Belo Horizonte e Região, Brasil",Developer,37,03 de 2014,12 de 2014,False,2014,2014,2014-03-01,2014-12-01,10
+172,Any Company,jun de 2009 – dez de 2013,"Belo Horizonte e Região, Brasil",Programador web,37,06 de 2009,12 de 2013,False,2009,2013,2009-06-01,2013-12-01,55
+173,Trojan Technologies,mar de 2017 – set de 2017,"Belo Horizonte e Região, Brasil",Arquiteto de soluções,38,03 de 2017,09 de 2017,True,2017,2017,2017-03-01,2017-09-01,7
+174,Trojan Technologies,abr de 2015 – set de 2017,"Belo Horizonte e Região, Brasil",Engenheiro de Software,38,04 de 2015,09 de 2017,True,2015,2017,2015-04-01,2017-09-01,30
+175,Any Company,fev de 2013 – mar de 2015,"Vitória e Região, Brasil",Coordenador de TI e Analista de Sistemas,38,02 de 2013,03 de 2015,False,2013,2015,2013-02-01,2015-03-01,26
+176,Any Company,dez de 2007 – jan de 2013,"Belo Horizonte e Região, Brasil",Analista de Sistemas / Engenheiro de Software,38,12 de 2007,01 de 2013,False,2007,2013,2007-12-01,2013-01-01,62
+177,Trojan Technologies,out de 2016 – set de 2017,"Belo Horizonte e Região, Brasil",Business Intelligence and Data Analyst,39,10 de 2016,09 de 2017,True,2016,2017,2016-10-01,2017-09-01,12
+178,Any Company,mar de 2017 – set de 2017,"Belo Horizonte e Região, Brasil",Co Founder,39,03 de 2017,09 de 2017,False,2017,2017,2017-03-01,2017-09-01,7
+179,Any Company,ago de 2012 – out de 2016,"Belo Horizonte e Região, Brasil",Inteligência de Mercado e Planejamento,39,08 de 2012,10 de 2016,False,2012,2016,2012-08-01,2016-10-01,51
+180,Any Company,jan de 2011 – abr de 2012,"Belo Horizonte e Região, Brasil",Planejamento e estratégia de T&D,39,01 de 2011,04 de 2012,False,2011,2012,2011-01-01,2012-04-01,16
+181,Any Company,jan de 2009 – dez de 2010,"Belo Horizonte e Região, Brasil",UAIE - Unidade de Atendimento Individual ao Empreendedor,39,01 de 2009,12 de 2010,False,2009,2010,2009-01-01,2010-12-01,24
+182,Trojan Technologies,mar de 2016 – set de 2017,"Belo Horizonte e Região, Brasil",Tech Leader,40,03 de 2016,09 de 2017,True,2016,2017,2016-03-01,2017-09-01,19
+183,Any Company,nov de 2014 – mar de 2016,"Belo Horizonte e Região, Brasil",Desenvolvedor frontend,40,11 de 2014,03 de 2016,False,2014,2016,2014-11-01,2016-03-01,17
+184,Any Company,jul de 2014 – nov de 2014,Belo Horizonte,Desenvolvedor Web,40,07 de 2014,11 de 2014,False,2014,2014,2014-07-01,2014-11-01,5
+185,Any Company,ago de 2014 – out de 2014,Belo Horizonte,Desenvolvedor Web,40,08 de 2014,10 de 2014,False,2014,2014,2014-08-01,2014-10-01,3
+186,Any Company,jan de 2011 – dez de 2011,,Diretor Presidente,40,01 de 2011,12 de 2011,False,2011,2011,2011-01-01,2011-12-01,12
+187,Trojan Technologies,jan de 2017 – set de 2017,"Belo Horizonte, Minas Gerais",Analista financeiro,41,01 de 2017,09 de 2017,True,2017,2017,2017-01-01,2017-09-01,9
+188,Trojan Technologies,nov de 2015 – set de 2017,"Belo Horizonte e Região, Brasil",Estagiária de finanças,41,11 de 2015,09 de 2017,True,2015,2017,2015-11-01,2017-09-01,23
+189,Any Company,mar de 2015 – mar de 2015,"Sydney e Região, Austrália",Tradução simultânea,41,03 de 2015,03 de 2015,False,2015,2015,2015-03-01,2015-03-01,1
+190,Any Company,mar de 2014 – out de 2014,"Belo Horizonte e Região, Brasil",Estagiaria,41,03 de 2014,10 de 2014,False,2014,2014,2014-03-01,2014-10-01,8
+191,Any Company,set de 2013 – mar de 2014,"Belo Horizonte e Região, Brasil",Auxiliar administrativo,41,09 de 2013,03 de 2014,False,2013,2014,2013-09-01,2014-03-01,7
+192,Trojan Technologies,jul de 2017 – set de 2017,"Belo Horizonte e Região, Brasil",Analista financeiro,42,07 de 2017,09 de 2017,True,2017,2017,2017-07-01,2017-09-01,3
+193,Any Company,abr de 2014 – jul de 2016,"Belo Horizonte Area, Brazil",Estagiária de finanças,42,04 de 2014,07 de 2016,False,2014,2016,2014-04-01,2016-07-01,28
+194,Any Company,abr de 2012 – out de 2012,"Belo Horizonte e Região, Brasil",Estagiária,42,04 de 2012,10 de 2012,False,2012,2012,2012-04-01,2012-10-01,7
+195,Trojan Technologies,out de 2016 – set de 2017,"Belo Horizonte e Região, Brasil",Analista de controladoria,43,10 de 2016,09 de 2017,True,2016,2017,2016-10-01,2017-09-01,12
+196,Any Company,dez de 2014 – out de 2016,"Belo Horizonte e Região, Brasil",Associate at Audit,43,12 de 2014,10 de 2016,False,2014,2016,2014-12-01,2016-10-01,23
+197,Trojan Technologies,ago de 2017 – set de 2017,"Belo Horizonte Area, Brazil",Software Architect,44,08 de 2017,09 de 2017,True,2017,2017,2017-08-01,2017-09-01,2
+198,Any Company,nov de 2015 – mai de 2017,"Belo Horizonte Area, Brazil",Senior Software Engineer,44,11 de 2015,05 de 2017,False,2015,2017,2015-11-01,2017-05-01,19
+199,Any Company,jul de 2015 – nov de 2015,,Senior Software Engineer Contract,44,07 de 2015,11 de 2015,False,2015,2015,2015-07-01,2015-11-01,5
+200,Any Company,jan de 2015 – jul de 2015,"Belo Horizonte Area, Brazil",Senior Software Engineer,44,01 de 2015,07 de 2015,False,2015,2015,2015-01-01,2015-07-01,7
+201,Any Company,out de 2014 – jan de 2015,"Mountain View, California",Senior Software Engineer,44,10 de 2014,01 de 2015,False,2014,2015,2014-10-01,2015-01-01,4
+202,Trojan Technologies,mai de 2017 – set de 2017,"Manaus e Região, Brasil",Desenvolvedor Júnior,45,05 de 2017,09 de 2017,True,2017,2017,2017-05-01,2017-09-01,5
+203,Trojan Technologies,out de 2016 – abr de 2017,,Desenvolvedor Trainee,45,10 de 2016,04 de 2017,False,2016,2017,2016-10-01,2017-04-01,7
+204,Any Company,fev de 2016 – set de 2016,,Bolsista - CPD,45,02 de 2016,09 de 2016,False,2016,2016,2016-02-01,2016-09-01,8
+205,Any Company,jun de 2013 – jan de 2014,,Estagiário de TI,45,06 de 2013,01 de 2014,False,2013,2014,2013-06-01,2014-01-01,8
+206,Trojan Technologies,out de 2016 – set de 2017,"Belo Horizonte Area, Brazil",Software Developer,46,10 de 2016,09 de 2017,True,2016,2017,2016-10-01,2017-09-01,12
+207,Trojan Technologies,out de 2016 – set de 2017,"Belo Horizonte e Região, Brasil",Talent Acquisition,47,10 de 2016,09 de 2017,True,2016,2017,2016-10-01,2017-09-01,12
+208,Any Company,abr de 2014 – abr de 2016,,Estagiário,47,04 de 2014,04 de 2016,False,2014,2016,2014-04-01,2016-04-01,25
+209,Any Company,fev de 2014 – mar de 2014,,Estagiário,47,02 de 2014,03 de 2014,False,2014,2014,2014-02-01,2014-03-01,2
+210,Any Company,ago de 2012 – fev de 2014,,Estagiário,47,08 de 2012,02 de 2014,False,2012,2014,2012-08-01,2014-02-01,19
+211,Trojan Technologies,jan de 2017 – set de 2017,"Belo Horizonte e Região, Brasil",Gestora do time de Pessoas - Responsável por R&S e T&D,48,01 de 2017,09 de 2017,True,2017,2017,2017-01-01,2017-09-01,9
+213,Trojan Technologies,out de 2015 – dez de 2016,"Belo Horizonte e Região, Brasil",Responsável por R&S no Trojan Technologies.,48,10 de 2015,12 de 2016,False,2015,2016,2015-10-01,2016-12-01,15
+214,Any Company,out de 2014 – jun de 2015,"Belo Horizonte e Região, Brasil",Atendimento Clínico Individual,48,10 de 2014,06 de 2015,False,2014,2015,2014-10-01,2015-06-01,9
+215,Any Company,fev de 2012 – jul de 2014,Florianópolis,Psicóloga - R&S e T&D,48,02 de 2012,07 de 2014,False,2012,2014,2012-02-01,2014-07-01,30
+216,Any Company,fev de 2010 – mai de 2012,Universidade Federal de Santa Catarina,Atendimento Psicológico Clínico - Estágio,48,02 de 2010,05 de 2012,False,2010,2012,2010-02-01,2012-05-01,28
+217,Trojan Technologies,mar de 2015 – set de 2017,"Belo Horizonte Area, Brazil",Senior UX Designer,49,03 de 2015,09 de 2017,True,2015,2017,2015-03-01,2017-09-01,31
+218,Any Company,ago de 2013 – mar de 2015,"Ouro Preto e Região, Brasil",Senior Designer,49,08 de 2013,03 de 2015,False,2013,2015,2013-08-01,2015-03-01,20
+219,Any Company,mai de 2011 – jun de 2013,Belo Horizonte,Co-Founder & UX Designer,49,05 de 2011,06 de 2013,False,2011,2013,2011-05-01,2013-06-01,26
+220,Any Company,mar de 2011 – fev de 2012,,Designer,49,03 de 2011,02 de 2012,False,2011,2012,2011-03-01,2012-02-01,12
+221,Any Company,jun de 2010 – mar de 2011,,Diretora de arte,49,06 de 2010,03 de 2011,False,2010,2011,2010-06-01,2011-03-01,10
+222,Trojan Technologies,jan de 2017 – set de 2017,"Belo Horizonte e Região, Brasil",Director of Marketing,50,01 de 2017,09 de 2017,True,2017,2017,2017-01-01,2017-09-01,9
+223,Any Company,set de 2014 – jan de 2017,"Rio de Janeiro e Região, Brasil",Sr. Marketing Manager,50,09 de 2014,01 de 2017,False,2014,2017,2014-09-01,2017-01-01,29
+224,Any Company,jan de 2013 – set de 2014,"Rio de Janeiro e Região, Brasil",Marketing Coordinator,50,01 de 2013,09 de 2014,False,2013,2014,2013-01-01,2014-09-01,21
+225,Any Company,mar de 2012 – jan de 2013,"Rio de Janeiro e Região, Brasil",Analista de Marketing,50,03 de 2012,01 de 2013,False,2012,2013,2012-03-01,2013-01-01,11
+226,Any Company,jun de 2010 – fev de 2012,Elogia,Mídia Online,50,06 de 2010,02 de 2012,False,2010,2012,2010-06-01,2012-02-01,21
+227,Trojan Technologies,mar de 2015 – set de 2017,"Belo Horizonte e Região, Brasil",COO,51,03 de 2015,09 de 2017,True,2015,2017,2015-03-01,2017-09-01,31
+228,Any Company,fev de 2014 – dez de 2015,belo horizonte,Cofundador,51,02 de 2014,12 de 2015,False,2014,2015,2014-02-01,2015-12-01,23
+231,Trojan Technologies,jul de 2014 – mar de 2015,"Belo Horizonte e Região, Brasil",Diretor de Marketing,51,07 de 2014,03 de 2015,False,2014,2015,2014-07-01,2015-03-01,9
+232,Any Company,abr de 2013 – jan de 2014,"Belo Horizonte e Região, Brasil",Gerente de futebol e Copa,51,04 de 2013,01 de 2014,False,2013,2014,2013-04-01,2014-01-01,10
+235,Any Company,set de 2012 – abr de 2013,"Belo Horizonte e Região, Brasil",Gerente da Categoria Energético,51,09 de 2012,04 de 2013,False,2012,2013,2012-09-01,2013-04-01,8
+236,Trojan Technologies,jul de 2017 – set de 2017,"Belo Horizonte e Região, Brasil",Product Growth Manager,52,07 de 2017,09 de 2017,True,2017,2017,2017-07-01,2017-09-01,3
+237,Trojan Technologies,ago de 2016 – jun de 2017,"Belo Horizonte Area, Brazil",Head of Growth,52,08 de 2016,06 de 2017,False,2016,2017,2016-08-01,2017-06-01,11
+238,Any Company,dez de 2013 – ago de 2016,"Belo Horizonte e Região, Brasil",Digital Marketing Coordinator,52,12 de 2013,08 de 2016,False,2013,2016,2013-12-01,2016-08-01,33
+239,Any Company,jan de 2013 – jan de 2014,,Arquiteto de Informação,52,01 de 2013,01 de 2014,False,2013,2014,2013-01-01,2014-01-01,13
+240,Any Company,nov de 2010 – mai de 2011,,Analista de SEO,52,11 de 2010,05 de 2011,False,2010,2011,2010-11-01,2011-05-01,7
+241,Any Company,ago de 2017 – set de 2017,"Belo Horizonte, Minas Gerais",Co-idealizador e Anfitrião,53,08 de 2017,09 de 2017,False,2017,2017,2017-08-01,2017-09-01,2
+242,Any Company,mai de 2017 – set de 2017,"Belo Horizonte e Região, Brasil",Fundador e Head de Produto,53,05 de 2017,09 de 2017,False,2017,2017,2017-05-01,2017-09-01,5
+244,Trojan Technologies,jan de 2017 – set de 2017,"Belo Horizonte e Região, Brasil",Creative Designer,53,01 de 2017,09 de 2017,True,2017,2017,2017-01-01,2017-09-01,9
+245,Any Company,set de 2016 – set de 2017,"Belo Horizonte e Região, Brasil",Coordenador de Comunicação,53,09 de 2016,09 de 2017,False,2016,2017,2016-09-01,2017-09-01,13
+246,Any Company,jun de 2016 – set de 2017,"Belo Horizonte e Região, Brasil",Coordenador de Comunicação e Marca,53,06 de 2016,09 de 2017,False,2016,2017,2016-06-01,2017-09-01,16
+247,Trojan Technologies,abr de 2014 – set de 2017,"Belo Horizonte e Região, Brasil",Head of Customer Success,54,04 de 2014,09 de 2017,True,2014,2017,2014-04-01,2017-09-01,42
+249,Trojan Technologies,dez de 2013 – mar de 2014,"Belo Horizonte e Região, Brasil",Gerente de Novos Negócios,54,12 de 2013,03 de 2014,False,2013,2014,2013-12-01,2014-03-01,4
+250,Any Company,jun de 2012 – dez de 2013,"Belo Horizonte e Região, Brasil",Assistente de informação,54,06 de 2012,12 de 2013,False,2012,2013,2012-06-01,2013-12-01,19
+251,Any Company,jan de 2011 – dez de 2011,"Governador Valadares e Região, Brasil",Estágio,54,01 de 2011,12 de 2011,False,2011,2011,2011-01-01,2011-12-01,12
+252,Any Company,jan de 2009 – dez de 2010,"Governador Valadares e Região, Brasil",Proprietário,54,01 de 2009,12 de 2010,False,2009,2010,2009-01-01,2010-12-01,24
+253,Trojan Technologies,ago de 2017 – set de 2017,"Belo Horizonte e Região, Brasil",Purchasing Analyst,55,08 de 2017,09 de 2017,True,2017,2017,2017-08-01,2017-09-01,2
+254,Trojan Technologies,fev de 2016 – ago de 2017,"Belo Horizonte e Região, Brasil",Estagiário de finanças,55,02 de 2016,08 de 2017,False,2016,2017,2016-02-01,2017-08-01,19
+255,Any Company,jul de 2015 – jan de 2016,,Planner,55,07 de 2015,01 de 2016,False,2015,2016,2015-07-01,2016-01-01,7
+256,Any Company,dez de 2014 – out de 2015,,Assessor de comunicação EMEJ,55,12 de 2014,10 de 2015,False,2014,2015,2014-12-01,2015-10-01,11
+257,Any Company,mar de 2015 – ago de 2015,,Planner e Vendas,55,03 de 2015,08 de 2015,False,2015,2015,2015-03-01,2015-08-01,6
+258,Trojan Technologies,dez de 2016 – set de 2017,,Estágio em Marketing CRM,56,12 de 2016,09 de 2017,True,2016,2017,2016-12-01,2017-09-01,10
+259,Any Company,fev de 2016 – jul de 2016,"Belo Horizonte e Região, Brasil",Gestora de Contas e Assessora de Qualidade,56,02 de 2016,07 de 2016,False,2016,2016,2016-02-01,2016-07-01,6
+260,Any Company,jul de 2015 – dez de 2015,,Planner e Assessora de Qualidade,56,07 de 2015,12 de 2015,False,2015,2015,2015-07-01,2015-12-01,6
+261,Trojan Technologies,mar de 2017 – set de 2017,"Belo Horizonte e Região, Brasil",Coordenadora de CS,57,03 de 2017,09 de 2017,True,2017,2017,2017-03-01,2017-09-01,7
+262,Any Company,jul de 2016 – mar de 2017,"Belo Horizonte e Região, Brasil",Scrum Master,57,07 de 2016,03 de 2017,False,2016,2017,2016-07-01,2017-03-01,9
+263,Any Company,jun de 2016 – mar de 2017,"Belo Horizonte, Minas Gerais",Consultant & Software Engineer,57,06 de 2016,03 de 2017,False,2016,2017,2016-06-01,2017-03-01,10
+264,Any Company,abr de 2016 – jun de 2016,"Betim e Região, Brasil",Analista de Sistemas,57,04 de 2016,06 de 2016,False,2016,2016,2016-04-01,2016-06-01,3
+265,Any Company,jun de 2015 – nov de 2015,"Belo Horizonte e Região, Brasil",Consultant Developer,57,06 de 2015,11 de 2015,False,2015,2015,2015-06-01,2015-11-01,6
+266,Trojan Technologies,mar de 2017 – set de 2017,"Belo Horizonte e Região, Brasil",Analista de DP,58,03 de 2017,09 de 2017,True,2017,2017,2017-03-01,2017-09-01,7
+267,Any Company,mar de 2016 – mar de 2017,,Assistente de RH,58,03 de 2016,03 de 2017,False,2016,2017,2016-03-01,2017-03-01,13
+268,Any Company,set de 2013 – fev de 2016,,Estagiária de RH,58,09 de 2013,02 de 2016,False,2013,2016,2013-09-01,2016-02-01,30
+269,Any Company,set de 2012 – set de 2013,,Aprendiz,58,09 de 2012,09 de 2013,False,2012,2013,2012-09-01,2013-09-01,13
+270,Trojan Technologies,dez de 2016 – set de 2017,,Estagiaria do Financeiro,59,12 de 2016,09 de 2017,True,2016,2017,2016-12-01,2017-09-01,10
+271,Any Company,jun de 2016 – dez de 2016,,Gerente de Projetos,59,06 de 2016,12 de 2016,False,2016,2016,2016-06-01,2016-12-01,7
+272,Any Company,mai de 2016 – dez de 2016,,Assessora Administrativa,59,05 de 2016,12 de 2016,False,2016,2016,2016-05-01,2016-12-01,8
+273,Any Company,dez de 2015 – jun de 2016,,Consultor,59,12 de 2015,06 de 2016,False,2015,2016,2015-12-01,2016-06-01,7
+274,Any Company,jan de 2015 – jun de 2016,,Diretor Administrativo e Financeiro,59,01 de 2015,06 de 2016,False,2015,2016,2015-01-01,2016-06-01,18
+275,Trojan Technologies,mar de 2017 – set de 2017,"Belo Horizonte Area, Brazil",Head of Data Analytics,60,03 de 2017,09 de 2017,True,2017,2017,2017-03-01,2017-09-01,7
+276,Trojan Technologies,nov de 2012 – mar de 2017,Belo Horizonte,CTO,60,11 de 2012,03 de 2017,False,2012,2017,2012-11-01,2017-03-01,53
+277,Any Company,mar de 2009 – out de 2013,"Belo Horizonte e Região, Brasil",Professor,60,03 de 2009,10 de 2013,False,2009,2013,2009-03-01,2013-10-01,56
+278,Any Company,dez de 2010 – dez de 2012,"Belo Horizonte e Região, Brasil",Professor,60,12 de 2010,12 de 2012,False,2010,2012,2010-12-01,2012-12-01,25
+279,Any Company,out de 2010 – nov de 2012,Belo Horizonte,Co-founder,60,10 de 2010,11 de 2012,False,2010,2012,2010-10-01,2012-11-01,26
+280,Trojan Technologies,ago de 2016 – set de 2017,"Belo Horizonte Area, Brazil",Commercial Analyst,61,08 de 2016,09 de 2017,True,2016,2017,2016-08-01,2017-09-01,14
+281,Any Company,jun de 2013 – jun de 2014,"Belo Horizonte e Região, Brasil",Advisor to the Presidency,61,06 de 2013,06 de 2014,False,2013,2014,2013-06-01,2014-06-01,13
+282,Any Company,set de 2013 – mai de 2014,"Belo Horizonte e Região, Brasil",Intern,61,09 de 2013,05 de 2014,False,2013,2014,2013-09-01,2014-05-01,9
+283,Any Company,dez de 2012 – set de 2013,"Belo Horizonte e Região, Brasil",Research Assistant,61,12 de 2012,09 de 2013,False,2012,2013,2012-12-01,2013-09-01,10
+284,Trojan Technologies,jun de 2017 – set de 2017,"Belo Horizonte Area, Brazil",Head Of Commercial,62,06 de 2017,09 de 2017,True,2017,2017,2017-06-01,2017-09-01,4
+285,Trojan Technologies,jun de 2014 – mai de 2017,"Belo Horizonte Area, Brazil",Key Account Manager,62,06 de 2014,05 de 2017,False,2014,2017,2014-06-01,2017-05-01,36
+286,Any Company,mai de 2014 – jun de 2014,"Belo Horizonte e Região, Brasil",Social Media Manager,62,05 de 2014,06 de 2014,False,2014,2014,2014-05-01,2014-06-01,2
+287,Any Company,jul de 2012 – fev de 2014,,Atendimento,62,07 de 2012,02 de 2014,False,2012,2014,2012-07-01,2014-02-01,20
+288,Any Company,jan de 2012 – jun de 2012,"Belo Horizonte e Região, Brasil",Diretora de Arte,62,01 de 2012,06 de 2012,False,2012,2012,2012-01-01,2012-06-01,6
+289,Trojan Technologies,ago de 2017 – set de 2017,"Belo Horizonte e Região, Brasil",Analista de tecnologia da informação,63,08 de 2017,09 de 2017,True,2017,2017,2017-08-01,2017-09-01,2
+290,Any Company,abr de 2017 – ago de 2017,"Belo Horizonte e Região, Brasil",Estágio em Tecnologia da Informação - Faculdade de Letras UFMG,63,04 de 2017,08 de 2017,False,2017,2017,2017-04-01,2017-08-01,5
+291,Any Company,jan de 2017 – jun de 2017,"Belo Horizonte e Região, Brasil",Mister King,63,01 de 2017,06 de 2017,False,2017,2017,2017-01-01,2017-06-01,6
+292,Any Company,jan de 2016 – jul de 2016,Belo Horizonte,Programador de Sistemas,63,01 de 2016,07 de 2016,False,2016,2016,2016-01-01,2016-07-01,7
+293,Any Company,nov de 2011 – dez de 2014,"Belo Horizonte e Região, Brasil",Programador web,63,11 de 2011,12 de 2014,False,2011,2014,2011-11-01,2014-12-01,38
+294,Trojan Technologies,mar de 2015 – set de 2017,"Belo Horizonte e Região, Brasil",Analista Financeiro,64,03 de 2015,09 de 2017,True,2015,2017,2015-03-01,2017-09-01,31
+295,Any Company,fev de 2012 – nov de 2014,,Supervisor de Secretaria,64,02 de 2012,11 de 2014,False,2012,2014,2012-02-01,2014-11-01,34
+296,Any Company,nov de 2011 – fev de 2012,"Belo Horizonte e Região, Brasil",Assistente de Educação e Cultura,64,11 de 2011,02 de 2012,False,2011,2012,2011-11-01,2012-02-01,4
+297,Any Company,ago de 2011 – out de 2011,"Belo Horizonte e Região, Brasil",Auxiliar Administrativo,64,08 de 2011,10 de 2011,False,2011,2011,2011-08-01,2011-10-01,3
+298,Any Company,mar de 2010 – dez de 2010,"Belo Horizonte e Região, Brasil",Agente Censitário Municipal,64,03 de 2010,12 de 2010,False,2010,2010,2010-03-01,2010-12-01,10
+299,Trojan Technologies,2017 – set de 2017,"Belo Horizonte Area, Brazil",People Consultant,65,01 de 2017,09 de 2017,True,2017,2017,2017-01-01,2017-09-01,9
+300,Trojan Technologies,nov de 2014 – set de 2017,"Belo Horizonte e Região, Brasil",Programador Front end,65,11 de 2014,09 de 2017,True,2014,2017,2014-11-01,2017-09-01,35
+301,Any Company,set de 2013 – out de 2014,,Analista de sistemas - Programador Front-End,65,09 de 2013,10 de 2014,False,2013,2014,2013-09-01,2014-10-01,14
+302,Trojan Technologies,nov de 2016 – set de 2017,"Belo Horizonte, Minas Gerais",Business Development Manager,66,11 de 2016,09 de 2017,True,2016,2017,2016-11-01,2017-09-01,11
+303,Trojan Technologies,mar de 2017 – jul de 2017,"Belo Horizonte, Minas Gerais",City Manager,66,03 de 2017,07 de 2017,False,2017,2017,2017-03-01,2017-07-01,5
+304,Any Company,nov de 2015 – out de 2016,Belo Horizonte,CEO & Partner,66,11 de 2015,10 de 2016,False,2015,2016,2015-11-01,2016-10-01,12
+305,Any Company,ago de 2015 – out de 2016,Belo Horizonte,Membro do Conselho,66,08 de 2015,10 de 2016,False,2015,2016,2015-08-01,2016-10-01,15
+306,Any Company,abr de 2013 – out de 2015,Belo Horizonte,COO & Partner,66,04 de 2013,10 de 2015,False,2013,2015,2013-04-01,2015-10-01,31
+307,Trojan Technologies,out de 2014 – set de 2017,,Customer Success,67,10 de 2014,09 de 2017,True,2014,2017,2014-10-01,2017-09-01,36
+309,Trojan Technologies,nov de 2015 – set de 2017,"Belo Horizonte, Minas Gerais, Brazil",Head of Trojan Technologies In-Store,68,11 de 2015,09 de 2017,True,2015,2017,2015-11-01,2017-09-01,23
+310,Any Company,2014 – 2015,São Paulo,Special Situations,68,01 de 2014,01 de 2015,False,2014,2015,2014-01-01,2015-01-01,13
+311,Any Company,2012 – 2014,,Asset Management,68,01 de 2012,01 de 2014,False,2012,2014,2012-01-01,2014-01-01,25
+312,Any Company,set de 2011 – fev de 2012,RIo de Janeiro,Intern,68,09 de 2011,02 de 2012,False,2011,2012,2011-09-01,2012-02-01,6
+313,Any Company,jul de 2011 – ago de 2011,"Belo Horizonte e Região, Brasil",Summer Job,68,07 de 2011,08 de 2011,False,2011,2011,2011-07-01,2011-08-01,2
+314,Trojan Technologies,jul de 2016 – set de 2017,"Belo Horizonte e Região, Brasil",Trade Marketing,69,07 de 2016,09 de 2017,True,2016,2017,2016-07-01,2017-09-01,15
+315,Any Company,jan de 2016 – jun de 2016,"Itabira, Minas Gerais",Consultora,69,01 de 2016,06 de 2016,False,2016,2016,2016-01-01,2016-06-01,6
+316,Any Company,set de 2014 – dez de 2015,"São Paulo e Região, Brasil",Analista de Negócios,69,09 de 2014,12 de 2015,False,2014,2015,2014-09-01,2015-12-01,16
+317,Any Company,dez de 2010 – nov de 2013,"Belo Horizonte e Região, Brasil",Executivo de Contas,69,12 de 2010,11 de 2013,False,2010,2013,2010-12-01,2013-11-01,36
+318,Any Company,jan de 2009 – dez de 2010,"São Paulo e Região, Brasil",Estagiária em Desenvolvimento de Negócios,69,01 de 2009,12 de 2010,False,2009,2010,2009-01-01,2010-12-01,24
+319,Trojan Technologies,jul de 2017 – set de 2017,"Belo Horizonte e Região, Brasil",Sales Operations Analyst,70,07 de 2017,09 de 2017,True,2017,2017,2017-07-01,2017-09-01,3
+320,Trojan Technologies,fev de 2017 – jul de 2017,"Belo Horizonte e Região, Brasil",Customer Success Coordinator,70,02 de 2017,07 de 2017,False,2017,2017,2017-02-01,2017-07-01,6
+321,Trojan Technologies,jun de 2016 – jan de 2017,,Customer Success,70,06 de 2016,01 de 2017,False,2016,2017,2016-06-01,2017-01-01,8
+323,Any Company,fev de 2017 – set de 2017,"Belo Horizonte e Região, Brasil",English Teacher,71,02 de 2017,09 de 2017,False,2017,2017,2017-02-01,2017-09-01,8
+324,Trojan Technologies,nov de 2016 – set de 2017,,Estagiária de marketing,71,11 de 2016,09 de 2017,True,2016,2017,2016-11-01,2017-09-01,11
+325,Any Company,ago de 2016 – nov de 2016,,Auxiliar de Mídias de Performance,71,08 de 2016,11 de 2016,False,2016,2016,2016-08-01,2016-11-01,4
+326,Any Company,mar de 2015 – ago de 2016,,Estagiário de marketing,71,03 de 2015,08 de 2016,False,2015,2016,2015-03-01,2016-08-01,18
+327,Any Company,mar de 2015 – ago de 2016,"Belo Horizonte e Região, Brasil",Estagiário de marketing,71,03 de 2015,08 de 2016,False,2015,2016,2015-03-01,2016-08-01,18
+328,Trojan Technologies,ago de 2015 – set de 2017,"Belo Horizonte e Região, Brasil",Coordenador de marketing,72,08 de 2015,09 de 2017,True,2015,2017,2015-08-01,2017-09-01,26
+329,Any Company,fev de 2014 – ago de 2015,"Campinas e Região, Brasil",Consultor de Comunicação e Marketing,72,02 de 2014,08 de 2015,False,2014,2015,2014-02-01,2015-08-01,19
+330,Any Company,ago de 2014 – mar de 2015,"Campinas e Região, Brasil",Professor,72,08 de 2014,03 de 2015,False,2014,2015,2014-08-01,2015-03-01,8
+331,Any Company,out de 2013 – nov de 2014,"São Paulo e Região, Brasil",Consultor de Comunicação e Marketing,72,10 de 2013,11 de 2014,False,2013,2014,2013-10-01,2014-11-01,14
+332,Any Company,ago de 2012 – jan de 2014,Chile/Brasil,Consultor de Comunicação e Marketing,72,08 de 2012,01 de 2014,False,2012,2014,2012-08-01,2014-01-01,18
+333,Any Company,ago de 2017 – set de 2017,,Writer,73,08 de 2017,09 de 2017,False,2017,2017,2017-08-01,2017-09-01,2
+334,Trojan Technologies,out de 2016 – set de 2017,,Android Developer,73,10 de 2016,09 de 2017,True,2016,2017,2016-10-01,2017-09-01,12
+335,Trojan Technologies,mar de 2017 – set de 2017,"São Paulo Area, Brazil",Commercial,74,03 de 2017,09 de 2017,True,2017,2017,2017-03-01,2017-09-01,7
+336,Any Company,abr de 2016 – fev de 2017,"São Paulo e Região, Brasil",Commercial,74,04 de 2016,02 de 2017,False,2016,2017,2016-04-01,2017-02-01,11
+338,Any Company,abr de 2013 – dez de 2015,São Paulo,Commercial/Key Account Manager,74,04 de 2013,12 de 2015,False,2013,2015,2013-04-01,2015-12-01,33
+341,Any Company,out de 2010 – mar de 2013,"São Paulo e Região, Brasil",Account Executive,74,10 de 2010,03 de 2013,False,2010,2013,2010-10-01,2013-03-01,30
+342,Any Company,mar de 2010 – out de 2010,"São Paulo e Região, Brasil",Marketing/Merchandising Junior Analyst of Fragrance,74,03 de 2010,10 de 2010,False,2010,2010,2010-03-01,2010-10-01,8
+343,Trojan Technologies,fev de 2017 – set de 2017,"Varginha e Região, Brasil",Gerente de operações,75,02 de 2017,09 de 2017,True,2017,2017,2017-02-01,2017-09-01,8
+344,Any Company,abr de 2013 – set de 2017,"Belo Horizonte e Região, Brasil",Gerente Comercial e de Novos Negócios,75,04 de 2013,09 de 2017,False,2013,2017,2013-04-01,2017-09-01,54
+345,Any Company,mai de 2012 – abr de 2013,"Belém, PA",Commercial Manager,75,05 de 2012,04 de 2013,False,2012,2013,2012-05-01,2013-04-01,12
+346,Any Company,out de 2011 – jun de 2012,,Gerente Comercial Regional Norte,75,10 de 2011,06 de 2012,False,2011,2012,2011-10-01,2012-06-01,9
+347,Any Company,jul de 2007 – set de 2011,"Belo Horizonte e Região, Brasil",Executivo de Contas,75,07 de 2007,09 de 2011,False,2007,2011,2007-07-01,2011-09-01,51
+348,Trojan Technologies,out de 2016 – set de 2017,"Varginha e Região, Brasil",Trade Marketing,76,10 de 2016,09 de 2017,True,2016,2017,2016-10-01,2017-09-01,12
+349,Any Company,jun de 2015 – out de 2016,"Três Corações e Região, Brasil",Analista de logística,76,06 de 2015,10 de 2016,False,2015,2016,2015-06-01,2016-10-01,17
+350,Trojan Technologies,mar de 2016 – set de 2017,São Paulo e Belo Horizonte,Key Account Manager,77,03 de 2016,09 de 2017,True,2016,2017,2016-03-01,2017-09-01,19
+351,Any Company,ago de 2014 – jan de 2016,São Paulo,Account Manager,77,08 de 2014,01 de 2016,False,2014,2016,2014-08-01,2016-01-01,18
+352,Any Company,nov de 2011 – abr de 2014,São Paulo,Executiva de Negocios E-commerce,77,11 de 2011,04 de 2014,False,2011,2014,2011-11-01,2014-04-01,30
+353,Any Company,jan de 2011 – out de 2011,,Executiva de Contas Jr.,77,01 de 2011,10 de 2011,False,2011,2011,2011-01-01,2011-10-01,10
+354,Trojan Technologies,out de 2016 – set de 2017,"Belo Horizonte e Região, Brasil",Head of Product Design - UXP,78,10 de 2016,09 de 2017,True,2016,2017,2016-10-01,2017-09-01,12
+355,Any Company,abr de 2014 – set de 2016,"São Paulo Area, Brazil",User Experience Manager LATAM,78,04 de 2014,09 de 2016,False,2014,2016,2014-04-01,2016-09-01,30
+356,Any Company,ago de 2012 – mar de 2014,"São Paulo e Região, Brasil",User Experience Lead LATAM,78,08 de 2012,03 de 2014,False,2012,2014,2012-08-01,2014-03-01,20
+357,Any Company,ago de 2008 – ago de 2012,,User Experience Manager,78,08 de 2008,08 de 2012,False,2008,2012,2008-08-01,2012-08-01,49
+358,Any Company,jul de 2003 – ago de 2008,,Coordenador de Webdesign,78,07 de 2003,08 de 2008,False,2003,2008,2003-07-01,2008-08-01,62
+359,Trojan Technologies,fev de 2017 – set de 2017,"Manaus e Região, Brasil",Lead Software Developer,79,02 de 2017,09 de 2017,True,2017,2017,2017-02-01,2017-09-01,8
+360,Any Company,out de 2014 – jan de 2017,"Manaus Area, Brazil",iOS Teacher and Developer,79,10 de 2014,01 de 2017,False,2014,2017,2014-10-01,2017-01-01,28
+361,Any Company,ago de 2010 – jan de 2017,"Manaus e Região, Brasil",Teacher,79,08 de 2010,01 de 2017,False,2010,2017,2010-08-01,2017-01-01,78
+362,Any Company,jan de 2013 – set de 2014,"Manaus e Região, Brasil",Software Developer,79,01 de 2013,09 de 2014,False,2013,2014,2013-01-01,2014-09-01,21
+363,Any Company,jun de 2008 – jun de 2010,"Manaus e Região, Brasil",Trainee,79,06 de 2008,06 de 2010,False,2008,2010,2008-06-01,2010-06-01,25
+364,Trojan Technologies,out de 2016 – set de 2017,"Manaus e Região, Brasil",Software Test Developer II,80,10 de 2016,09 de 2017,True,2016,2017,2016-10-01,2017-09-01,12
+365,Any Company,fev de 2014 – mar de 2016,,Test Developer II,80,02 de 2014,03 de 2016,False,2014,2016,2014-02-01,2016-03-01,26
+366,Any Company,dez de 2013 – fev de 2014,,Analista de Teste Pleno,80,12 de 2013,02 de 2014,False,2013,2014,2013-12-01,2014-02-01,3
+367,Any Company,mar de 2013 – nov de 2013,"Manaus e Região, Brasil",Analista de Teste Junior,80,03 de 2013,11 de 2013,False,2013,2013,2013-03-01,2013-11-01,9
+368,Any Company,set de 2012 – fev de 2013,,Test Developer Trainee,80,09 de 2012,02 de 2013,False,2012,2013,2012-09-01,2013-02-01,6
+369,Trojan Technologies,out de 2016 – set de 2017,"Belo Horizonte e Região, Brasil",Finance Director,81,10 de 2016,09 de 2017,True,2016,2017,2016-10-01,2017-09-01,12
+370,Any Company,fev de 2016 – nov de 2016,"Rio de Janeiro and São Paulo Area, Brazil",Entrepreneur,81,02 de 2016,11 de 2016,False,2016,2016,2016-02-01,2016-11-01,10
+371,Any Company,fev de 2016 – nov de 2016,"Rio de Janeiro and São Paulo Area, Brazil",Country Manager,81,02 de 2016,11 de 2016,False,2016,2016,2016-02-01,2016-11-01,10
+372,Any Company,mai de 2014 – jun de 2015,,Credit Analyst,81,05 de 2014,06 de 2015,False,2014,2015,2014-05-01,2015-06-01,14
+373,Any Company,set de 2012 – mai de 2014,,Asset Management,81,09 de 2012,05 de 2014,False,2012,2014,2012-09-01,2014-05-01,21
+374,Trojan Technologies,jul de 2017 – set de 2017,"Manaus e Região, Brasil",Desenvolvedor Jr,82,07 de 2017,09 de 2017,True,2017,2017,2017-07-01,2017-09-01,3
+375,Any Company,jan de 2017 – jun de 2017,"Av. Efigênio Salles, 1155 - Aleixo, Manaus - AM, 69057-050",Estagiário de computação,82,01 de 2017,06 de 2017,False,2017,2017,2017-01-01,2017-06-01,6
+376,Any Company,mai de 2016 – fev de 2017,"Av. Brasil, Nº 2971 - Compensa - Cep – 69036-110",Estagiário de computação,82,05 de 2016,02 de 2017,False,2016,2017,2016-05-01,2017-02-01,10
+377,Any Company,mar de 2015 – fev de 2016,,Aluno do projeto Bepid,82,03 de 2015,02 de 2016,False,2015,2016,2015-03-01,2016-02-01,12
+378,Any Company,out de 2013 – mai de 2015,,Estagiário desenvolvedor,82,10 de 2013,05 de 2015,False,2013,2015,2013-10-01,2015-05-01,20
+379,Trojan Technologies,fev de 2017 – set de 2017,"Manaus e Região, Brasil",Desenvolvedor Junior,83,02 de 2017,09 de 2017,True,2017,2017,2017-02-01,2017-09-01,8
+380,Any Company,nov de 2016 – jan de 2017,,Estagiáro,83,11 de 2016,01 de 2017,False,2016,2017,2016-11-01,2017-01-01,3
+381,Any Company,mar de 2013 – out de 2013,,Estagiário de Desenvolvimento,83,03 de 2013,10 de 2013,False,2013,2013,2013-03-01,2013-10-01,8
+382,Trojan Technologies,out de 2016 – set de 2017,Manaus,Desenvolvedor Pleno I,84,10 de 2016,09 de 2017,True,2016,2017,2016-10-01,2017-09-01,12
+383,Any Company,abr de 2014 – jul de 2016,Icomp,Mestre em Informática,84,04 de 2014,07 de 2016,False,2014,2016,2014-04-01,2016-07-01,28
+384,Any Company,dez de 2011 – mar de 2013,"Manaus e Região, Brasil",Estagiário,84,12 de 2011,03 de 2013,False,2011,2013,2011-12-01,2013-03-01,16
+385,Trojan Technologies,abr de 2017 – set de 2017,"Manaus, Amazonas",iOS Developer,85,04 de 2017,09 de 2017,True,2017,2017,2017-04-01,2017-09-01,6
+386,Any Company,mar de 2015 – fev de 2016,"Manaus, Amazonas",iOS Developer,85,03 de 2015,02 de 2016,False,2015,2016,2015-03-01,2016-02-01,12
+387,Any Company,fev de 2014 – out de 2015,"Manaus, Amazonas",Estagiário de TI,85,02 de 2014,10 de 2015,False,2014,2015,2014-02-01,2015-10-01,21
+388,Any Company,fev de 2012 – fev de 2014,"Manaus, Amazonas",Aprendiz de TI,85,02 de 2012,02 de 2014,False,2012,2014,2012-02-01,2014-02-01,25
+389,Trojan Technologies,out de 2016 – set de 2017,"Manaus e Região, Brasil",Software Developer,86,10 de 2016,09 de 2017,True,2016,2017,2016-10-01,2017-09-01,12
+390,Any Company,abr de 2014 – abr de 2016,"Manaus e Região, Brasil",M.Sc. Student,86,04 de 2014,04 de 2016,False,2014,2016,2014-04-01,2016-04-01,25
+391,Any Company,ago de 2012 – mar de 2014,"Manaus e Região, Brasil",Systems Analyst,86,08 de 2012,03 de 2014,False,2012,2014,2012-08-01,2014-03-01,20
+392,Any Company,abr de 2012 – ago de 2012,"Manaus e Região, Brasil",Informatics Analyst,86,04 de 2012,08 de 2012,False,2012,2012,2012-04-01,2012-08-01,5
+393,Any Company,jun de 2010 – mar de 2012,"Manaus e Região, Brasil",Information Technology Support Specialist,86,06 de 2010,03 de 2012,False,2010,2012,2010-06-01,2012-03-01,22
+394,Trojan Technologies,out de 2016 – set de 2017,Brazil,Desenvolvedora de Software,87,10 de 2016,09 de 2017,True,2016,2017,2016-10-01,2017-09-01,12
+395,Trojan Technologies,out de 2016 – set de 2017,,Software Developer,88,10 de 2016,09 de 2017,True,2016,2017,2016-10-01,2017-09-01,12
+396,Any Company,out de 2015 – mar de 2016,Alvorada,Desenvolvedora,88,10 de 2015,03 de 2016,False,2015,2016,2015-10-01,2016-03-01,6
+397,Any Company,mar de 2013 – ago de 2013,Vieiralves,Estagiária de TI,88,03 de 2013,08 de 2013,False,2013,2013,2013-03-01,2013-08-01,6
+398,Trojan Technologies,mar de 2017 – set de 2017,"Belo Horizonte e Região, Brasil",Time de Expansão Local,89,03 de 2017,09 de 2017,True,2017,2017,2017-03-01,2017-09-01,7
+399,Any Company,dez de 2014 – jun de 2015,,Conselheiro Fiscal,89,12 de 2014,06 de 2015,False,2014,2015,2014-12-01,2015-06-01,7
+400,Any Company,nov de 2013 – dez de 2014,,Assessor de Administrativo Financeiro,89,11 de 2013,12 de 2014,False,2013,2014,2013-11-01,2014-12-01,14
+401,Trojan Technologies,mar de 2016 – set de 2017,"Belo Horizonte e Região, Brasil",Data Engineer BI and Data Analyst,90,03 de 2016,09 de 2017,True,2016,2017,2016-03-01,2017-09-01,19
+402,Any Company,set de 2015 – fev de 2016,,Especialista em Arquitetura de Soluções,90,09 de 2015,02 de 2016,False,2015,2016,2015-09-01,2016-02-01,6
+403,Any Company,set de 2014 – fev de 2016,"Alphaville-Barueri,SP",Especialista em TI,90,09 de 2014,02 de 2016,False,2014,2016,2014-09-01,2016-02-01,18
+404,Any Company,mai de 2013 – ago de 2014,Alphaville-Barueri-SP,Gerente de Projetos,90,05 de 2013,08 de 2014,False,2013,2014,2013-05-01,2014-08-01,16
+405,Any Company,fev de 2011 – fev de 2013,,Gerente de Desenvolvimento de Sistemas,90,02 de 2011,02 de 2013,False,2011,2013,2011-02-01,2013-02-01,25
+406,Trojan Technologies,jun de 2017 – set de 2017,"Belo Horizonte e Região, Brasil",Especialista em Marketing de Performance,91,06 de 2017,09 de 2017,True,2017,2017,2017-06-01,2017-09-01,4
+407,Any Company,nov de 2016 – jun de 2017,"Belo Horizonte e Região, Brasil",Coordenador SEO e Mídia,91,11 de 2016,06 de 2017,False,2016,2017,2016-11-01,2017-06-01,8
+408,Any Company,abr de 2016 – nov de 2016,"Belo Horizonte e Região, Brasil",Analista SEO e Mídia,91,04 de 2016,11 de 2016,False,2016,2016,2016-04-01,2016-11-01,8
+409,Any Company,jan de 2015 – abr de 2016,,Coordenador SEO e PPC,91,01 de 2015,04 de 2016,False,2015,2016,2015-01-01,2016-04-01,16
+410,Any Company,mai de 2014 – jan de 2015,"Belo Horizonte e Região, Brasil",Analista SEO e PPC,91,05 de 2014,01 de 2015,False,2014,2015,2014-05-01,2015-01-01,9
+411,Trojan Technologies,ago de 2014 – set de 2017,,Analista de Atendimento,92,08 de 2014,09 de 2017,True,2014,2017,2014-08-01,2017-09-01,38
+412,Trojan Technologies,jan de 2014 – ago de 2014,"Belo Horizonte e Região, Brasil",Commercial Manager,92,01 de 2014,08 de 2014,False,2014,2014,2014-01-01,2014-08-01,8
+413,Trojan Technologies,mar de 2013 – jan de 2014,"Belo Horizonte e Região, Brasil",Digital Marketing Intern,92,03 de 2013,01 de 2014,False,2013,2014,2013-03-01,2014-01-01,11
+414,Trojan Technologies,mar de 2017 – set de 2017,"Belo Horizonte, Minas Gerais",Executivo de vendas,93,03 de 2017,09 de 2017,True,2017,2017,2017-03-01,2017-09-01,7
+415,Any Company,fev de 2015 – mar de 2017,"Belo Horizonte, Minas Gerais",Gestora Comercial,93,02 de 2015,03 de 2017,False,2015,2017,2015-02-01,2017-03-01,26
+416,Any Company,nov de 2003 – jul de 2014,,Gerente Territorial Lojas Proprias,93,11 de 2003,07 de 2014,False,2003,2014,2003-11-01,2014-07-01,129
+417,Any Company,mar de 2000 – nov de 2003,,Supervisora de Marketing,93,03 de 2000,11 de 2003,False,2000,2003,2000-03-01,2003-11-01,45
+418,Trojan Technologies,abr de 2017 – set de 2017,"São Paulo e Região, Brasil",Head Of Sales,94,04 de 2017,09 de 2017,True,2017,2017,2017-04-01,2017-09-01,6
+419,Any Company,mar de 2013 – set de 2017,"São Paulo e Região, Brasil",Sócio Executivo,94,03 de 2013,09 de 2017,False,2013,2017,2013-03-01,2017-09-01,55
+420,Any Company,fev de 2011 – fev de 2013,"São Paulo e Região, Brasil",Coordenador de vendas,94,02 de 2011,02 de 2013,False,2011,2013,2011-02-01,2013-02-01,25
+421,Any Company,jun de 2010 – jan de 2011,"São Paulo e Região, Brasil",Representante de vendas,94,06 de 2010,01 de 2011,False,2010,2011,2010-06-01,2011-01-01,8
+422,Any Company,jun de 2007 – jun de 2010,,Executivo de vendas,94,06 de 2007,06 de 2010,False,2007,2010,2007-06-01,2010-06-01,37
+423,Trojan Technologies,ago de 2017 – set de 2017,"Belo Horizonte Area, Brazil",Head Of Strategy,95,08 de 2017,09 de 2017,True,2017,2017,2017-08-01,2017-09-01,2
+424,Any Company,dez de 2016 – ago de 2017,"São Paulo e Região, Brasil",Associate,95,12 de 2016,08 de 2017,False,2016,2017,2016-12-01,2017-08-01,9
+425,Any Company,jan de 2015 – dez de 2016,"São Paulo e Região, Brasil",Business Analyst,95,01 de 2015,12 de 2016,False,2015,2016,2015-01-01,2016-12-01,24
+426,Any Company,mar de 2014 – dez de 2014,"Belo Horizonte e Região, Brasil",Trainee,95,03 de 2014,12 de 2014,False,2014,2014,2014-03-01,2014-12-01,10
+427,Any Company,set de 2013 – fev de 2014,"Aulnoye-Aymeries, France",Expatriate Intern,95,09 de 2013,02 de 2014,False,2013,2014,2013-09-01,2014-02-01,6
+428,Trojan Technologies,jun de 2017 – set de 2017,,Business Developer + Product Manager,96,06 de 2017,09 de 2017,True,2017,2017,2017-06-01,2017-09-01,4
+429,Any Company,mai de 2017 – set de 2017,,Board Member,96,05 de 2017,09 de 2017,False,2017,2017,2017-05-01,2017-09-01,5
+430,Any Company,2012 – set de 2017,,Founder and CEO,96,01 de 2012,09 de 2017,False,2012,2017,2012-01-01,2017-09-01,69
+431,Any Company,2010 – jun de 2013,"São Paulo Area, Brazil",Co-founder & CTO | Brazil,96,01 de 2010,06 de 2013,False,2010,2013,2010-01-01,2013-06-01,42
+432,Any Company,set de 2009 – 2013,,Partner,96,09 de 2009,01 de 2013,False,2009,2013,2009-09-01,2013-01-01,41
+433,Trojan Technologies,mar de 2017 – set de 2017,"São Paulo e Região, Brasil",Executivo Comercial Senior,97,03 de 2017,09 de 2017,True,2017,2017,2017-03-01,2017-09-01,7
+434,Any Company,fev de 2015 – mar de 2017,São Paulo,Senior Executive Account Manager,97,02 de 2015,03 de 2017,False,2015,2017,2015-02-01,2017-03-01,26
+435,Any Company,dez de 2013 – jan de 2015,Santo André,Consultor de vendas sênior,97,12 de 2013,01 de 2015,False,2013,2015,2013-12-01,2015-01-01,14
+436,Any Company,abr de 2011 – dez de 2013,"São Paulo e Região, Brasil",Consultor de Vendas,97,04 de 2011,12 de 2013,False,2011,2013,2011-04-01,2013-12-01,33
+437,Any Company,jun de 2005 – jan de 2011,"Dourados e Região, Brasil",Gerente comercial,97,06 de 2005,01 de 2011,False,2005,2011,2005-06-01,2011-01-01,68
+438,Trojan Technologies,mai de 2017 – set de 2017,,Inside Sales,98,05 de 2017,09 de 2017,True,2017,2017,2017-05-01,2017-09-01,5
+439,Any Company,abr de 2017 – jul de 2017,"Belo Horizonte e Região, Brasil",Gerente de Estágios Profissionais Corporativos,98,04 de 2017,07 de 2017,False,2017,2017,2017-04-01,2017-07-01,4
+440,Any Company,2016 – abr de 2017,,President,98,01 de 2016,04 de 2017,False,2016,2017,2016-01-01,2017-04-01,16
+441,Any Company,2016 – 2017,,Research And Development Intern,98,01 de 2016,01 de 2017,False,2016,2017,2016-01-01,2017-01-01,13
+442,Any Company,dez de 2015 – ago de 2016,,Event Manager,98,12 de 2015,08 de 2016,False,2015,2016,2015-12-01,2016-08-01,9
+443,Trojan Technologies,2017 – set de 2017,"Rio de Janeiro Area, Brazil",Gerente Regional Rio de Janeiro,99,01 de 2017,09 de 2017,True,2017,2017,2017-01-01,2017-09-01,9
+444,Any Company,jan de 2011 – set de 2017,,Coordenadora Comercial Regional,99,01 de 2011,09 de 2017,False,2011,2017,2011-01-01,2017-09-01,81
+445,Any Company,abr de 2006 – abr de 2011,,Manager,99,04 de 2006,04 de 2011,False,2006,2011,2006-04-01,2011-04-01,61
+446,Any Company,mar de 2005 – mar de 2006,,Manager,99,03 de 2005,03 de 2006,False,2005,2006,2005-03-01,2006-03-01,13
+447,Any Company,out de 1996 – fev de 2005,,Manager,99,10 de 1996,02 de 2005,False,1996,2005,1996-10-01,2005-02-01,101
+448,Trojan Technologies,mar de 2017 – set de 2017,"São Paulo e Região, Brasil",Coordenador Comercial,100,03 de 2017,09 de 2017,True,2017,2017,2017-03-01,2017-09-01,7
+450,Any Company,jul de 2011 – set de 2017,"São Paulo e Região, Brasil",Owner and founder,100,07 de 2011,09 de 2017,False,2011,2017,2011-07-01,2017-09-01,75
+452,Any Company,ago de 2015 – mar de 2017,"São Paulo e Região, Brasil",Executivo Comercial | Commercial Executive | Hunter,100,08 de 2015,03 de 2017,False,2015,2017,2015-08-01,2017-03-01,20
+454,Any Company,ago de 2013 – ago de 2015,"São Paulo e Região, Brasil",CEO & Co-founder (Startup MEDGEST),100,08 de 2013,08 de 2015,False,2013,2015,2013-08-01,2015-08-01,25
+455,Any Company,dez de 2012 – ago de 2013,"São Paulo e Região, Brasil",Gerente de Negócios | Business Manager (Head of Sales | Startup MEDGEST),100,12 de 2012,08 de 2013,False,2012,2013,2012-12-01,2013-08-01,9
+456,Trojan Technologies,fev de 2017 – set de 2017,"São Paulo e Região, Brasil",Gerente comercial Sao Paulo,101,02 de 2017,09 de 2017,True,2017,2017,2017-02-01,2017-09-01,8
+457,Any Company,set de 2015 – set de 2017,,City Manager Senior,101,09 de 2015,09 de 2017,False,2015,2017,2015-09-01,2017-09-01,25
+458,Any Company,out de 2013 – set de 2017,,"City Manager SP Zona N/L, Alphaville e Grande ABC",101,10 de 2013,09 de 2017,False,2013,2017,2013-10-01,2017-09-01,48
+459,Any Company,ago de 2013 – nov de 2013,,Supervisor Comercial,101,08 de 2013,11 de 2013,False,2013,2013,2013-08-01,2013-11-01,4
+460,Any Company,jan de 2011 – set de 2013,,Executivo de Contas Sênior,101,01 de 2011,09 de 2013,False,2011,2013,2011-01-01,2013-09-01,33
+461,Trojan Technologies,fev de 2017 – set de 2017,"São Paulo e Região, Brasil",Executiva de Contas,102,02 de 2017,09 de 2017,True,2017,2017,2017-02-01,2017-09-01,8
+462,Any Company,jun de 2014 – fev de 2017,"São Paulo e Região, Brasil",Executiva de Contas Hunter,102,06 de 2014,02 de 2017,False,2014,2017,2014-06-01,2017-02-01,33
+463,Any Company,jan de 2013 – out de 2014,Santo André,Corretor imobiliário,102,01 de 2013,10 de 2014,False,2013,2014,2013-01-01,2014-10-01,22
+464,Any Company,dez de 2008 – dez de 2012,São Bernardo do Campo,Administrador de clínica médica,102,12 de 2008,12 de 2012,False,2008,2012,2008-12-01,2012-12-01,49
+465,Trojan Technologies,2017 – set de 2017,"Brasília e Região, Brasil",Gerente Comercial e Operações Regional Centro-Oeste,103,01 de 2017,09 de 2017,True,2017,2017,2017-01-01,2017-09-01,9
+466,Any Company,mai de 2011 – mar de 2017,Brasília,Executiva de Contas,103,05 de 2011,03 de 2017,False,2011,2017,2011-05-01,2017-03-01,71
+467,Any Company,out de 2010 – mai de 2011,Santa Catarina,Executiva de Contas,103,10 de 2010,05 de 2011,False,2010,2011,2010-10-01,2011-05-01,8
+468,Any Company,dez de 2005 – nov de 2010,"Brasília e Região, Brasil",Gerente Comercial,103,12 de 2005,11 de 2010,False,2005,2010,2005-12-01,2010-11-01,60
+469,Any Company,dez de 2008 – jul de 2009,Santa Catarina - Balneário Camboriú,Diretora de TV - Programa Atitude Positiva - Produção independente,103,12 de 2008,07 de 2009,False,2008,2009,2008-12-01,2009-07-01,8
+470,Trojan Technologies,mar de 2017 – set de 2017,"São Paulo Area, Brazil",Sales Executive,104,03 de 2017,09 de 2017,True,2017,2017,2017-03-01,2017-09-01,7
+471,Any Company,ago de 2015 – ago de 2016,"São Paulo Area, Brazil",Especialista de Planejamento,104,08 de 2015,08 de 2016,False,2015,2016,2015-08-01,2016-08-01,13
+472,Any Company,mai de 2015 – ago de 2015,"São Paulo e Região, Brasil",Especialista de Planejamento,104,05 de 2015,08 de 2015,False,2015,2015,2015-05-01,2015-08-01,4
+473,Any Company,abr de 2010 – mai de 2015,,Consultor,104,04 de 2010,05 de 2015,False,2010,2015,2010-04-01,2015-05-01,62
+474,Any Company,jan de 2007 – mar de 2007,"West Palm Beach, Florida Area",Vendedor,104,01 de 2007,03 de 2007,False,2007,2007,2007-01-01,2007-03-01,3
+475,Trojan Technologies,jul de 2017 – set de 2017,"Manaus Area, Brazil",Software Architect,105,07 de 2017,09 de 2017,True,2017,2017,2017-07-01,2017-09-01,3
+476,Any Company,set de 2013 – jul de 2017,"Manaus e Região, Brasil",System Analyst,105,09 de 2013,07 de 2017,False,2013,2017,2013-09-01,2017-07-01,47
+477,Any Company,abr de 2011 – ago de 2013,Manaus,Analista Desenvolvedor,105,04 de 2011,08 de 2013,False,2011,2013,2011-04-01,2013-08-01,29
+478,Any Company,nov de 2008 – mai de 2010,,Web Developer,105,11 de 2008,05 de 2010,False,2008,2010,2008-11-01,2010-05-01,19
+479,Any Company,2010 – 2010,,Developer,105,01 de 2010,01 de 2010,False,2010,2010,2010-01-01,2010-01-01,1
+480,Trojan Technologies,mar de 2017 – set de 2017,"São Paulo e Região, Brasil",Executivo de vendas,106,03 de 2017,09 de 2017,True,2017,2017,2017-03-01,2017-09-01,7
+481,Any Company,jun de 2016 – fev de 2017,São Paulo,Executive Sales,106,06 de 2016,02 de 2017,False,2016,2017,2016-06-01,2017-02-01,9
+482,Any Company,jan de 2014 – jan de 2015,,Coordenadora de operações,106,01 de 2014,01 de 2015,False,2014,2015,2014-01-01,2015-01-01,13
+483,Any Company,mai de 2010 – mar de 2014,,Large Accounts Supervisor,106,05 de 2010,03 de 2014,False,2010,2014,2010-05-01,2014-03-01,47
+484,Any Company,mai de 2009 – mai de 2010,"São Paulo, São Paulo",Executive Sales,106,05 de 2009,05 de 2010,False,2009,2010,2009-05-01,2010-05-01,13
+485,Trojan Technologies,jun de 2017 – set de 2017,"São Paulo e Região, Brasil",Analista de marketing,107,06 de 2017,09 de 2017,True,2017,2017,2017-06-01,2017-09-01,4
+486,Trojan Technologies,abr de 2017 – jun de 2017,"São Paulo e Região, Brasil",Estagiário,107,04 de 2017,06 de 2017,False,2017,2017,2017-04-01,2017-06-01,3
+487,Any Company,nov de 2016 – abr de 2017,"São Paulo e Região, Brasil",Assistente de vendas,107,11 de 2016,04 de 2017,False,2016,2017,2016-11-01,2017-04-01,6
+488,Any Company,out de 2015 – jun de 2016,,Analista de Relacionamento com Parceiros - Pleno,107,10 de 2015,06 de 2016,False,2015,2016,2015-10-01,2016-06-01,9
+489,Any Company,fev de 2015 – set de 2015,,Analista de Relacionamento com Parceiros - Júnior,107,02 de 2015,09 de 2015,False,2015,2015,2015-02-01,2015-09-01,8
+491,Trojan Technologies,mar de 2017 – set de 2017,"Porto Alegre, Rio Grande do Sul",Gerente Regional Sul,109,03 de 2017,09 de 2017,True,2017,2017,2017-03-01,2017-09-01,7
+492,Any Company,nov de 2016 – mar de 2017,Rio Grande do Sul,Regional Manager,109,11 de 2016,03 de 2017,False,2016,2017,2016-11-01,2017-03-01,5
+493,Any Company,jan de 2016 – nov de 2016,"Porto Alegre e Região, Brasil",Head of Inside Sales Latam,109,01 de 2016,11 de 2016,False,2016,2016,2016-01-01,2016-11-01,11
+494,Any Company,out de 2014 – jan de 2016,Chile y Peru,Gerente General,109,10 de 2014,01 de 2016,False,2014,2016,2014-10-01,2016-01-01,16
+495,Any Company,jun de 2013 – out de 2014,,Country Manager - Chile - CL,109,06 de 2013,10 de 2014,False,2013,2014,2013-06-01,2014-10-01,17
+496,Trojan Technologies,fev de 2017 – set de 2017,,Software Developer,110,02 de 2017,09 de 2017,True,2017,2017,2017-02-01,2017-09-01,8
