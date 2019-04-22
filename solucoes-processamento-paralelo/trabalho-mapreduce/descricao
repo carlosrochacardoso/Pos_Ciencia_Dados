@@ -1,0 +1,8 @@
+Trabalho Map Reduce - Estudo de caso Base de autores e obras
+
+Todos os detalhes estão na apostila na pág.: 89.
+O trabalho pode ser feito em Dupla
+Entregue a implementação em Python(similar ao que foi feito em Laboratório)
+E responda quais são as duas palavras que mais acontecem para os seguintes autores:
+a- “Grzerorz Rozenberg”
+b- “Philip S. Yu”
