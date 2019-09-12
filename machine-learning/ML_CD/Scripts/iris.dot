@@ -1,0 +1,37 @@
+digraph Tree {
+node [shape=box, style="filled, rounded", color="black", fontname=helvetica] ;
+edge [fontname=helvetica] ;
+0 [label="petal width (cm) <= 0.8\ngini = 0.666\nsamples = 100.0%\nvalue = [0.339, 0.307, 0.354]\nclass = virginica", fillcolor="#8139e506"] ;
+1 [label="gini = 0.0\nsamples = 33.9%\nvalue = [1.0, 0.0, 0.0]\nclass = setosa", fillcolor="#e58139ff"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="petal width (cm) <= 1.75\ngini = 0.497\nsamples = 66.1%\nvalue = [0.0, 0.464, 0.536]\nclass = virginica", fillcolor="#8139e522"] ;
+0 -> 2 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+3 [label="petal length (cm) <= 4.95\ngini = 0.172\nsamples = 33.1%\nvalue = [0.0, 0.905, 0.095]\nclass = versicolor", fillcolor="#39e581e4"] ;
+2 -> 3 ;
+4 [label="petal width (cm) <= 1.65\ngini = 0.053\nsamples = 29.1%\nvalue = [0.0, 0.973, 0.027]\nclass = versicolor", fillcolor="#39e581f8"] ;
+3 -> 4 ;
+5 [label="gini = 0.0\nsamples = 28.3%\nvalue = [0.0, 1.0, 0.0]\nclass = versicolor", fillcolor="#39e581ff"] ;
+4 -> 5 ;
+6 [label="gini = 0.0\nsamples = 0.8%\nvalue = [0.0, 0.0, 1.0]\nclass = virginica", fillcolor="#8139e5ff"] ;
+4 -> 6 ;
+7 [label="petal width (cm) <= 1.55\ngini = 0.48\nsamples = 3.9%\nvalue = [0.0, 0.4, 0.6]\nclass = virginica", fillcolor="#8139e555"] ;
+3 -> 7 ;
+8 [label="gini = 0.0\nsamples = 1.6%\nvalue = [0.0, 0.0, 1.0]\nclass = virginica", fillcolor="#8139e5ff"] ;
+7 -> 8 ;
+9 [label="petal length (cm) <= 5.45\ngini = 0.444\nsamples = 2.4%\nvalue = [0.0, 0.667, 0.333]\nclass = versicolor", fillcolor="#39e5817f"] ;
+7 -> 9 ;
+10 [label="gini = 0.0\nsamples = 1.6%\nvalue = [0.0, 1.0, 0.0]\nclass = versicolor", fillcolor="#39e581ff"] ;
+9 -> 10 ;
+11 [label="gini = 0.0\nsamples = 0.8%\nvalue = [0.0, 0.0, 1.0]\nclass = virginica", fillcolor="#8139e5ff"] ;
+9 -> 11 ;
+12 [label="petal length (cm) <= 4.85\ngini = 0.046\nsamples = 33.1%\nvalue = [0.0, 0.024, 0.976]\nclass = virginica", fillcolor="#8139e5f9"] ;
+2 -> 12 ;
+13 [label="sepal width (cm) <= 3.1\ngini = 0.444\nsamples = 2.4%\nvalue = [0.0, 0.333, 0.667]\nclass = virginica", fillcolor="#8139e57f"] ;
+12 -> 13 ;
+14 [label="gini = 0.0\nsamples = 1.6%\nvalue = [0.0, 0.0, 1.0]\nclass = virginica", fillcolor="#8139e5ff"] ;
+13 -> 14 ;
+15 [label="gini = 0.0\nsamples = 0.8%\nvalue = [0.0, 1.0, 0.0]\nclass = versicolor", fillcolor="#39e581ff"] ;
+13 -> 15 ;
+16 [label="gini = 0.0\nsamples = 30.7%\nvalue = [0.0, 0.0, 1.0]\nclass = virginica", fillcolor="#8139e5ff"] ;
+12 -> 16 ;
+}
