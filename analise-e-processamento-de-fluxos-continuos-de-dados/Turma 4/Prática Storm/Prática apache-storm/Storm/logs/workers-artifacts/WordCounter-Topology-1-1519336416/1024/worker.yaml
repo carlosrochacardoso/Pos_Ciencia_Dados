@@ -1,0 +1,4 @@
+worker-id: 32e98280-dd35-42a6-9bc1-65e525e87f9d
+logs.users: []
+logs.groups: []
+topology.submitter.user: pkassio
