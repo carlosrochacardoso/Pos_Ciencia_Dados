@@ -1,0 +1,17 @@
+a1.sources =source1
+a1.sinks = sink1
+a1.channels = channel1
+
+a1.sources.source1.channels = channel1
+a1.sinks.sink1.channel = channel1 
+
+a1.sources.source1.type = spooldir
+a1.sources.source1.spoolDir  = /home/puc/apache-flume-1.8.0-bin/user-movies
+
+a1.channels.channel1.type = file 
+
+a1.sinks.sink1.type = org.apache.flume.sink.kafka.KafkaSink
+a1.sinks.sink1.topic = entrada-recomendacao
+a1.sinks.sink1.brokerList = localhost:9092
+a1.sinks.sink1.channel = channel1
+a1.sinks.sink1.batchSize = 20
